@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "29ac3c74-f3dc-4e67-9ca7-e86a6054a7f1": {
+      "label": "Language_Midlothian_CC_06272024",
+      "is_offline": false,
+      "file_url": "https://archive.org/details/language-midlothian-cc-06272024",
+      "duration": 4964
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Language_Midlothian_CC_06272024",
+  "created_at": "2024-11-22T16:21:51.540Z",
+  "created_by": "speaktexan",
+  "updated_at": "2024-11-22T16:21:51.540Z",
+  "updated_by": "speaktexan"
+}
