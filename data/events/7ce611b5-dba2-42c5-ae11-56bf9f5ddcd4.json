@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "9959ed39-de6f-46b8-8dec-4853601abb18": {
+      "label": "Language_Grapevine_JN_07082024",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/language-grapevine-jn-07082024/Language_Grapevine_JN_07082024.m4a",
+      "duration": 4077,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Grapevine_JN_07082024",
+  "created_at": "2024-12-01T22:11:20.130Z",
+  "created_by": "speaktexan",
+  "updated_at": "2024-12-01T22:11:20.130Z",
+  "updated_by": "speaktexan"
+}
