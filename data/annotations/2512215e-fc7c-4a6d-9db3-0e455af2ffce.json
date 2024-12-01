@@ -1,5 +1,2967 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is [INTERVIEWER NAME], Today is June 27th 2024. I am here in [COMMUNITY NAME] for an interview with one of our community members. Before we begin, I'd like to get verbal consent for the form we just went over. Could you please say I consent to being interviewed and audio recorded for the study. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "7b24d292-a582-4696-900f-83fcd5c0cbf2"
+    },
+    {
+      "start_time": 19,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I consent to being interviewed and recorded.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "680dc137-0d0e-4808-9a4a-22bd0a9df316"
+    },
+    {
+      "start_time": 22,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Perfect, thank you so much. So first off, can you tell me how you came to live here in [COMMUNITY NAME]? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "005301a0-5603-48e4-81d6-40d312e024c2"
+    },
+    {
+      "start_time": 27,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, my mom and dad, my mom was born in [COMMUNITY NAME]. And my dad was born in [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME]. And I've, we've just been here my whole life. We had a little farm out in the country. There's, you know, like say is born and raised. I'd Brothers, and we had a lot of land run around and play on and it was it was fun. Country living. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "45adab8e-b3e3-41aa-a1d2-1753f909c958"
+    },
+    {
+      "start_time": 61,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's awesome. So we go way back then here with this town. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "dd89a233-3c91-42bc-a9ed-d8f9c8797b17"
+    },
+    {
+      "start_time": 65,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh, yeah.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "34a10a17-2f21-48e8-aef7-e2fcd6ea1f5b"
+    },
+    {
+      "start_time": 66,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Perfect. And can you tell me a little bit more about this community? Like, if you met someone new and want to describe this town? How would you? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "2628e2f5-e81b-454e-8d92-cff00464d997"
+    },
+    {
+      "start_time": 73,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, well, today, it is changed drastically. Uh, today's standards, I would say, uh, it would be a really nice place to move to because, uh, we don't have real high crime rate. We don't have a lot of, um, gang activity in the schoolers little bit. Our police force stay on top of it. And the people in this town are just, um, they're getting a little bit [INAUDIBLE] we're so overcrowded now that you don't know, some of the people around you, your neighbors, but all of the neighbors that have moved in around us, that are from out of town been, been great people. I mean, they're, you know, nobody, nobody that, uh, you know, won't shoot or anything or have bad words with but you know, it's just, it's a laid back feeling. And it still has that small town, feel sometimes. And then other times you drive through the town and you realize that man is places bigger than [LAUGHS] it needs to be because and it is funny because people it's like we got we got a Walmart, and Kroger decided to go move in, put in a Kroger. And there were people in his town that were just absolutely raising all kinds of static about having another grocery store. And I mean, he goes, Hey, man is different. Good golly, give somebody else a choice. You know, not everybody likes to shop at Walmart or Brookshires. But, you know, it's just politics. [INAUDIBLE] a small town. But uh yeah, as far as living here. I lived in [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME], [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME], [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME]. Working with my job as a carpenter. And I stayed out. When I graduated high school, I thought to myself, Man, I will I want to get out of this one horse town. At that time, there was one red light in the middle of town. And I just don't I want to get out of this one horse town get to big city, and just not ever come back. And I moved. I lived in [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME] for a little while. I lived in [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME], [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME], lived in West [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME]. And then I moved back to [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME] and [CHUCKLES] I had a bullet come through my apartment, one night from three apartments down [CHUCKLES] and that kind of changed my mind and I need to get back to the country.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "e8062613-7050-4969-9446-5b7875907b51"
+    },
+    {
+      "start_time": 254,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[CHUCKLES]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "46f4e4a2-0351-472d-9678-5f2375cf70e8"
+    },
+    {
+      "start_time": 255,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somebody's gonna shoot me I wanted to know who it is,  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "39917aa5-a5a4-4121-9eee-bf8005794a44"
+    },
+    {
+      "start_time": 257,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[CHUCKLES]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "14c93b7d-83e0-4490-abe9-45e20bd2dd5c"
+    },
+    {
+      "start_time": 257,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and know that I probably deserved it. [LAUGHS] But it's just, uh, you know, it's, it's home. You know, uh, I used to live out in the country. And we moved into town. And, you know, it's still wherever you're at this. That's what I love about this. This town is that you just feel at home. You know, comfortable. It's a comfortable town. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "a798f43c-5d0c-45a9-9cc4-80f61e2bbd7e"
+    },
+    {
+      "start_time": 285,
+      "end_time": 301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely. That's great. And I've heard very similar sentiments from a lot of people. So being here for a while and even comparing it to some other places you lived like how would you say the community has changed? You spoke a little bit about that how much it's changed, recently especially.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "af5612f1-57dc-4485-a9e8-79d2fa033eb5"
+    },
+    {
+      "start_time": 301,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, well, doing, uh, the trim work and carpenter work. I used to work exclusively in [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME], and I worked, uh, in [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME] for years. And my son decided he wanted to open up a construction company, and wanted know if I'd work for him. Yeah, I'd worked for you no prob. And so we started, you know, it's just I drove to [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME]] for years fault to traffic, it was horrible. You know, the people I worked with were great. The company I worked for was great. But it's just it backed then it was it was an hour - hour and a half drive get to work. Now you can get there in 30 minutes because of highways. And, uh, it's just one of those, uh, I don't know, you know, it's, uh, I just got where I hated to drive. And like, say, my son, me and him started doing construction work. And we've just kind of he's built up a clientele centered around his town. And we have, uh, to whip through three big contractors that we work for and build trim houses for just here in this town and in we've got a real good contractor down in [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME] working out on, uh, the lake. And making this just in my son's got a real good reputation with all the, uh, uh, contractors. And, you know, we tell them, they say, Well, can you come do this for me over here and start this house, now, it's gonna be about three or four weeks, you're gonna have to get somebody else, and they tell us, we'll wait on you. And we know that we're a little more expensive. But I've seen, I've taught my son well. And he's a better carpenter than I am. And, as a parent, that's what you want for your kids, you want your kids to have a better life and be smarter than you. My son is, he's surpassed me long time ago. And I've got two boys, two girls. And boy, the boys were a lot easier than girls like, I still want to beat my head against the wall with my 20 year old.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "4ddcbc4f-d6be-4eb3-a0d2-a04f2a5a6fd7"
+    },
+    {
+      "start_time": 467,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "7a908d28-fdcf-4114-82bf-d64442dd3f4d"
+    },
+    {
+      "start_time": 467,
+      "end_time": 489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But now it's it's, uh, you know, things are just it's just a you know, it's it has changed. I mean, we had a population when I was in school, high school, we in round 5000 people. And I'd say now we probably got - what do you think honey - about 20,000.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "744f13a8-84d9-4399-bf5b-6b411ed71be2"
+    },
+    {
+      "start_time": 489,
+      "end_time": 493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More than that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant's Wife"
+        }
+      ],
+      "uuid": "d3327f27-2a2f-4d46-8df9-4388e2d4ec32"
+    },
+    {
+      "start_time": 493,
+      "end_time": 567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More than that, yeah, we got over probably probably closer to 30,000 people in our community. And reason being I think, is the fact that it is a rural community in a rural life. And that people are going to be attracted to that because like, say it's lower crime rate, lower, you know, there's, you know, there's areas crack houses around, and there's bad boys and bad girls. But I mean, our police department stays on top of it. And you know, it's it, they don't hang around very long. You know. So [INAUDIBLE], it's, it's a great place but a lot of changes. It was like say we used when I went to high school we had one red light right in the center of town. And it wasn't really a red light, it was a red flashing light this way, and a red flashing light this way, you just [CHUCKLES] wasn't even a red light, that make you stop and go was just you stopped. Let the car go when you go. And now there's probably a couple of 100 red lights. You know.Yea "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6ae5b6f5-ec7f-4e9d-b047-f52d2e44e42a"
+    },
+    {
+      "start_time": 567,
+      "end_time": 579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, a lot of change recently. I've seen so much myself in my short time here. So despite all this change, what would you say are still some of the greatest strengths here in this community? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0d308081-7540-4da6-8f72-af297e8902ac"
+    },
+    {
+      "start_time": 579,
+      "end_time": 741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some of the greatest strengths. Uh, I'd say the school system is probably one of it's greatest strengths that we've got a really good educational system in place and, uh,I know, when my boys and girls were growing up, uh, the teachers were very involved with us to let us know how our kids are doing in school. And you know, and it's in our school was is I mean, I've had some bad things happen in our school, we've had guns brought school been some lock downs and stuff, some bomb threats. But I mean, you get that anywhere you go. But here is just, you know, it's once in a blue moon. You know, if hardly ever does it happen, you know, and nothing bad has gone down. I mean, there's been a couple of kids that hurt yourselves, and things like that. But, you know, is, you know, I guess one of the other strengths is that we're, we've got three concrete companies that are around [COMMUNITY NAME], we got a steel plant, three concrete plants, there's all kinds of Mazda plant, you know, we've got a lot of business. And there's, it's a good economy here in this town. And, you know, people work hard, and they it's amazing is like me and my wife. You know, sometimes we can go buy product, it's one store, and a new business be opening up. And we will go there, even though it's a little more expensive, just to support and spread our money around the town so that everybody gets a little piece of the pie, not just go to the same store and get the same thing and you know, we, we switch it up and try to spread what little bit of money we do have around other, uh, businesses and you know and we take pride in that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "cfa6cafa-125a-4d57-b0a3-d7cb970718dc"
+    },
+    {
+      "start_time": 741,
+      "end_time": 750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excellent. That's very nice. Now that we've talked about some positives, you want to talk about some of the things that you think are negative about this community. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "e3e24db2-3ddc-4f9a-99bc-ee7161174872"
+    },
+    {
+      "start_time": 750,
+      "end_time": 974,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, man. Well, don't get me started on the city council. [LAUGHS] Some of our politicians are - how do I say this - a lot of our politicians are self serving. And they, we feel a lot of people in town feel like they're just looked for ways to spend our tax money. And I mean, it's like, you know, we're, we've always been a pretty meager town. And I know, we grow with the times. But I mean, you know, our, our little city hall and everything. They're building one now that is this huge building. And, you know, everybody's kind of going like, man, do we really need to city hall that big, but then it you know, it's a mixed bag being bad and good, because you're gonna get a huge city hall, the taxpayers are paying for it. But we've got a public library in it. And it's gonna be a big library, you know. And, you know, I think it's great because that gives people that hadn't got access to computers and stuff. And it gives them a chance to go in there and educate yourself or, you know, read a book or you know, in like, say it's count, it's pro and con, there are some things that are good about it. And there's some things that are bad about it. The only other bad thing that I would say about it is the fact that and this this is just my age, telling off on me is the fact that we're growing way too fast. I mean, it's like three years ago when we had the big ice storm. Uh, me and my wife and my sister in law, and my niece and my mother in law, we were all camped out in this house because nobody had electricity. And we had a gas stove and [LAUGHS] I brought the barbecue grill in here, in the middle of the living room, it lit that thing. And we burned the stove. And we had electric heaters in some of the bedrooms, my wife's room. And, you know, it was just because the infrastructure was just, we had rolling blackouts. And you wasn't supposed to be without power for more than about eight or nine, maybe 10 hours. And we were without power for three or four days. And being a carpenter and the projection of this, this area is that they're there, the next 10 years. They're planning on building 400 houses a year. So it's 400 families. And that's supposed to be the trend for the next 10 years. So let's, oh boy, my math is terrible right now. So 10 times 400, that's 40,000 or 4000. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "503bd271-046f-426f-8cd2-617faebdb0a9"
+    },
+    {
+      "start_time": 974,
+      "end_time": 974,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3d348cf9-7080-484d-a31c-2b22e513ca92"
+    },
+    {
+      "start_time": 974,
+      "end_time": 1141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4000. Families. They got to do some with the infrastructure, because it ain't right people to shut their electricity off, or to sell them in, uh, no in the thing with the building. The buildings in the housing is that the city council did and this is like say this is just my age. The city council does not allow anything less than about a $275,000 house. You know, there there are companies out there that would come in and build $150,000 houses if they could. But you know, our city fathers and stuff all \"Well, that'll attract the criminal element because I got these substandard houses.\" Well, I live in a substandard house tell me this. I've got 1800 square feet that's [LAUGHS] in I work on houses and stuff got five 5000 6000 8000 square feet. And you know, and it just amazes me shocked me sometimes that you know what? The value of things has gone up so much. I mean this, this lot, I live on the corner a lot. And when me and my wife bought this lot, my brother we have next door. And I got another brother that lives, four houses down and across the street. And we thought it was cool that all of us get back on the same street, we had a farm that we lived down, whose kids and grew up on. And we kind of got scattered into the winds. And then um, three of us got back together, we lost one brother in a plane crash. But, uh, we all stay connected with each other and we were able to do that. And I don't know of any other. You know, it's I'll meet people. If I'm rambling, I'm sorry, but I meet people in my walk through life. And you know, I just you know, they'll get to be talking about their best friend. And obviously, \"Well how long have you known your best friend?\" \"Oh, man, I've known my best friend. 20, 20 years.\" \"Oh, well cool.\" \"How long have you know when your best friend?\" \"Let's see, I'm 68. I've known my best friend for 68 years.\"  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "268c4260-a5cf-4a2d-b828-28fe39138972"
+    },
+    {
+      "start_time": 1141,
+      "end_time": 1144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[CHUCKLES] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "8b0c05c6-32bf-442b-96aa-5306d24ad381"
+    },
+    {
+      "start_time": 1144,
+      "end_time": 1247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guy I went to school with but we played together as babies. His mother and my mother would go to the Washateria and wash clothes. It [INAUDIBLE]. They put us on a blanket together. And I know we busted fault with each other and we did it in our adult lives. We've actually threatened each other several times \"I'm fixin to knock your head off.\" But the thing is, we never stayed mad at each other in you know, that's friends, you know, somebody that can forgive you for the stuff you say or the things you do. And that to me, that is probably one of the I know you wanted some negative things but just one of the greatest things that I have got from living in this small town and living here is I've got friends, and I've seen him you know, once a month, twice a month, sometimes, sometimes it's six months. But it's people I grew up with in a know, and yeah it's people I love. And that's the thing with this when we were, I was in high school, man, we didn't you know, you know, seniors pick on freshmen. You know, it's just when we were seniors, we didn't pick on freshmen. Man, we all hung out. I can drink when I was like, 18 if I'm still in high school, and I made some money on freshman [INAUDIBILE] with me, \"Will you go buy us some beers?\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "f0bbdecd-92ec-4e75-ada2-9ceb19a11a24"
+    },
+    {
+      "start_time": 1247,
+      "end_time": 1247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "7b473020-c870-4f62-889b-193fe0706b16"
+    },
+    {
+      "start_time": 1247,
+      "end_time": 1410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah, sure, man. How much does it cost? Oh it's about $8 A case love getting it for $5 a case\" [LAUGHS] It pays for my gas. But and you know, that's, you know, it's luck. Cheapest I've ever bought gas uh was 17 cents a gallon. And uh it's, you know, it ain't that now. And, uh, it's just but, but the love of the people that I grew up with, uh, it's probably been the most amazing and best thing that I've ever had about this town. And like I said we've got that we you know, and one of the bad things about that is, when you get to be my age, sometimes you don't see em until you get to the funeral. And that's hard on the soul. But it, it keeps you in touch to think, with your Creator, that it marks the time that you only got so much time, and you better make the best of it. You know, and it don't matter what situation is, if you're in a bad situation, man turn to you friends and get out of it. You know, unless they're the ones that are causing you a bad situation and you just get away from them. But uh, you know, like I say is there's not anything that's really terrible other than, like, say, sometimes, the infrastructure and just the overpopulation and you look at it, but, you know, I'm a realist to get I know that it's not gonna get smaller, it's gonna get bigger every year. You know, there used to be a lot of country that you could drive back roads and drink beer and never see anybody for hours. And now it's, I mean, it's a solid city. From [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME], there's a little bit of country. And there's a little bit of country between here and [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME], and from the [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME] to [WEST TEXAS REGION COMMUNITY NAME] is almost solid cities. And same way going north and south. You know, there's just little stretches of country and just, you know, and it's just gonna grow, it's just gonna get bigger and bigger, more stores, more houses. You know, I guess it's progress. But you know, old guys like me is sometimes it's too much progress. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "ccc31e8e-ebaa-43b2-bef9-db4ea71ca96b"
+    },
+    {
+      "start_time": 1410,
+      "end_time": 1415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely, yeah. And it can be hard for all this change. Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "8b6aebaa-95ee-44ff-bada-b8a7de652f09"
+    },
+    {
+      "start_time": 1415,
+      "end_time": 1415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "f8c2716b-64c1-4ed8-a5f7-22debbc55fa1"
+    },
+    {
+      "start_time": 1415,
+      "end_time": 1420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you, uh? You spoke about working as a carpenter. Is that correct?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "2593b3a2-c69e-401f-ba93-dc542987b947"
+    },
+    {
+      "start_time": 1420,
+      "end_time": 1421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, sir.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "8def5163-e8fc-48ab-80e1-96793d0fb35a"
+    },
+    {
+      "start_time": 1421,
+      "end_time": 1430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How would you say your connection was community influenced your work as a carpenter? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9b3d49d9-db3a-4ecc-a5d3-9a74552ce809"
+    },
+    {
+      "start_time": 1430,
+      "end_time": 1434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rephrase it, or just, I didn't quite hear it. I'm a little bit deaf. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "b9504fcf-83c3-4ba3-97ee-96afb3152e9b"
+    },
+    {
+      "start_time": 1434,
+      "end_time": 1443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, that's no problem at all. Like how would some of the connections you've made with other people in this community? How does that affect your work as a carpenter? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3deee128-5d55-4b66-ad09-af7479651862"
+    },
+    {
+      "start_time": 1443,
+      "end_time": 1804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, well, it's it's been great. You look it was like say we've when me and my son started working here local. Uh, we met, we got out and we searched for the con- to general contractors to put our name in the box to \"Hey, y'all call us if you need something?\" You know, and then we got lucky because well, \"How long have y'all lived here?\" \"Well, I've lived here you know,\" when I tell I lived here 50 years. And you know, in my son has been here basically all his life. And \"Okay, we like local boys\" and so we it it has helped us as far as you know, like I say it me and my wife. We try to keep things local in what we do. You know, it's there's, you know, we go out to eat with family and stuff. And I mean, there's lots of great restaurants in [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME] and [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME] and [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME]. And we eat here in [COMMUNITY NAME] to give our money and our business to the fellow people in our town. You know, and there's and there's a lot of people that feel that way, you know, and do that. But, uh, as far as the, the, the how it's helped me as a carpenter, is there have been there's been times when is the little a widow woman over here. And I know she's on a fixed income. And I know she needs some carpet work done. And I get a call. \"What would you charge me to do this?\" And I go look at it. \"I can probably do this for about $700\" \"Ooh, that's high.\" \"Yes, ma'am.\" But I said, \"I'll tell you what I do. Can you pay me $300?\" \"Yeah, yeah, yeah.\" And to be honest with you, it's not that I'm losing money. It's just it, my hourly rate went down. But you got to do what's right. And sometimes you got to take a hit. It helps somebody out over here. And, you know, and then that's, that's kind of paying it forward type thing. Cause, you know, someday it may happen to me that I, you know, I'm gonna fixed income and I need some help. I ain't got the money to do it. And but I know, the trust in God did take care of us, they always had, we, we've been through some really hard stuff with losing family members and stuff like that. And we know that, man, we've had a lot of God, things hit us right in the face. And man, that was God helping us out, you know, you know, and that's another thing about this town. I mean, when I was in high school, we had one high school, we probably had about 20 churches. So and everybody went to church. And so it was, it was pretty religious. You know, there's a lot of religious upbringing, you know, in here in this town, and I think it's a good thing. Because it's like, I don't go to church anymore. But I went to church up until the time I was 19. And I'm 60, fix be 69. So let's be in 50 years. But the older I get the closer to the Creator, become and my faith, get stronger, that I know what awaits me, or I've got a faith in what awaits me. And I'm not ready to go tomorrow. But I'm not scared of when this happens. You know, and that's, you know, and that's, that's another good thing about coming from a small town, small community, is the fact that you can do this, it's you, you get to know your neighbors, and you get to trust them. And I mean, I've worked with people up in [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME], that I've, you know, I'm working on their house now been there about two, three months and you know, just in conversation. \"Man, how are you neighbors, got good neighbors?\" \"Well, I don't know.\" \"What do you mean, you don't know? They live right next door to you.\" \"Oh, yeah. But we don't talk to them.\" \"How long they live there?\" \"Oh, we live beside each other for 15 years. You know, we'd wave and say hi, and that's about it.\" Man. That's once you go over, talk to them across the fence, man strike up conversation. You know, this is just weird, you know? And, I don't know. Let's say I'm a dinosaur, I love being a dinosaur. And, uh, I like coming from a small town. In fact, I'm proud of that fact that I come from this town and I used to hate this town. You know, your perspectives change and, you know, you grow up and you realize that the this place ain't as bad as I thought it gonna be. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "33a28163-cf6e-457b-9976-ea2a37afa7af"
+    },
+    {
+      "start_time": 1804,
+      "end_time": 1807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely like what you're saying with the neighbors. It's such a common thing. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "2abe560a-9f01-4e95-b3d1-ec6aed9be252"
+    },
+    {
+      "start_time": 1807,
+      "end_time": 1807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yup. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "ca40f637-93e5-4783-b424-1721e033d203"
+    },
+    {
+      "start_time": 1807,
+      "end_time": 1812,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Especially in like cities where I'm living now. Yeah, I completely relate. That's a big positive.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "24548501-08d4-4b4b-9120-d36430a7ed4d"
+    },
+    {
+      "start_time": 1812,
+      "end_time": 1994,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Well, everybody so there's there's so much meanness in the world. I mean, people that just, you know, man, they'll take advantage of you, man, they'll rob you blind or worse. And so everybody gets distrustful. You see somebody, you know, and it's in I've been guilty of this, you know, we profile. You know, you see some guy over here has got a lot of tags, and he bald headed and he's got tattoos all over his neck, his arms, and you instantly think this guy's bad news. And you find out if you get to know him, you find out man, this guy, le, he's a deacon in the church. And he's done all this volunteer work and stuff. You know, and, you know, you realize I've been wrong. But you know, a lot of people won't give it that chance to really know this person. And me and her have done we're proud of the fact that we do for the community and, uh, do what we can we help out for we can, you know, large, she had two boys, my sons when ever I met her, and they became my sons. And then we adopted two girls after our boys got grown. Again, you know, in [INAUDIBLE], man. Hey, hold on, y'all. You know, you got young girls and you raised em and ya'll already raised your kids. You know, y'all y'all, y'all. What are you doing that? [RUSTLING IN BACKGROUND] They're in our village. Ah, you know, I don't have any kids my own. But I did. I got these four. I got ten grandkids. They're not blood grandkids. But they are my grandkids took them home. And, you know, they're gonna be my grandkids you know? Even after I'm gone, you know, so yeah, it looks like that's, that's the type of values that I have learned growing up in this town is take care of the village, you know, reach out there. I can't comprehend. The guy that runs out on his kids, or a woman that runs out on her kids. Or, you know, get get hooked on drugs, and she may just not take care of their kids. And I mean, you know, Angel, I've been down that road too. But I grew out of it. said that's it. Man. I can't accomplish the things in life. I won't if I keep this going. I was 26 I decided it was time for me to dry out and quit being stupid. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "1ddd927f-92a7-4eda-8d27-512cd320f1f2"
+    },
+    {
+      "start_time": 1994,
+      "end_time": 1994,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "667f4ea4-e173-477d-ac8a-82ceac5e09cf"
+    },
+    {
+      "start_time": 1994,
+      "end_time": 1995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I don't know. [LAUGHS] My wife will disagree with you. Oh, man. I still do some stupid shit. [BOTH LAUGHS] Pardon my French. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "e1b4c4b0-5054-4048-b84d-4277b38db535"
+    },
+    {
+      "start_time": 1995,
+      "end_time": 2006,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's all right.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "cc990fca-0ae9-4117-88e8-fc2f3c09a20f"
+    },
+    {
+      "start_time": 2006,
+      "end_time": 2011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can bleep that one out. [LAUGHS] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "d73e1180-2c7c-428b-bc0a-c3fa485bf532"
+    },
+    {
+      "start_time": 2011,
+      "end_time": 2014,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's between you. How bad you are.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "e466b433-ccfe-4208-a3e0-e84a1b313466"
+    },
+    {
+      "start_time": 2014,
+      "end_time": 2015,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "8fe54a91-0429-438e-a06b-ebb56662f3aa"
+    },
+    {
+      "start_time": 2015,
+      "end_time": 2022,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Back to your work as a carpenter a little bit. How long have you been doing that here in [COMMUNITY NAME]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "51ccc6ee-a06d-44f6-bebe-fc07f284aa72"
+    },
+    {
+      "start_time": 2022,
+      "end_time": 2296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've been a carpenter since I've been doing carpenter work since 1972, though, started with my dad, working on weekends and working summers. And then when I graduated high school, uh, I was gonna join the Navy and because my dad was a Navy man, and I thought \"Boy, he'd be proud of me for joining the Navy.\" He's \"Oh, no, no, no, no.\" Because I had a brother went to Vietnam. And I graduated. The wars had been was ending. And so in Vietnam, it was over with and he then you brother, you mama went crazy. When you brothers go on with worried about him, and you're the baby of the family. I don't want you to put me through. [LAUGHS] So my dad had been his partner and he got me in the carpenters union in Dallas. And basically I got a bachelor's degree in carpentry served out in the apprenticeship, one school for four years. And I never looked back. It's to me it's a honorable trade. I mean, you stop and think about it. What did Jesus do to make living? He was carpenter. You know, he was construction, damn construction worker [LAUGHS] is, you know, you just I just, you know, and it's one of those things too that I'm proud of the fact of what I do, I build houses. Because of me people can move into a house and start a new life. And I look at it that way. You know, that? Yeah. I have done something to help the community building houses here. And you know, I just don't know, it's, it's, it's, it's kind of just a big circle, like big wheel that goes round and round. And you know, the mess. That's what I like to say, a swirl early loop about this town, is fact that all almost I say 99% of the people that everybody will try to take care of you. You know, if if you're down. I mean, we had we just had a friend of ours did, had a tornado hit his trailer house. And he's got wife, two little kids. And I mean, they lost it, it just tore his down to the ground, scattered out in pastures. And we got involved with helping them rebuild. And I mean, within a day or two, we'd found em a place to live. got them involved with the church, helping them, you know, [LOCAL CHARITY] and all of this stuff, and helping them get back on their feet. And two weeks later, they were better off. My my friend, he told me, he's meant we're better off than we've ever been in our life. Because you guys, when he met, I just don't understand how you reach out to people, like I said, it's really easy. You do what's right, you know, like I say. See, that's just part of the values that I grew up with. I had two great, amazing parents that instilled that in me and my brothers. I mean, there was four of us. And ain't nobody went to jail. You know, we knew better, you know, not a bad, not a bad one and a bunch. And we made our mistakes. And we, I mean, they, I spent the night in a jail cell couple of times, but never was arrested. Because I was best friend with the chief of police's son [LAUGHS]. And so it was a he get in a car and we'll take you to a bed. And he'd take me down in jail, and we'd drink coffee and eat doughnuts he had happened twice in one year. They said don't don't make me pull you over again. If I do. There will be a record and I didn't you know is okay, I'll straight up. Now quit drinking. [LAUGHS] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "e37538e0-9ad9-47c6-9ee7-47eeff5bdfa2"
+    },
+    {
+      "start_time": 2296,
+      "end_time": 2297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're getting off track. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant's Wife"
+        }
+      ],
+      "uuid": "1176533d-4184-414a-9983-b732ae2f4de2"
+    },
+    {
+      "start_time": 2297,
+      "end_time": 2002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " No, yeah. But, okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "d8785a03-28a3-4d66-be0e-5a172cd65403"
+    },
+    {
+      "start_time": 2002,
+      "end_time": 2313,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, that's all right. And um, so I guess as a carpenter, what does your typical workday look like? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "caff4ff8-973d-409b-a116-64c1b545b323"
+    },
+    {
+      "start_time": 2313,
+      "end_time": 2405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[SIGH] Typical workday, we usually try to be on the job at seven, go home at four o'clock. And it's, it's just there's a lot of a lot of camaraderie with the guys that you work with doing construction work. Well I mean, you form you form relationships that lasts for years. You know, and it's, it's kind of corny, but it's like, it's like having a whole nother family, you got your family at home, and you have a family at work. And this was one of the guy that went through the tornado. He's one of the guys we worked with. And, you know, in all of us, that work with him, helped him out, you know, donate money, or time and to help him get back on his feet. And, you know, it's just, you know, like say is, it's not a small town. People that do this, I mean, when I was working in [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME] is the same way. The guys down in there, you didn't know these guys. They're all just rolled as much strangers. But we work together. Some of these guys in [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME], I worked together for 22 years. You know, and obviously you just get this camaraderie and you get this other family that take care of have you take care each other? Well, it's been good. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "3211cc1e-0669-4509-a078-2e98a7ffcdc5"
+    },
+    {
+      "start_time": 2405,
+      "end_time": 2419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you touched on this already a lot. So just like briefly, what do you think? What does it mean to you to be a carpenter, it's community and what brings you satisfaction? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "912628fb-8fb1-45e8-8137-357efcd7f7f4"
+    },
+    {
+      "start_time": 2419,
+      "end_time": 2524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Brings me satisfaction as a carpenter in this town. [PHONE DINGS] I think it's just the pride of what I do. You know, people come, uh, through and they look at the houses, and they would \"You work on this house over here?\" \"Yeah.\" Man, we went through there and looked at and trim work was just immaculate. And I mean, boy it puffs you up, you know, it's \"Yeah, did that, you know, and me and my son did that.\" And, you know, it's, it's just one of those things that, you know, it's pride and community, is what it really boils down to, you know, you do, and my dad's work ethic that he tried to inst-, and he did instill in me and all my siblings, was the fact that he like dad tell me, when I was working with him. He said, \"If you build something,\" he said, \"You build it good enough, in the best you can. And be proud enough of it that you'd put your name up in two foot block letters [COMMUNITY MEMBER'S NAME] built this,\" you know, and, you know, 69 years old, and we're fixing to be 69. And I still have that pride that I try to do the best I can. I forgot a lot. You know, being old, but it's still the, I want to do the best I can do. Is it as much as I used to do, oh, hell no. But it's been, it's been good. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "b44553df-db13-42cb-b762-e031ede6808c"
+    },
+    {
+      "start_time": 2524,
+      "end_time": 2532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's great. I can definitely see how I would like bring you joy. Like, it's like doing art. I feel the same thing. I'm like, Yeah, I made something really cool.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5479c77a-0af4-4103-a880-9910b086789d"
+    },
+    {
+      "start_time": 2532,
+      "end_time": 2532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "b1a4acab-975b-4dac-b024-db458c2e36af"
+    },
+    {
+      "start_time": 2532,
+      "end_time": 2542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's great. But what would you say are some of the challenges because I'm sure there's plenty of challenges that come with this work too. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "b914dafd-92cd-4743-b36f-8cce0d447b70"
+    },
+    {
+      "start_time": 2542,
+      "end_time": 2617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Keeping your body in shape. Because it's because of what I've done all my life, I can't hardly get down on my knees and work anymore. Because I've spent too much time crawling around on the floor, doing floor tile at one point. And I worked doing that for probably two or three years and it took a toll live after I was older and it really took a toll on my knees and health wise just, uh, you know straining too much, carrying too much stuff instead of you know, carrying two boards you know, \"Imma show these guys over here, I'm gonna carry four\" and it just wears your body out. In fact, I'm gonna have back surgery in about three or four more weeks. Month. And you know, is it that's what it's from. It's, it's, it's got its pros and cons. I mean, there's yet a lot of pride here, but it's hard on the person's body to do what I do. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "34879c32-bd9b-44f3-a812-5b4981391236"
+    },
+    {
+      "start_time": 2617,
+      "end_time": 2622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, absolutely, I'm sure that's a struggle. I get a little tired running upstairs. So- "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "2afc03b5-3849-4842-bab7-bddc57e7376b"
+    },
+    {
+      "start_time": 2622,
+      "end_time": 2635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, man. Well I can't even run upstairs. I, I it's one step. Two steps. [BOTH LAUGH] Y'all go ahead. I'll be up there in 30 minutes. Yeah. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "1ae6f865-5aa0-4ead-99ae-3931b0f3a068"
+    },
+    {
+      "start_time": 2635,
+      "end_time": 2638,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, now if you don't mind, we're gonna move on from the work- "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "4fc2f3ab-31b1-49ae-b1ab-265bf749dbb1"
+    },
+    {
+      "start_time": 2638,
+      "end_time": 2639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "4619d353-d351-4e89-b76a-3fd959a65c0a"
+    },
+    {
+      "start_time": 2639,
+      "end_time": 2644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "-related discussion. I'm just gonna ask you a few sets of questions. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "78fc0659-c228-4557-8620-872256871a05"
+    },
+    {
+      "start_time": 2644,
+      "end_time": 2644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mkay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "1b2c3c8c-32cc-46b4-8bc7-1827e02fb279"
+    },
+    {
+      "start_time": 2644,
+      "end_time": 2650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'll read a statement to you. And you're gonna indicate what the extent of your agreement with each question is, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "1b52a593-e2a6-4fd2-8338-bc81797cb2e3"
+    },
+    {
+      "start_time": 2650,
+      "end_time": 2650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mkay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "7705bb34-d210-41a9-85cd-e0d3f9e97070"
+    },
+    {
+      "start_time": 2650,
+      "end_time": 2664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On a scale of one to four. So if you say one that's you completely disagree with the statement I read. Two you somewhat disagree. Three, you somewhat agree with my statement or four you completely agree. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "817ba238-4a81-4a34-be93-3e87b492f583"
+    },
+    {
+      "start_time": 2664,
+      "end_time": 2664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mkay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "fc2d56c8-2c6e-47de-933f-52fa0471aff7"
+    },
+    {
+      "start_time": 2664,
+      "end_time": 2676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One bad. Four. Completely agree. Absolutely. So, my first statement is I consider myself to be an American. Would you say that? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "992f0ba0-2aae-458b-85dd-bf17f3839160"
+    },
+    {
+      "start_time": 2676,
+      "end_time": 2681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, Four. I completely agree. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "3b924e58-74f8-4340-9d39-33b08ea42db2"
+    },
+    {
+      "start_time": 2681,
+      "end_time": 2683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excellent. Do you want to tell me why? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "aeca8033-2c8f-4aee-ab9e-89a4bb81595e"
+    },
+    {
+      "start_time": 2683,
+      "end_time": 2737,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I've had a military family. And my dad and my brother showed me a real big sense of patriotism and thankfulness for the country we live in. And my dad was World War Two sailor. And to me, he was John Wayne. He was tough. He was rough. And he could do anything. And he was proud of the flag and proud of this country. And just by being around him, me and my brothers the same way. We're patriots. I mean- "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "3800cafe-0d51-417b-b2c4-a6152eb2922e"
+    },
+    {
+      "start_time": 2737,
+      "end_time": 2747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excellent. So on a similar tone, would you using that same scale? Would you agree with the statement? I consider myself to be a Texan? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "eafcf63d-ba6a-4791-b2c4-ed7af6882651"
+    },
+    {
+      "start_time": 2747,
+      "end_time": 2831,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yeah. Born and raised. Yeah. Proud of that one, too. You know, just as proud as I be. I mean, ma'am. We go to we take a lot of vacations. And a lot of times, we've probably been to San Antonio, uh, probably two dozen times. And we go to the Alamo every time we go. And Texas history. You know, we have [TEXAS HISTORY MUSEUM NAME] in [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME]]. And if you have never been: go. it's it's an amazing story of the Texas Rangers and Stephen F. Austin and everything that is just, I mean, he can't help but be proud of us. Born in Texas. You know, we we jokingly tell us Natural Born Texan jokingly refer to well, there's there's us the native born Texans, and then there's the rest of the world that wish they was Texans. [LAUGHS] It is a is pretty true statement. But yeah, they are real proud. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "89920f6f-3d60-4e57-83d2-2ef8fd4160f7"
+    },
+    {
+      "start_time": 2831,
+      "end_time": 2836,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's great. And just to clarify, where would you say you are on that scale of 1 to 4? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "ff2904a8-9d07-4802-b385-b6a5b504c5a6"
+    },
+    {
+      "start_time": 2836,
+      "end_time": 2837,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, a four. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "311314f7-9706-4d04-b47e-37f4347ffb5b"
+    },
+    {
+      "start_time": 2837,
+      "end_time": 2839,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS] Yeah I figured.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "1720efbc-972e-4b20-8eb3-652e8f12a8e3"
+    },
+    {
+      "start_time": 2839,
+      "end_time": 2841,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "fa4456de-e1fa-49dd-b89c-092370a72639"
+    },
+    {
+      "start_time": 2841,
+      "end_time": 2843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'll have to checkout that museum. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "de266e75-39f0-44d9-b518-8569e1d5e1f7"
+    },
+    {
+      "start_time": 2843,
+      "end_time": 2850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, it's cool. It's cool. There's a lot of history with Texas Rangers. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "e3f0ddcf-5403-456f-bcaa-1f768c52ecdf"
+    },
+    {
+      "start_time": 2850,
+      "end_time": 2873,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's awesome. I really like my history. So that sounds great. And for our next question, I'm gonna read out three different statements. And tell me which one you agree with the most. So first off, I'm American first and Texan second. Two: I am Texan first and American second. or three: being Texan and American is equally important to you. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "c8265f9e-49d0-44d8-ac12-8e1a7eb9b8ca"
+    },
+    {
+      "start_time": 2873,
+      "end_time": 2875,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Number three.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "ed47326e-42da-44a0-ab66-9ec1f2f1ffe0"
+    },
+    {
+      "start_time": 2875,
+      "end_time": 2876,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "61f68427-872e-4d53-b45b-803c274cd966"
+    },
+    {
+      "start_time": 2876,
+      "end_time": 2906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's, you know, like I say, the patriotism and what I've experienced from my dad and my brothers. Uh, it rivals, the love of the state, I was born in being a Texan. And I couldn't weigh one against other they would have to be equal, equal equal. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "8b75aff1-fd9a-4c47-a5ff-ceaaea5c7a55"
+    },
+    {
+      "start_time": 2906,
+      "end_time": 2921,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excellent. And then for our next question, would you say to be a true Texan? You must know how to speak Spanish on that one of the four scale? Or- Yeah, sorry. That's right. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "d09ccc9d-f753-418e-9909-809b091f11f1"
+    },
+    {
+      "start_time": 2921,
+      "end_time": 2988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would say [SIGHS] we're a border country. We're a border state. And we got Mexico to South of us. And I know that, uh, there's a lot of people that don't speak Spanish in this state. But I think that it ought to be kind of mandatory in our school, because it's like, kids in Italy, they can speak Spanish, German, French, they know they know four they know four languages, you know, and you know, it makes me feel like we grew up stupid. You know, because you run into you know, these these peoples can speak four different languages. And there's a lot of similarities in there but between them but, you know, [CHUCKLES] let's say I do struggle with English. [CHUCKLES] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "f5e68b9a-f4f4-4f56-ad2f-3f00d8c860e0"
+    },
+    {
+      "start_time": 2988,
+      "end_time": 2993,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I agree. It feels funny, not being able to speak more than just English, especially being- "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "1f205811-c217-4068-aeb8-c703aa619df2"
+    },
+    {
+      "start_time": 2993,
+      "end_time": 2993,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c6d394ab-89e9-442c-a003-1719ab06fbb6"
+    },
+    {
+      "start_time": 2993,
+      "end_time": 2995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "-so close to the border. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "23dd32f7-0d46-4dfb-a61e-4c45df2a2208"
+    },
+    {
+      "start_time": 2995,
+      "end_time": 3002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I do know a little bit of Spanish but most of it will get you in a fierce fight or really drunk. [BOTH LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "5371a774-8af9-4232-8b68-ad0e7180d806"
+    },
+    {
+      "start_time": 3002,
+      "end_time": 3010,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[DOOR CREAKS] And once again, just to clarify, where would you put yourself on that one to four scale? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "23a4e927-d5a0-49ad-b130-470b99994c95"
+    },
+    {
+      "start_time": 3010,
+      "end_time": 3011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'd say a four. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "d5f393f5-d9bd-47d5-a6e1-5c489391498f"
+    },
+    {
+      "start_time": 3011,
+      "end_time": 3013,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four? I completely agree. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "81444f3f-2ded-4e1a-bdd0-3544c58dc88c"
+    },
+    {
+      "start_time": 3013,
+      "end_time": 3018,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I completely agree that we everybody in Texas needs to learn to speak two languages. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6553dd46-2424-43be-bbf0-6cfbc0e025e5"
+    },
+    {
+      "start_time": 3018,
+      "end_time": 3026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then, uh on a similar note, would you say to be a true Texan, you also need to know how to speak English. One to four. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "b93659b2-434d-49e0-98af-f6880ea28237"
+    },
+    {
+      "start_time": 3026,
+      "end_time": 3054,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So like, yeah, a four on that one. When you come across the border, you go live in this country, you need this speak the language. And don't play that I don't [INAUDIBLE]. [LAUGHS] here that's four, you know, you need to learn. You know, because it's, this is your new country, the basic language is English. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "9e8a54ea-b213-4961-9c13-d217ec24da7d"
+    },
+    {
+      "start_time": 3054,
+      "end_time": 3066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then kind of going off of that. If you don't know how to speak English, would you say you can do everything you want and get everything you need? If you can't speak English. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "8c4e6ee9-7e2f-4ed3-b66c-0db5c269c742"
+    },
+    {
+      "start_time": 3066,
+      "end_time": 3116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think you can. But I think it's real hard. I think it and that's, that's, there's a there's a hard struggle, because I think because of the fact that well, maybe you're here illegally. And, you know, it's, you know, and people just, you know, \"Oh, well they're illegal,\" well go live in their situation. You know, put yourself in their shoes. You know, he got drug cartels that are going to kill their family if they don't take this two pounds of cocaine or 20 pounds of cocaine across the border. Happens all the time. [SMACKS KNEE] So yeah, yeah. So you come to this country, learn speak language, you know, that ought to be one of the first things that they do. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "d10c9adb-f207-4bc3-989a-a2ef9d1941c2"
+    },
+    {
+      "start_time": 3116,
+      "end_time": 3123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And sorry, I phrased that question a little funny, like, one to four, do you think you can get everything you want done? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "e4f7065e-bca5-4fdb-8f46-c75675d720dc"
+    },
+    {
+      "start_time": 3123,
+      "end_time": 3166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I think they can, if if they will go through the numbers and go through the help that's available. Because I mean, you know, we have Spanish speaking police officers and their Spanish speaking people in all walks of our life, and they can communicate, they actually may be a little harder to find somebody. But, you know, I think they can. I think they can get it. And I'd say maybe three of them. Because it there's, you know, it's hard. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "fbf1dac0-112a-4a7f-ab90-aebcc82b6f84"
+    },
+    {
+      "start_time": 3166,
+      "end_time": 3187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Perfect. And then for our last number rating question, please answer on a one to four. In my community, life has been pretty stable over the past 40 years, things haven't changed much. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "f7365b83-9236-45f3-b06a-331ecadb3cac"
+    },
+    {
+      "start_time": 3187,
+      "end_time": 3190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the last 40 years?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "cd67ec40-6ac2-4908-8697-74c94b6bbd8b"
+    },
+    {
+      "start_time": 3190,
+      "end_time": 3191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "2bc51ad9-99fa-478a-ac76-309fc0982085"
+    },
+    {
+      "start_time": 3191,
+      "end_time": 3312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would, I would say that is a number one because it is changed tremendously. I mean, and you know, it's basically just the amount of people that come into the community and it's not just this community it's every community around I mean, there's you know, it's it's just growing and growing and growing. And you know, I'm actually in my age I hope to get on I would not want to leave if they had appeal for you. I can live another 100 years no, no, they'll spend more time not now being wisely but that's down here. And I don't want I wouldn't want to have to go through the stuff I would really be a dinosaur that the kids go through today. I couldn't have been a teenager today. Mainly and we had I mean back when I was in school so we had hell everybody smoked weed. You know everybody drank. Well, not everybody I'd say probably 70% smoked weed. Probably 80% Drank you know, but you know, this is a times changing. You will it wasn't it was illegal as hell is so bad. Whenever if you got caught smoking, uh man and they could give you 10 years hard labor. Now, they catch you smoking it's where \"We're gonna confiscate your shit and find you $500. Yeah, no problem.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0cc13693-dfff-4f92-a614-0b9910c6c979"
+    },
+    {
+      "start_time": 3312,
+      "end_time": 3326,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excellent. So now we can talk- let's talk a little bit more about the community. So, um, what are, you've talked a little bit about this in the last question, but what do you think are some of the changes, things have changed this in this community over the past few decades? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "4be1fa32-9c18-4feb-8d68-e5a2867c2cbd"
+    },
+    {
+      "start_time": 3326,
+      "end_time": 3420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, well, as we've gotten bigger, uh, I think people are a lot less friendly than they were when I was a kid growing up, kid growing up, everybody in town knew you. So you didn't do anything really stupid. To get caught? Because everybody know your parents. And in today's community, there's a lot of strangers out there, you know, it goes back to you know, the guy that's living next door to year, you never talked to the guy who's been living here five years, and you don't know anything about it. You know, could be Ted Bundy, you don't know. But and yeah, that's and that's, that's sad. You know, it's, we were we losing that sense of family and helping each other out. It's look out for those guy cuz you don't know how bad he's gonna screw you. And that's, you know, that's just, I guess it's natural. Because Luckily, there's, there's some mean people in the world you know, and I'm sometimes amazed how many good people we still run into that are absolute angels, you know? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "270ba76f-a155-4aed-b46e-d3171f4e62fa"
+    },
+    {
+      "start_time": 3420,
+      "end_time": 3433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. So, going back to like your childhood, what do you think were the best parts about growing up here as a kid?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "d11c5804-906d-4c0d-a037-f222bd3d7008"
+    },
+    {
+      "start_time": 3433,
+      "end_time": 3594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "for me, my mom and dad lived on 100 acre farm. And that was county when I was a kid [DIFFERENT NORTH TEXAS REGION COUNTY NAME] come out and dug a rock pit, behind our house on our property. And, uh, used the bedrock [DOOR CREAKS] is a road base on [HIGHWAY NAME] and [HIGHWAY NAME] going forward. And we [DOOR CREAKS] what we got out of it was we got this huge waterhole swimming hole, fishing holes out of the deal, was a great place to party. And man, we had Fourth of July parties, Memorial Day parties and just growing up on the farm. And as a kid, we had, I could leave, I can leave my house and be gone. Playing in the woods. And my mother would actually pack me lunch because she knew that I ain't coming in, and she would pack me lunch. And we're gonna go out and play. And you know, and like I say I had three big brothers. And there wasn't anybody for miles to play with except ourselves. You know. And, you know, I think that that kind of growing up, it there have been times that me and my brothers disagree. But because of being that close with each other, growing up, it gives us a sense of dedication by my mom and dad. It was, you know, okay. You may not like each other. But by God, you better love each other. Whether you like them or not, you better love better stand up. It's like if one of us come home with a black eye. Well, what happened to you got in a fight at school? And he looked at the other brothers and go, where's your black eye? He better all come home with a black eye . You know, it's, you know, protect each other, stand up for each other and luckily we still do. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "f4bcae39-9513-410b-94be-72e4624da240"
+    },
+    {
+      "start_time": 3594,
+      "end_time": 3601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's great. And do you think some of this like traditional life you've been talking about has gone away in this community since. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "fee68e46-7df6-4da2-b895-966222d4bcd7"
+    },
+    {
+      "start_time": 3601,
+      "end_time": 3992,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, it has, I think so on a scale of one to four, I'd say that was probably about nowadays is probably about about a to two and a half. You know, it is simply because I think it's just simply because we're so crowded, there's so many people around, and you don't have time we're caught up going to work, going to the store doing this doing it. And you get caught up in your life. And you haven't got the time to get to know people. You know, and that's a shame. You know, and it's not just this town, it's the world. And, you know, it's a shame that, like, say, you, I think that every kid growing up ought to be able to grow up in the country, because country life and country living and we had a we were, we were poor. But we had cows that we had people, some of our neighbors that didn't have a couple of dairy cows. And then we had store bought milk, dad had a job and mom, go store and buy just anything we needed. But I mean, it's like, we had beef cows. And our freezer'd be full of beef, sirloin, steamed bones, you know, just everything there is. But there was times we couldn't afford steak sauce. You know, and, but we had neighbors that were they, I mean we might have been a little poor. These people were dirt poor. You know, it's just in, [STAMMERING] my mother would go, she told the neighbor lady, she said, \"Well, you know, me and my kids, we like farm fresh milk. And if y'all have any extra, I'll trade you for it.\" So my mother bartered with them. And we were on a barter system. Because these are proud people, they would know you ain't given me nothing. I will trade you, you know, you're gonna give me this, I'm gonna give you something. And that's what they would do. They would give us farm fresh milk from their cows. And they'll pasteurize and then process in bowls and stuff, good. But that's the kind of thing that went on. You took care. You know, like say they they were dirt poor. And your mom and daddy instilled this kind of thing, uh, I come through. When I went to school, we were segregated. Black kids went to one school, white kids went to another school. My first friends and playmates, besides my brothers was there was three little black kids that lived about half a mile down the road from us. And my dad was a he is a carver, but he was a mechanic electrician and plumber. He could do it all jack of all trades. And he always made sure that we either had bicycles, or mini bikes, or he bought a car wanted to make a dune buggy out of just drive around farm in. And he would let me him to mama would let me take my mini bike and drive to these three little boys' house. And we played. Their mom and dad lived in a barn. You could see daylight through the cracks. And these people were real proud. And I grew up with these kids. And they were my friends and I can remember my school bus passing em. They're outside road waiting for the black bus. And I didn't get it. You know? And what school bus drive by. And I just in one day I just it just dawned on me \"Mama why don't they won't my school bus stop and pick them kids up because our school bus drives right by their school?\" So when I was about eight, maybe nine years old, my mother had to explain segregation to me. And even at that age that ain't effing fair. You know? And you know, and then of course, you know, we did when I was probably in about fifth grade, we desegregated and [CLAPS] blended into one school system. And it was one of the greatest things because, you know, there there, we had a, we had some racists, they had some racists, you know, you got white people who said, \"Screw me,\" you know, \"You black people out, screw me.\" And it's in the things that I grew up with. And that actually, that's part of the values that my mom and dad instilled in us is, you don't be prejudiced. You know, you judge people by their merit about what they can do and what they have done. And, you know, not just calls their religion, race and religion or color, you don't do that. You know, it's like, say it was this one of the greatest things. In my childhood, was the parents. I had instilled these values in me and I still got it now. Yeah. You know, and it's true. They were culture. There are bad apples in every bunch. But as a whole man, people are people. You know, it don't matter. You know, to meet a lot of people it does."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "88e63a0d-14e5-4d28-a82e-12504d304ab7"
+    },
+    {
+      "start_time": 3992,
+      "end_time": 3996,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's a great story. Thanks for sharing. It's really interesting hearing about just how much- "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "113ea8b2-5968-4bd8-8447-0393f63bf21e"
+    },
+    {
+      "start_time": 3996,
+      "end_time": 4054,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I hate to ramble. But it's, there's, you know, it's just, uh, you know, the 69 years I've walked the Earth. I mean, I've seen John F. Kennedy get assasinated. I've seen Martin Luther King get assassinated. I've seen men walk on the moon for the first time. People today, \"Oh, yeah, man, we've been to the moon.\" No, man. [EXCITED TONE] \"We've been to the moon!\" [BOTH LAUGH] you know? 911 You know, and that's the reason is, like, say that, if they had appeal, walk and live another 100 years. I don't want it. Because I don't want to have to go through. It's just gonna get worse. You know, nonliving is terrible. But believe me, there's worse stuff coming at us. You know. Yeah. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6d5bca84-a713-40ce-ab35-afc61c7d5b5f"
+    },
+    {
+      "start_time": 4054,
+      "end_time": 4063,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And thanks for sharing. Don't worry about rambling. That's actually, that's actually great. It's really interesting to hear. Um. But just to wrap up with a few fun questions I have for you. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9103175c-ec2f-4c15-a279-8057ed95d0e8"
+    },
+    {
+      "start_time": 4063,
+      "end_time": 4063,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "3b5896be-5f3b-418b-aced-15263c44ddc0"
+    },
+    {
+      "start_time": 4093,
+      "end_time": 4066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's your favorite sports team out there?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5c61bc97-b3e2-42b1-aaf6-16b15749fa73"
+    },
+    {
+      "start_time": 4063,
+      "end_time": 4069,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, Dallas Cowboys. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "ec075ca9-dec1-4bed-a8d0-e8d623fc102e"
+    },
+    {
+      "start_time": 4069,
+      "end_time": 4071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How about them cowboys? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "98e4e0d1-4870-4f4f-aef5-31d557ee435c"
+    },
+    {
+      "start_time": 4071,
+      "end_time": 4104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS] How about them Cowboys. How about to Texas Rangers. How about them Stars. How about them Mavericks? [LAUGHS] No, no, am I a sports nut enthusiast who watch every game and no, but if Dallas is doing good, I watch them. If the Rangers are doing good. I will watch them and same way with you know the basketball all the stars. You know. You open the would.- Yeah. Dallas Cowboys. My number one team. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "b2383beb-4c76-4df9-ac90-6bd938b9b20f"
+    },
+    {
+      "start_time": 4104,
+      "end_time": 4107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's great. It's a little bit of a disappointing year though.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9e3a31ff-b56d-449d-9816-fa47c872a2c0"
+    },
+    {
+      "start_time": 4107,
+      "end_time": 4109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. [LAUGHS] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "8038974d-c803-43d1-ad1d-c226cee8b7f2"
+    },
+    {
+      "start_time": 4109,
+      "end_time": 4110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unfortunately [LAUGHS] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "dc3c370d-164e-4099-aa0b-336b4d5386fb"
+    },
+    {
+      "start_time": 4110,
+      "end_time": 4131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it's like I tell people you know, Jerry Jones has gotten a lot of money and with all the money he's got is just a good proven point that you cannot buy class. [BOTH LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "60e7fd85-31db-47d1-bf93-abe26e7b3c84"
+    },
+    {
+      "start_time": 4131,
+      "end_time": 4138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely. And the next fun question: some people think it's hard for boys and girls to be friends but do you think "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "4988f4e2-1b0d-4eac-af63-13a339877450"
+    },
+    {
+      "start_time": 4138,
+      "end_time": 4160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nah, I think it's really easy for 'em, or it should be. Oh, he went in when I went when I started first grade I had never been around girls, uh, living in the country you like say I had just a few friends that I went over and played with and seen all of them were guys. And so when we hit when I hit first grade, man we had man them girls I like talking to them girls. [DIRECTED TOWARDS WIFE] Didn't I honey? [BOTH CHUCKLES] She ain't going to answer that. [CHUCKLES] But yeah, uh,I think it ought to be it ought to be easy. Uh, I was kind of I really was kind of a shy, uh, kid. But but when I when I got opened up to them do like I do you, know a lot of them was talk, I'll give you my history. You know, and I'll always be that way. And I don't lie about it. You know, people ask me you ever use any dope, I was like \"Man I used everything.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "ea04651e-58fa-402e-993c-38a4bc4a7d25"
+    },
+    {
+      "start_time": 4160,
+      "end_time": 4188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "185f127e-ab46-47b9-b605-1adcd240da3b"
+    },
+    {
+      "start_time": 4188,
+      "end_time": 4516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have used everything. And I quit it, [CHUCKLES] you know, 26 years ago or when I was 26 years old, I quit everything. Drinking, smoking. [CHUCKLES] And I don't, I don't stand in judgment of people that do because I've been an addict, you know. And uh there's programs out there though, that if you want to get off and quit, you get off quit. I walked away from it cold turkey. I just, my mother was my best friend in this life. And she could talk to me like my mother. And she could talk to me like my best friend. And when I realized I was 26 years old, and I realized I was out of control. Uh, I made a phone call to her. I justuh I just damn near died, damn near OD'd, you know, I made a phone call to her. And I said, \"Mom, I need some help.\" \"Well what do you need help for? What're you doin?\" \"Well, I'm out of control.\" \"Shoot, what do you mean you're out of control?\" I said um, \"Doing too much drinking, too much drugging\" and she's \"Pack you a suitcase, you come home tonight.\" And I did, and it's, it's an amazing, life is an amazing thing and an amazing journey. Uh, I moved back home when I was 26. And I got myself straight. And I worked hard at it. I just, that's it I quit. Uh, I lost my mother when I was 28. Is, like I say, to me, it took me a long time figuring out that was one the God things that that was God putting me back home. Because me and my mother become best friends. And we went and played bingo together. We went and hung out and you know, it's like quitting drinking. I didn't quit just all of a sudden it was okay still buying a case of beer. \"Let's go buy a 12 pack.\" And then it got to be \"Let's go buy a six pack.\" My mother liked beer too. But she drank two. Sometimes three. And, uh, you know, it's just she was she was one of my stoutest supporters. And I wanted to be, make her proud that I quit this. And especially when we found out that she had cancer and was going to lose her. I mean, there was no if ands or buts and boys, that was probably the hardest thing, that I've ever endured was burying my mother. My dad was tough to bury him. But my mother was tough as I was a mama's boy. But people asked me and I say \"My life's an open book, I will share my experiences with you. I will tell you the things I've done good I'll tell you the things I've done bad not all of them because they're, I've got skeletons and you do too. Nobody needs to know about that.\" [LAUGHS] But, you know, there's no use of lying about things. You know, it has another thing to do with actually living in this community. And with my mom and dad and with the closeness of our village when I was a kid you didn't lie because you're gonna get caught in it because everybody that you know my mother come up said you know when I got license. \"What do y'all do last night?\" I found out real quick. She already knew for what we done. And so after about the third time being called on the carpet and getting grounded from my car for lying. \"But what'd you do last night?\" \"Oh mom, you wouldn't believe I picked this girl up and in [lDIFFERENT NORTH TEXAS REGION COMMUNITY NAME]. We went to a motel God dang mama she was pretty.\" [LAUGHS] Start really getting into [LAUGHS] some explicits my mother and go, \"Okay, that's enough.\" Well you ask what I did last night. So you know, I'm gonna tell you the truth and I did you know. I've always been that way. You know? The only time I lied was to the cops and it was only to keep me going to jail. [BOTH LAUGHS] And when my wife tries on the new dress and she goes, \"Does this make me look fat\" sometimes? [LAUGHS] \"Yeah, it's no, honey it does not.\" [LAUGHS]  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "348d8122-1c56-4226-a656-54346bba0c32"
+    },
+    {
+      "start_time": 4516,
+      "end_time": 4521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Those are some great stories. [LAUGHS] Thanks for sharing. And I'm really sorry to hear you lost your mom at such a young age. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "61d25e44-1c40-4283-b424-04b6942f32ad"
+    },
+    {
+      "start_time": 4521,
+      "end_time": 4524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She was great lady. She's a great lady. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "1677a5ac-bef7-41b8-9748-b1cebbb8c27a"
+    },
+    {
+      "start_time": 4524,
+      "end_time": 4526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm really close with my mom too. So I can only imagine how hard that was.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3780fdc9-3c15-4c16-b280-6969faf1aedc"
+    },
+    {
+      "start_time": 4526,
+      "end_time": 4703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well the amazing thing and like say, you know, talking about a God thing. My mom and dad both died from cancer. And God blessed me by letting me know when they were going to die and I was able to clear the air, bury the hatchet me and my dad had some issues with each other. [DOOR CREAKS] When my mom died me and my dad becomes just like that together. I mean, we just, we've got all the stupid shit that we used to argue with. Pardon me. Stupid stuff. We used to argue over in I'll tell this story now and I'll quit talking. When I was 42 years old, and me and my wife been married a while with our boys up growing teenage. And my dad had been in my butt over something boy, he was chewing it talking to me like I was 12 years old. And boy I blew up, \"Dad quit treating me like I'm 12 I'm 42 years old and you standing there and he talking to me like that. I've had enough of it dad.\" And he stopped. And he looked at me and his mouth kind of fell open. Like he was in shock. And he said, \"Well, I guess you're right. I guess I have been treating you like yous 12 years old. Which I'll tell you what. I promise I will quit. If you'll do one thing for me.\" I was like \"What's that daddy?\" \"Quit acting like you're 12!\" [BOTH LAUGHS] You know, I looked at him and both of us busted out laughing and after that we never had we never had a bad day between us. You know? But that always felt it was funny. He was \"Quit acting like you're 12!\" I can't believe you said that. I mean, because I mean he's real stone faced you know? Which is it's after I have seriously thought sometimes I wished I could write a book. Over the adventures and misadventures I've had because I mean is it is I've had hell I've had a hell of a party in my life with my 69 years. And yeah, I just hope the rest of it is will be as good as what everything behind has been. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "5967902e-65b3-481e-938c-b87cd83f1465"
+    },
+    {
+      "start_time": 4703,
+      "end_time": 4708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's amazing. Still plenty of time to write a book. Why not? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "14d1f9de-b410-4d87-86c7-442d68c3a892"
+    },
+    {
+      "start_time": 4708,
+      "end_time": 4711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I'll probably just give me a recorder and record everything."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "58618ece-75b0-4071-b3da-feaba55d14f6"
+    },
+    {
+      "start_time": 4711,
+      "end_time": 4711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9a04b6f0-88c2-41a6-bc13-34a36895f30f"
+    },
+    {
+      "start_time": 4711,
+      "end_time": 4715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can be easier. My hand my arthritis won't let me write hardly. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "33999981-8bb4-4418-912d-27312125087c"
+    },
+    {
+      "start_time": 4715,
+      "end_time": 4729,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[INAUDIBLE] just for one last fun question before we have like a little optional thing we can do. A lot of people think the 1990s was the golden decade of pop music? Do you think so? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "710ef535-868b-4d3a-90f1-6c199fe2ecc5"
+    },
+    {
+      "start_time": 4729,
+      "end_time": 4774,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pop music? Yeah, I would I would give it a three and a half or four. Uh, course I, like I say, I liked pop musical in the 90s. Uh, it's some good stuff. You know, I got to witness us go from 1999 to the 2000s. I've seen the turn of the century in there. You know, I was born in 1956. So you know if I can make it to 2056 I'll be doing pretty good. But uh, yeah, yeah, I think yeah, I think it was probably as far as pop music gives us probably the best decade we've had. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "4200dff6-6a82-4a9d-ada5-9b8ac27463a2"
+    },
+    {
+      "start_time": 4774,
+      "end_time": 4819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also pretty good one, then thank you for your answers. And if you have a little bit of time, I have one last request. One of the overarching research questions through this home to Texas program. It's about linguistic changes in Texas. As a part of this project. The linguistic researchers asking that interview participants read a brief passage about life in Texas. It's a short made up story It was created in the 1980s. And since then, linguistic researchers have recorded a couple 100 Texans reading it over the past few decades. They use these recordings as samples of people standard way of speaking. And they try to track how speech and change has varied and changed over time. Would you be willing to just read this brief passage out loud? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "10e57c5b-f682-489a-a3dd-b71c083e0549"
+    },
+    {
+      "start_time": 4819,
+      "end_time": 4820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "eb10c605-9eae-43d5-a719-8236744c3275"
+    },
+    {
+      "start_time": 4820,
+      "end_time": 4824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Perfect. Thank you. The passage is right here. Just please read it out loud. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "b0f8eb77-8a48-4c40-9a1b-88990ce9d605"
+    },
+    {
+      "start_time": 4824,
+      "end_time": 4958,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've lived in Texas all my life. I was born in Titus County. And when I was five, we moved to a farm near White House, which is uh southeast Tyler. I like growing up in the country. When my chores were done, I'd ride my horse planting trees or hot down to the creek to fish or swim. One time we tied a rope to a limb of a cypress tree, and we'd swing out on a vine. In the spring I'd fly kites and on summer nights we'd catch fireflies, but we call them lighting bugs. Once in a while, we'd have fights with corn cobs or pine cones. In winter, we'd build a fire in the fireplace and pop popcorn and roast, peanuts and pecans. I guess I was a live wire. When I was 19 I went to work in Dallas, and Firestone Firestone Tire company. I didn't like city life and for a long time I'd go home every chance I got mama would always cook my favorite food fried okra, hoppin john that's rice and black eyed peas and pecan pie. We had lots of good times. But going home was not the same now. After Dad died, Momma has sold the farm moved to Tyler. I'd rather be living on the farm right now instead of here in city. But my wife and kids don't understand me when I gripe about city life and talk about moving to the country. My oldest child says Daddy, that's crazy. I'd just die if I had to live on a farm. Almost cried first time she said that. I know Texas is changing. But I try to make sure we don't lose touch with our roots. While we may live in a city, I want my kids to have a good feed, feeling for the land. Have a sense of place. Take pride in being Texans. And if they lose our ties to the land, the price of progress is too high. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "315f4fec-a28b-427e-bd21-3fe8747812f5"
+    },
+    {
+      "start_time": 4958,
+      "end_time": 4965,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, perfect. Thank you so much. And thank you again for your time. I'm going to stop the recording right now. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "93afd101-b2bc-4539-8e74-ad83cdc9794d"
+    }
+  ],
   "set": "Default",
   "event_id": "f3d0f143-32e7-4fb7-948d-8e543dbaf8bc",
   "source_id": "8d47b38e-8582-4b1c-ad77-5b15d7e4e3cf"
