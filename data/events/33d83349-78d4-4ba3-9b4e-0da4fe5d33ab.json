@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "a98d6740-6247-44a1-9488-dd707691e0c5": {
+      "label": "Language_Rockwall_RA_06262024",
+      "is_offline": false,
+      "file_url": "https://ia800804.us.archive.org/17/items/language-rockwall-ra-06262024/Language_Rockwall_RA_06262024.m4a",
+      "duration": 1126,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Rockwall_RA_06262024",
+  "created_at": "2024-12-08T00:13:09.857Z",
+  "created_by": "speaktexan",
+  "updated_at": "2024-12-08T00:13:09.857Z",
+  "updated_by": "speaktexan"
+}
