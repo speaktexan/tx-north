@@ -118,7 +118,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
       "uuid": "ac8b9d60-2b27-422f-aad9-997ded39384b"
     },
     {
