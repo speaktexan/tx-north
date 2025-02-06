@@ -1,5 +1,2673 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi, this is [INTERVIEWER]. Today is July 21, and I am in [COMMUNITY IN NORTH TEXAS], Texas for an interview with one of our community members for the language and history interview. Before we begin, I just want to get a verbal consent. Could you please say I consent to being interviewed and audio recorded for this study?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "5f6a7751-0cd7-43d8-bc64-379f0be6ee9c"
+    },
+    {
+      "start_time": 21,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I consent to be interviewed for this study. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "c215ae57-3124-4514-b150-70d62c68b3d2"
+    },
+    {
+      "start_time": 24,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ALL right. To get started, can you tell me about how you came to live in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "7650540d-ece6-4d48-8e44-d2cf0eea92e2"
+    },
+    {
+      "start_time": 28,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In [COMMUNITY]? Well, I received my PhD in history from [FLORDIA PUBLIC COLLEGE] and 1965 I guess it was. Well, now 66. But I had a friend who of mine from Florida well from Texas, we were both in Florida. Who got a job at [PRIVATE TEXAS COLLEGE]. So he got one for me. So I started at [PRIVATE TEXAS COLLEGE] in the history department there and I guess whose night the fall of 1965. And I just taught there one year came to [TEXAS PUBLIC COLLEGE] IN '66. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "30695c97-e293-415c-90b1-3cba9b651515"
+    },
+    {
+      "start_time": 83,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you tell me a bit more about your community here? How would you describe it to someone who doesn't live here,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "7eee6698-a747-4046-aa3c-9fc7d4adb843"
+    },
+    {
+      "start_time": 90,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[NORTH TEXAS COMMUNITY]? Well, we're used to be known as a city of apartments, because we overbuilt on apartments and didn't develop quite enough individual housing. I'm not sure we're much more of an apartment complex now than we were then. I don't think it's gotten any worse. But you don't have too many apartments. They don't exactly pay pay their way. City. But it's basically a suburban community of Dallas, Fort Worth. I don't know. I'm not an expert. I know stuff. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "c0c31119-7ed8-4ff0-9ded-cf36d3046d8f"
+    },
+    {
+      "start_time": 140,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've seen family in Fort Worth. And they're always thinking there's a rivalry between Fort Worth and Dallas or I still hold rather I'd rather die than live in Dallas, then do you think that's a thing here in Arlington?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "55f30bd2-d3fb-4595-ac15-e4a1d50a951f"
+    },
+    {
+      "start_time": 152,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "d70b0919-6bab-4de6-924e-8a4632348ce7"
+    },
+    {
+      "start_time": 153,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is exactly sort of the rivalry between Fort Worth and Dallas so to speak? Do you think there's an element of that here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "074cc739-9bce-4c99-8851-e3102d718433"
+    },
+    {
+      "start_time": 159,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, yeah. And in fact, originally, when they were thinking of building [TEXAS PUBLIC COLLEGE], or No, I guess it Yeah. They didn't necessarily want to inherit the old [DIFFERENT TEXAS PUBLIC COLLEGE THAT NO LONGER EXISTS] campus. The idea was to build a campus, our stride, the county line, just like the airport was lighter on both counties. That way, you don't have the rivalries that he can play in both. Well, it didn't do that. They just built it on top of [PUBLIC TEXAS COLLEGE THAT NO LONGER EXITS]. Which in some ways a mistake not only because you don't have the county line thing and you don't really have a foot in Dallas County at all. And also a mistake because you inherited a lot of no offense here but Junior College faculty and put them in a senior college Well, Junior College faculty is simply not up to snuff senior college standards. So we you have a lot of what you would, many of us will call it dead wood faculty because he's someone pretty good in the classroom, but they weren't publishing anything. And once you're a senior college, you got to publish, publish or perish, publish or perish. It's just about it. But eventually they they die off and you hire a new faculty and then we did all right with it and [TEXAS PUBLIC COLLEGE] pretty good skin. But we missed out on the Dallas footing with that decision way back then. So we're in Tarrant County, a lot of students are from Dallas. We have a lot of commuter students from Fort Worth and Dallas. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "ad4b4f65-b0d0-426b-a072-979a3a8d6788"
+    },
+    {
+      "start_time": 278,
+      "end_time": 283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know my friends go to [TEXAS PUBLIC COLLEGE] and I like it a lot. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "7375e47b-cc7a-48ed-9498-d918dc94d4b5"
+    },
+    {
+      "start_time": 283,
+      "end_time": 303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But we don't have them don't have the same campus atmosphere as [TEXAS FLAGSHIP PUBLIC UNIVERSITY]. I mean, you got the drag there. And you've got a lot of cultural things oriented toward the college and we don't have that historically. It's coming You can still see him coming. Not quite the same. Yeah, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "84f3b933-710e-404b-96bd-ef62848eddf2"
+    },
+    {
+      "start_time": 303,
+      "end_time": 306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "no campus has been I know your your [TEXAS FLAGSHIP COLLEGE] alum has been pretty crazy with all the sports teams as of late. So I'd say the mood at [TEXAS FLAGSHIP COLLEGE] is pretty high right now. Yeah, but this endless stream of construction. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "0ed608f9-6252-4783-aba8-a31e870a6c00"
+    },
+    {
+      "start_time": 306,
+      "end_time": 320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that's the price we pay most anywhere in Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "98c1e5cb-94eb-48e2-a03e-f0a210340c0c"
+    },
+    {
+      "start_time": 320,
+      "end_time": 326,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think that your community has changed throughout your time living here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "2b6d4690-86c8-4be1-9348-59f6d4adb34d"
+    },
+    {
+      "start_time": 326,
+      "end_time": 351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it's got more cosmopolitan, we have a lot more restaurants. So we used to have a greater, much greater variety. You can certainly eat better now. And you could when I came here and 66 in terms of restaurant. And there's more entertainment. The the Texas Rangers baseball team came and "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "d79ed761-afc0-4b96-82f9-e44ae152e460"
+    },
+    {
+      "start_time": 351,
+      "end_time": 353,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the world series champion Texas right now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "4e76fc44-e08e-4cb8-8d44-5b2782340296"
+    },
+    {
+      "start_time": 353,
+      "end_time": 394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's true. That's right. It's quite an event. And of course, the Dallas got a couple of professional football teams to at one, one time, only one now. And then they've since gotten established and more things around the ball. So they're more Oh, and six flags on Texas moved in after I got here, I think. So there's more entertainment, there's one more restaurants, more cosmopolitan atmosphere that we used to answer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "a0d9ac08-2244-4281-8b36-96811e21869d"
+    },
+    {
+      "start_time": 394,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you think the strengths of your community are?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "8aa43d29-a7ea-4de0-92a9-ddeb39acab4b"
+    },
+    {
+      "start_time": 401,
+      "end_time": 520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, well. political leadership is traditionally pretty conservative, but also, and I'm not conservative. There's also been relatively sane compared to what you see in some, some conservatives today. And I'm I don't regard as conservative and reactionary. We don't have too many of the, the book burners or the that lot, you know. There are some around we defeated one for the school board recently. But you're on you're on to them, you can spot them. So we've and the county government in [NORTH TEXAS COUNTY] was led by Republicans for a long time, but they're a moderate vote. The latest county judge is not so moderate. And he's having a difficult time running the county. However, that's also partly the fault of our own commissioner who is a Democrat. And she's pretty difficult to get along with ourselves. So it's not all of them. So the county government, I would say has deteriorated recently, and Mark has called in the county government. But you know, that doesn't make a lot of difference in most people's daily lives. And the city is still governed by a moderate Republican, so and so same as [NORTH TEXAS COMMUNITY]. So I think we politically we're doing okay, of course, Dallas, as of 2006 was all democratic and has been since Yep. All happened in one election"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b95d4d97-d86e-43a0-a2b7-ddd44272f465"
+    },
+    {
+      "start_time": 520,
+      "end_time": 525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, you know, our mayor recently switched. He was a got elected as a Democrat switch to Republican while in office "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "f260dc28-f71d-4a42-8980-d383478ea825"
+    },
+    {
+      "start_time": 525,
+      "end_time": 545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that did not please a lot of people in Dallas. Thank you serve another term. But, man, those things happen. But that's the political saying. Culturally, I don't know that we're in a different way other. City really?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "e2ccf420-fd33-4703-9188-cf7292419299"
+    },
+    {
+      "start_time": 545,
+      "end_time": 552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you tell me about the roles and sort of the relationships that you have within this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "f4688520-a972-4fb4-aeaa-97c21e28722e"
+    },
+    {
+      "start_time": 552,
+      "end_time": 938,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I used to be deeply involved in the community actually, I was elected the democratic precinct chairman, and as well as the Election Judge, and you 1978 And I've served for whether it be from 1978 to 2020, whatever, that's 42 years as precinct chairman, in the Democratic Party and election judge overall, and I had a Republican ultimate running election, and we always got along. So was deeply involved in the political community. But even before seven, eight, soon as I got here, I went to I was politically involved in County conventions and such. So for a while, in the 80s, I was chairman of the Senate, state senate district, Democratic Party. When you go from the precinct that night on election day, well, it used to be done away with principles now. You elected people to the either to the county convention, or to the seat Senate District, this district. In rural counties, this is the county governments. They're all in one Senate District. Here we have senate districts go all over the place. So mine covered much of [NORTH TEXAS COMMUNITY] and much of southern [NORTH TEXAS COMMUNITY]. And I chaired that in the 1980s. And always at Jim Ryan speaking and Martin frost, I got to know, these guys governor's came up. They were Democrats back then. Except, well, Bill Clements was the editor. So I got to know state leaders too. I was also involved in the community. Well in Texas really is as well as the community in the labor movement, you know, writing a book on labor. But I did more than that I and 66, I got together with the head librarian at Uta, just the same semester, I arrived there and put it to them that we ought to create a Labor Archives and library, collect labor records, give the library some distinction. And he agreed with that. Most all libraries have an archives of some kind. And, of course, you got to build it around something. So we originally built it around labor. There was no other Labor Archives in the state. [FLAGSHIP TEXAS COLLEGE] had some labor records, but they weren't collecting them and they weren't doing anything, although they're preserving. Ruth Allen did that she was an economics professor at [FLAGSHIP TEXAS COLLEGE] 20s and 30s. And I got to know her in her old age and she gave some of her later records to us. So I went around the state frequently with sometimes with a couple other professors. And we collected we went into a town and we will collect the minutes of meetings of Central Labor councils, local unions, regional offices. Historic from Chicago said we had the only regional collection of the main colors union. Chicago has the national collection. They don't have any regional collections. So they came down here to research. So Robert Redford, Fort Worth was the center of a multi state regional office for the meat cutters union. They've since amalgamated with with a closed no with the what's the other one? Well, the butcher work I don't know a couple have emerged a lot of unions have merged. Anyway, we and we have lots of local union records and Central Labor Council meetings. written records Minister meeting of Central Labor Council is a meeting, usually monthly, countywide of all the unions in that county. So the Dallas County Central Labor Council Tarrant even dipped in for a while some smaller counties out of Austin, Travis County. Oh, and they're involved in politics and they're involved in organizing to facets of labor unions. You organize the unorganized if the authorities lets you and you engage in political campaigns and endorse candidates work for candidates. And I did some of that too, with usually with labor folks. Sometimes going door to door I prefer I prefer that to getting on a telephone. I wouldn't do a telephone calls are hard. Yeah. Yeah. Cool. Garcia. That's right. What a lot more. So I've been involved with the labor community and the political community. I know a lot of our youth no matter, politicians and labor leaders in this community and others, and I think it enlarged my vision of life. He didn't want to spend all my time among academics. And I treasured. But I treasure all those labor and political leaders. I met a lot of lawyers. Because lawyers are in the labor movement and in politics,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "a5a4bab9-127f-4a4e-9b88-a4392822da34"
+    },
+    {
+      "start_time": 938,
+      "end_time": 941,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "lawyers are everywhere. They seem to have their finger every pie. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "c6b0edcb-d67f-48ea-8fe3-2853ddbfe677"
+    },
+    {
+      "start_time": 941,
+      "end_time": 955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that's right. Well, you would know that Yeah. So that gave me I don't know, my broader outlook on my career. I kinda "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "743adfc3-3a15-40c7-a905-7f99b507a35f"
+    },
+    {
+      "start_time": 955,
+      "end_time": 968,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want to talk a little bit more about your career. I know you've touched on it. But uh, just for the record, what do you do for work? And how do you think your connections in this community have sort of influenced your work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "2d963e89-736d-4f7f-b8de-7e9ec4727c70"
+    },
+    {
+      "start_time": 968,
+      "end_time": 1046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well the the political participation, interested me and one of my books, my major book, other than one right now is the establishment in Texas politics. So it's Texas political history, from the late 30s, into through the or is it cut off through the end of the 60s, into the early 60s. And it was well received and still in print, I've seen the establishment text about it. As a paperback. It was used in classrooms at Rice and other universities for a while. Of course, it's kind of dated now, because it cuts off in the 60s and several people asked me to bring it all up to date with us in the classroom. Not had enough of it is pretty depressing. Texas, political history is depressing for liberals"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "fd14f1b7-d940-4218-a7f5-ab482a3448ef"
+    },
+    {
+      "start_time": 1046,
+      "end_time": 1053,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that's pretty crazy. My dad's always taught me to read the LBJ biographies by Robert Caro."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "e9eceec3-91d5-44ab-ac70-59a3c9f453c3"
+    },
+    {
+      "start_time": 1053,
+      "end_time": 1056,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I knew Caro. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "7b02ff02-168e-4453-b8a9-f7763c25eaea"
+    },
+    {
+      "start_time": 1056,
+      "end_time": 1067,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then I'm big fan of Larry, Wright. He's probably my favorite Texas writer. But he does a lot of odd stuff does a lot of like the Scientologists and stuff. Yeah. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "76bbaf05-61f7-47c8-8097-0552f2f3468b"
+    },
+    {
+      "start_time": 1067,
+      "end_time": 1088,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But that was one book now that my current manuscript, camps, my interest in labor, and we're going around the state as always, all the time period, it doesn't match because, but even learning about modern labor helps me understand labor 150 years ago, I know what they're up to. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "8eb5adb7-b943-435b-acff-46d826175e64"
+    },
+    {
+      "start_time": 1088,
+      "end_time": 1117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm a, I'm a government major at UT. So I talk a lot about politics with my friends. And I'm also in plan II. So it's a common topic of conversation. And I don't think people understand the labour influence really at all, like the Teamsters, were just at the RNC, or at least the president of the Teamsters were, and like a lot of my friends were pretty politically involved in know anything about that, or why that matter. And I I, so I think it's really, really cool that you worked on that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "cae371e9-02af-43b4-91ea-36dc30358010"
+    },
+    {
+      "start_time": 1117,
+      "end_time": 1196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Labor used to matter more than it does now. Because labor is weaker now than it used to be. Although it's the last few years, it's coming back. You have these novel organizational efforts done by people in the plant itself, like Starbucks, and some of these other they take the initiative, it's hard for labor unions to get to them anymore because of the constraints on labor. legals constraints. Now that's eased under Biden. But whenever he got a Republican president, they put people on the National Labor Relations Board, who are anti labor, and you just can't get any organizing done. And even if you do organize, you can't get you can't get. You can't engage in collective bargaining in a meaningful sense, because management won't bargain. But now you've got these young people organizing the place then themselves without any help from unions. The unions will step in later on, ask for our give help, if asked. And that's kind of changed the the outlook for labor labor is going to get more popular now. last several years, and it has been and it's great for me to see it come back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "53f8f31c-b320-4039-b30a-9daab4d4234a"
+    },
+    {
+      "start_time": 1196,
+      "end_time": 1204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I want to talk a little bit more about your role as professor and in politics How did you really get involved in that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "82c98cec-ced2-4304-843b-3b10d48f7f94"
+    },
+    {
+      "start_time": 1204,
+      "end_time": 1417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, my father was raised with a Midlands, Tennessee accent I was born in Tennessee was a member of the Postal Workers Union, a letter carrier and two of my uncle's were in the post office. And that I learned a little about their union back in the 60s. About I think what was more important in turning me on to labor was I attended the southern historical Convention, which meets annually. All of southern historians get together. manifestly was that year 66. And a number of the youngest or is there a couple of them from Florida State and buddies of mine, and others all around them all around the map together and called a little caucus. And we agreed to start a southern labor history wing of the Southern Historical Association. And there are other wings you have, you have a literary wing. And when you have these little subsets, they'll have some of their own programs at the southern historical convention. So you'll have a labor panel or two or three labor panels, meeting at different times a day. And other panels, political panels and social history panels and women's panel, minority panel. And some of them have their own organizations. So ours was labor, Southern labor. And we agreed at that meeting in, in Memphis, among ourselves to try to get local libraries in our institutions to collect labor. So that's why that's when I went back from that convention, to my head librarian and propose this, that we collect labor. And he and I just started doing, we drove out to United Auto Workers local, regional meeting, January 16. So that was our first trip. Now, he didn't make any more trips to hit the library to run. A couple of other professors helped me do that. And the guys in Atlanta did that Oh, wants to know, what was Georgia State, I guess it is or whatever, state universities in Atlanta, they started Labor Archives, after we did, and those two are still there. And still part of the, the archives and those two institutions. So it bore fruit at two universities. I don't know of any other southern Labor Archives, but but they're probably people at the University of Florida, for instance, and I know there are Chapel Hill in North Carolina, that have collected some labor records. And that may have been inspired in part by what we did. I mean, they, they know of our collections. So"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "edaf0c70-936d-4148-8e9b-6feaa342b825"
+    },
+    {
+      "start_time": 1417,
+      "end_time": 1430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm a big fan of the PCL at UT in the Harry Ransom Center, because you're allowed to just go in there and look at whatever you want. So I'd be curious to see if they have labor records, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "2eeb2cea-5752-4414-8e4b-15de7b8ac459"
+    },
+    {
+      "start_time": 1430,
+      "end_time": 1467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They're over there. The Briscoes was shouldn't have been called that it was originally the Barker historical center. He was somebody who did something for the university. He was a history professor way back when, but ahead of it sold out, and now it's Dolph Briscoe gave him big bucks. So he there, he never done anything for Texas history. So it's now the Briscoe Center, but that's where the labor records are Ruth Allen collected and then and that's extensive and not as big as ours, but it's extensive."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b208944a-2f7e-4231-8389-b3406bf4e4cc"
+    },
+    {
+      "start_time": 1467,
+      "end_time": 1482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright I'll take a look at that when I go back in the fall. That actually sounds very interesting, like, historical topic. No. Sure. So I know you mentioned that you're writing a book right now. So what is your typical sort of Workday or writing schedule look like?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "4dc1610f-38fb-47d4-ad78-a8e534bb9abd"
+    },
+    {
+      "start_time": 1482,
+      "end_time": 1532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, being retired. In theory, I have lots of free time. But you know, other things go on in life happens and so we spend a good deal of time coming over here. Going to die Doctors going grocery stores. You can't you can't spend a day writing. You just spent part of a day writing. And you don't want to sit too often. So sometimes I have my office rigged up where I can stand for a while standing on the computer. I know you can buy these desks left up, I need to get one of those. My dad has one of those. He really likes it. Well, my daughter's gonna buy me one but I inherited these great old desk. I hate to get rid of them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "79a69295-2ac6-4ebb-aed8-9d22c479c4a1"
+    },
+    {
+      "start_time": 1532,
+      "end_time": 1535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, you can put them on top. It's like a platform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "eca535be-e0d5-48bd-87cb-4ec0a054419e"
+    },
+    {
+      "start_time": 1535,
+      "end_time": 1545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I've done that. Got. In fact, I've got a little platform. It's kind of rickety. I also tend to junk up my desk or it's hard to get it down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "358358a1-5d6f-41bb-8acb-4e68f0c1ce40"
+    },
+    {
+      "start_time": 1545,
+      "end_time": 1559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I junk up my cork board I have always pin stuff and then never get back to it. Yeah. What does it mean to you to be a professor circle political activist in your community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "16b36195-466c-4e87-8fbc-0bc2eeb69140"
+    },
+    {
+      "start_time": 1559,
+      "end_time": 1559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What did it mean to me?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "e471971c-4bd7-4b48-ac66-af3e4fd341d4"
+    },
+    {
+      "start_time": 1560,
+      "end_time": 1566,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, open ended and an odd question, but answer how you like?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "96fcb61b-e5a7-4d3a-8d17-c110a1b26fc0"
+    },
+    {
+      "start_time": 1566,
+      "end_time": 1601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think it helped bring me to life dealing with all these labor people and lawyers and academics and politics at all. At all, fulfill me. I wanted to I wanted to do something with the liberal labor community. I wanted to have fun doing it. I enjoyed teaching so long with the classroom. That gave me all I wanted. Now of course a marriage to children so important to do. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "64ca79c6-940b-4e46-ac86-2c538d2fb085"
+    },
+    {
+      "start_time": 1601,
+      "end_time": 1608,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What aspects of your job brought you the most satisfaction?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a5012129-9f88-4634-896d-278c2c1d8b9e"
+    },
+    {
+      "start_time": 1608,
+      "end_time": 1669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the most satisfying thing I guess was publishing the books I wrote and also teaching I enjoyed teaching. I tried to emulate the best professors I thought that I had [TEXAS FLAGSHIP AND FLORDIA PUBLIC OLLEGE] later on. So I had Walter Prescott way up for history. He was a legend in his time. And Otis Singletary and history never knew Barker, I guess maybe he was going oh, and Gideon shoberg. and sociology. I admire him. And then a Florida State or several more. I tried to bring humor to the job"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "20e24bf8-c4ed-4542-a08f-0ae2b3f9e4db"
+    },
+    {
+      "start_time": 1669,
+      "end_time": 1671,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Make lectures a little more interesting. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "1af4286c-d7fb-4d93-88ae-3c3c140d7276"
+    },
+    {
+      "start_time": 1671,
+      "end_time": 1738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, absolutely. In fact, I actually had a few students who complained about giving us two months of these stories. These anecdotes are hammerin they wanted I guess they weren't more serious. But not many complained about that. Doctor, Doctor said Sachs just died. He was in political science at [texas public college]. He did nothing but entertaining. They were laughing the whole time. All he did was tell stories stand up. He didn't it didn't teach me political science. And I think he got complaints too. He wasn't there was overdoing it. But But most people, they enjoy it. I mean, he flies they've liked his class. So humor, humor can take over? It never did that for me. But he was a piece of work.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "7a21b913-9939-479c-b010-c803186290fc"
+    },
+    {
+      "start_time": 1738,
+      "end_time": 1756,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What were the biggest challenges that you say you had faced in your career? Well "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "42b7282b-b50e-46dd-9e4a-430c6442ba90"
+    },
+    {
+      "start_time": 1756,
+      "end_time": 1769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, well, one challenge was that for 15 years, it was challenged for the entire department. In fact, for the entire School of Liberal Arts. Was it a we had what we call a knit with Dean\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "daa02eaa-248d-4b81-88eb-5d1bb60f069c"
+    },
+    {
+      "start_time": 1769,
+      "end_time": 1772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "nitwits, a good instance I like that. I might use that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "39288014-7a20-41c5-bb8a-937fff711ed0"
+    },
+    {
+      "start_time": 1772,
+      "end_time": 1912,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wouldnt call him that to his face. But he, he just marched to the beat of his own drum. He didn't care what any of the faculty thought about anything. Of course, the administration ran routine. plebiscites on what the faculty thought of the day so every Five years, we will get psyched out terribly wasn't turned out in administration and delineate all these complaints, never had any. till finally, after 15 years, after three evaluations, the administration finally decided to get rid of usually a Dean of Liberal Arts as the toughest job of all days, because the liberal arts faculty is generally more rambunctious more political, if you will. Engineers business, so, so deans of liberal arts tend not to last that long. Nor should you just flush them out after five nature of the job sort of mass. They didn't do it. So that was our biggest challenge. It would have been a bigger challenge if I'd been chairman and the department elected me Chairman to a three time. But I never wanted to serve on him, and I just turned down. Well, he would never pick me anyway, I just told him, I wasn't interested. And I'm glad I had good friends of again, all my good friends became. Well, most of them, but they got bogged down on the job and delayed their research, which they really liked better. It takes a certain mind to be an administrator, and you got to enjoy. And I think I enjoyed research more. And I think most historians do, and teaching one or the other vote. And you don't do much teaching or research as a chairman, just to absorb and absorb and all this other stuff, a lot of management."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "a04be6e8-d91d-4ea4-961a-bc6b6fb0d6cf"
+    },
+    {
+      "start_time": 1912,
+      "end_time": 1957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right, well, we're struggling moving to a different segment of the interview. Now, I want to talk about your experiences as a resident of your community. For these questions. I'm going to read a statement, and then I'd like you to indicate the extent of your agreement. I'll give you an answer. You'll have to give an answer on a scale from one to four, where one is completely disagree. Two is somewhat disagree. Three is somewhat agree. And then four is a complete agreement. If you'd like to comment on any of the statements, feel free to do that, too. Okay, all right. So the first phrase is I consider myself to be an American. Would you say that you completely disagree with that somewhat disagree, somewhat agree or completely agree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "7a84dd0f-b815-40f7-96ba-cc36eb0e7a50"
+    },
+    {
+      "start_time": 1957,
+      "end_time": 1962,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I can't escape that I completely agree that I'm an American."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "c73660ff-c14c-40a8-aa83-2b24b9839312"
+    },
+    {
+      "start_time": 1962,
+      "end_time": 1969,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, using the same scale, I'd like you to read the following statement. I consider myself to be a Texan. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "02534ec2-cd59-415a-be53-87d11a4f75e0"
+    },
+    {
+      "start_time": 1969,
+      "end_time": 1972,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yeah. I agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "658589c8-a2a3-449d-8368-6087635f3469"
+    },
+    {
+      "start_time": 1972,
+      "end_time": 1990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which of the following three statements do you agree with, with most strongly, I am an American first and a Texan. Second. I'm a Texan. First, Indian American second. Or being a Texan and American are equally important to me. Oh, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "83994522-46a3-4284-a457-f693cb4696f5"
+    },
+    {
+      "start_time": 1990,
+      "end_time": 1996,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "well, being an American is more important than being in Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "7243793f-5fbc-4819-98e5-c58e4af216df"
+    },
+    {
+      "start_time": 1996,
+      "end_time": 2008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is to be a true Texan, you must know how to speak English. What would you rate this one, given the scale we started with?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "20240479-7325-4056-9128-ff93844afff9"
+    },
+    {
+      "start_time": 2008,
+      "end_time": 2030,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I don't agree with that. I mean, anyone coming into Texas who doesn't speak English would be better off if you learned it. But we have people who speak Spanish and they're elderly, and they can't learn a new language. And they're Texans. I don't have a problem with that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "1f754669-7202-4676-bf3d-b7ca70980319"
+    },
+    {
+      "start_time": 2030,
+      "end_time": 2037,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How about to be true Texan you must know how to speak Spanish? sorta the flip side?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "1dea87aa-dfe4-49c1-b71c-b9277ca0da46"
+    },
+    {
+      "start_time": 2037,
+      "end_time": 2044,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it would certainly be helpful. I wish I knew it better. But no, I wouldn't say you must have don't have to speak Spanish. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "8c632380-2f11-471d-b1a9-9b34441ba7c5"
+    },
+    {
+      "start_time": 2044,
+      "end_time": 2053,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, the next phrase is in my community. You can do everything you want and get everything you need, even when you don't speak English. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "2a801827-8d7a-4dea-8724-a3389fa9aa58"
+    },
+    {
+      "start_time": 2053,
+      "end_time": 2060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I don't agree with that. You can't get by."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "bc5cd651-ac05-4987-bf53-fd36da8365c6"
+    },
+    {
+      "start_time": 2060,
+      "end_time": 2072,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. Finally, in my community life has been pretty stable over the last 40 years, things haven't changed much. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "5b6628f8-1588-40e5-bee8-0193f123a0c5"
+    },
+    {
+      "start_time": 2072,
+      "end_time": 2079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I guess my I guess my life has been stable for 40 years, but there's been a hell of a lot of change"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "cfcaf999-09a8-4e01-b618-d626c44cc597"
+    },
+    {
+      "start_time": 2079,
+      "end_time": 2104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I agree with that. I'm 19. And I think there's been a lot of change a lot less bluebonnet fields a lot more development around. Oh, that's part of it. All right, just a few more questions. What are some of the things that have changed in this community during the last few decades? The last one the last few years?  Okay, so we've sort of gone over that already a lot. So if you just want to get bullet points, that's good, too. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "3385c6c3-f513-4e6d-894d-475ea5407786"
+    },
+    {
+      "start_time": 2104,
+      "end_time": 2163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The last decade, last few decades, last few decades, what's changed? Well? Well, as I say, we've got a lot more restaurants now in the last few decades in more entertainment. It's more lively community and a bigger city than it was several decades ago. Generally, I'd say it's changed for the better, except that people just keep on coming. And there's got to be one less turn the whole Metroplex and the whole state, that overpopulation I guess is a threat, of course, is a threat to the world, I've read that the carrying capacity of this planet is about 3 billion. And we have what, I don't know 15 or 20 billion. Yeah, and we can't go online. But you know, that's the big picture. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "d2e9129a-0e49-4230-b2a7-4645acd553c9"
+    },
+    {
+      "start_time": 2163,
+      "end_time": 2193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I find the population stuff to be just really interesting. But something I've read a lot about, you know, sort of everything from Thomas Malthus to the modern thinkers on that, I think the current estimates of the population will stabilize around 10 billion, and we'll just learn to live with that. So I'm gonna make sure we can, I'm gonna be serious, curious to see how it carries out, especially if, you know, considering how many resources it takes for the average American, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "9d111d5e-9b09-4816-9558-6592dbec73a7"
+    },
+    {
+      "start_time": 2193,
+      "end_time": 2208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that's the thing, although they keep pulling rabbits out of the hat. And they may, we may actually get fusion, you know, just get energy out of rocks. And so if we can do that, maybe we'll make it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "149f3cd4-3aa9-4587-9b22-d74bc8d6e79f"
+    },
+    {
+      "start_time": 2208,
+      "end_time": 2220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like, we're always talking about running out of resources or becoming dependent on a sort of a hostile foreign state for resources. But it seems that like we always find to rent like some American farmer finds a random store in the middle of nowhere. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "f6277e74-b15e-44ae-9081-0bc8001a69b5"
+    },
+    {
+      "start_time": 2220,
+      "end_time": 2248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So far. Yeah, but one theory that the astronomers have is really one reason we haven't heard from any beings from outer space. Soon, they're out there, and they probably are out there is that you get to an advanced status where you can do all these wonderful things. But you've used up all your resources in the process and you dial and that's why that's why I've never heard from"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "0e27885f-aad2-4cf0-a89f-c048cc9a33cd"
+    },
+    {
+      "start_time": 2248,
+      "end_time": 2262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that's actually that's one take on the Fermi Paradox. The aliens are actively avoiding us maybe  So overall, you think this is a good community to live in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "bd3eed21-58ef-47a3-a4ac-b64aab74d2f8"
+    },
+    {
+      "start_time": 2262,
+      "end_time": 2278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I'm not gonna trash the community. Yeah, I'd rather be in one that have more scenery. I'm like mountains and oceans and so it's geography and yeah. I can complain about that. But you know, I went where the job was. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b9950cfa-eb9c-4ef4-8a53-2cb1e061b2ff"
+    },
+    {
+      "start_time": 2278,
+      "end_time": 2287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's the one thing I feel like North Texas is lacking. It will be good to have you know, some national parks or something around here. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "67f0168a-8378-43df-995c-19b944503115"
+    },
+    {
+      "start_time": 2287,
+      "end_time": 2292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, but we don't have the Nationals natural scenery to go with a national park"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "6c2e3753-fd98-4e6a-a7c2-29d8914b6f02"
+    },
+    {
+      "start_time": 2292,
+      "end_time": 2298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I suppose. Prairies pretty in its own way. But not everybody's cup of tea, you know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "6f358e29-8237-4a5d-baaf-a7e99c513b37"
+    },
+    {
+      "start_time": 2298,
+      "end_time": 2340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, yeah. I remember I used when you drive through West Texas, a bunch of historians made a few trips in West Texas, going to conventions in El Paso. And I remarked one day, this is terrain as a power of its own. Most of them weren't for Texas. We're not from Texas and never seen landscape like that. I said, you you got to be kidding. A power of its own. It's just bleak. But you know, it does. We went to a meteor crater, for instance, At Midland, and that was interesting. But yeah, it's it's pretty hard to make a national park out of that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "8bd3127b-0760-49d4-b41f-e908e42f6eb9"
+    },
+    {
+      "start_time": 2340,
+      "end_time": 2347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, no, I I spent some time in West Texas. We usually go out there for spring break or something like Big Bend a lot. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "b7c80e00-d78a-4039-b7ea-47a738ab377a"
+    },
+    {
+      "start_time": 2347,
+      "end_time": 2350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A pretty big bend. Yeah, that's great. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "37d71ab0-59de-4d15-8a16-94fd55c2e810"
+    },
+    {
+      "start_time": 2350,
+      "end_time": 2374,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A little bit lonely. But yeah, so dark, you'd see any stars, class one dark skies. Stars, it's amazing.  So you can answer this next question for either yourself or for your own grandchildren. But what do you think is or was the best part about being a young person or a kid in this community? Or just Texas in general for you since you grew up in Austin?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "493b9c95-14a5-4c94-9891-e105832714fc"
+    },
+    {
+      "start_time": 2374,
+      "end_time": 2442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was it like? Or what was the best part? The best part of it? Well, the best part of growing up was simply meeting the people I met and some of them became fast friends and some of them are still friends, or some have died on the way and almost it was a neat place back in the 1950s and 60s. We did have some scenery there on the Colorado River and the hill country just west of town, as you know. And we've spent a lot of time out there in high school. And in four years at [FLAGSHIP TEXAS SCHOOL] as well, with some of the same friends, traipsing around the hill country. So yeah, that was that meant a lot more to me than most anything else. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b8515f0b-343c-46bb-a1b5-c7866e46da76"
+    },
+    {
+      "start_time": 2442,
+      "end_time": 2459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Austin's very pretty. Still pretty. Yeah, they've dammed up there used to be called Town Lake, that part of the Colorado that's dammed up there, but it's, they've renamed it ladybird Lake recently. And I spent, they renamed it to Lady Bird Lake. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "fac25ae3-f4e3-4e0b-b358-1a7a39c7df8f"
+    },
+    {
+      "start_time": 2459,
+      "end_time": 2461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anything would be better in town. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "f803aa95-af23-432c-b2a0-ccf224cd8a33"
+    },
+    {
+      "start_time": 2461,
+      "end_time": 2481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I agree kind of a boring name. But no, I spent a lot of time out there. My, my first semester and second semester at UT. So I enjoy it. So do you feel that traditional way of life sort of in your community, Texas, in general, if you like is going away?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "420b58a4-fc48-46eb-aa78-29305107ee86"
+    },
+    {
+      "start_time": 2481,
+      "end_time": 2506,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, yeah, I guess that's a fair statement. accents, for instance, are slowly going away, especially in the cities, and especially among the college educated. But we can get by without accidents, and they're not going away very rapidly. Just slowly "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "4de18f97-d7f0-4424-919f-f62803573b03"
+    },
+    {
+      "start_time": 2506,
+      "end_time": 2508,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sort of evolve. I think, too. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "4cd19931-fb2d-4d7f-abeb-d1a0d7232f65"
+    },
+    {
+      "start_time": 2508,
+      "end_time": 2515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. And evolve. It's not always just vanishing. Any wrong. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "06e57262-bb36-4ae8-a037-1df3bec62ad1"
+    },
+    {
+      "start_time": 2515,
+      "end_time": 2523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. So it's a little few little miscellaneous questions at the end here. But what is your favorite sports team?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "0cdc75b7-8f46-4195-8784-8f6d8ef014b6"
+    },
+    {
+      "start_time": 2523,
+      "end_time": 2529,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that would be the Texas Rangers. Yep. And "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "28c4d743-979b-4011-814f-ff292820510f"
+    },
+    {
+      "start_time": 2529,
+      "end_time": 2534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the next question is How have they been doing lately? Pretty good. I would say."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "522fecc8-e682-4aac-ab39-b38687546fda"
+    },
+    {
+      "start_time": 2534,
+      "end_time": 2481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, last year, yeah. Not so much this year. They may come back this year. Still got a lot of talent. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "458526ce-95ea-4e52-834e-a3bcae0c21cd"
+    },
+    {
+      "start_time": 2481,
+      "end_time": 2552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My my roommate was from Houston this year. She was a big Astros fan had a poster on the wall. Huge Astros fan. She did not speak to me for three days. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "9ca6a64e-de5e-41a5-81ff-6058b5d605e0"
+    },
+    {
+      "start_time": 2552,
+      "end_time": 2555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I can imagine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "d49ed0e7-45f7-42c6-8607-9600abf40e30"
+    },
+    {
+      "start_time": 2555,
+      "end_time": 2577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, but it's okay. You know what, they've had enough success. Well, I have one thing and they had to cheat to get it to be treated one. So yeah, right. I remember. All right. Now, there's sort of a random question here. But what chores did you have to do when you were younger? And what chores do you sort of do today "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "b1b4eb85-3357-466a-8be7-abb34efdc1e1"
+    },
+    {
+      "start_time": 2577,
+      "end_time": 2615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "my parents did not ask much of me and chores. And maybe they should I did mow the grass. Frequently, I guess popped into I remember mowing grass occasionally. I guess once I got a car sometimes. They sometimes asked me to get things at a local store that you could actually walk to but you could drive to as well. Just to pick up a few items and bring them back home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "e94d7c1d-ed3c-45f2-8c50-691d0e2373f6"
+    },
+    {
+      "start_time": 2615,
+      "end_time": 2620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My parents do that with me too.  That hasn't changed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "0df148bb-f8c6-472f-81b1-a90129765bbf"
+    },
+    {
+      "start_time": 2620,
+      "end_time": 2685,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I guess not. I can't really think of any maybe I carried out the garbage once or twice they did want me to keep my room. sort of neat. But there was only one brother and we usually do well. We're not sometimes we're in the same room when we were growing up. So we sort of had to keep it neat. That was not a big house and at least in our early years but I don't really remember many children. All right. Now today. I do carry out the garbage a lot and then go to the stores. My wife does all that stuff. We both do all the usual thing. Sometimes he has me vacuuming when she can talk me into changing my bed "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "79f9152c-1dcc-4ae3-b96c-4b8415e9e715"
+    },
+    {
+      "start_time": 2685,
+      "end_time": 2711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. So these ones are truly just random questions. But have you ever told a story about another person thinking the other person was not near you? And then sort of had like a almost a cinematic turned around and saw that person was near? You all right overheard you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "6e21a897-5c98-4185-99a4-831e2788f5d7"
+    },
+    {
+      "start_time": 2711,
+      "end_time": 2740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not exactly that. But I do remember when email was first introduced, a lot of us did not understand it. And one other guy and I, or maybe a couple of others, were exchanging emails in a candid way. And we didn't realize that one of them was going to a person that we were talking about "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "3acb1a55-a054-4fca-93ad-78e567612d7d"
+    },
+    {
+      "start_time": 2740,
+      "end_time": 2743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the dreaded reply all. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "1b450588-2791-44ef-9fb3-cf72a957cff3"
+    },
+    {
+      "start_time": 2743,
+      "end_time": 2770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "something like that. That must have been. I don't exactly remember how we manage that. We didn't know what we're doing. But what we were saying was something that he denied, but it wasn't that terrible. And he thought he was being misunderstood, but, but it definitely was offered."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "65ec008c-a759-4698-9a53-57d7a5bb70a3"
+    },
+    {
+      "start_time": 2770,
+      "end_time": 2777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll make sure not to do that. That'll be it. I will keep this in mind when I'm using email because I feel like I don't understand it sometimes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "1ed2cfe1-e297-446e-85de-6cd0a0fdd4d0"
+    },
+    {
+      "start_time": 2777,
+      "end_time": 2779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, well, yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "3ff64c97-8db8-4041-8f26-65d45adf0045"
+    },
+    {
+      "start_time": 2779,
+      "end_time": 2784,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. What do you think was the golden decade at least in your opinion of pop music?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "ca0d165b-f927-4614-a8ff-8e444571ed32"
+    },
+    {
+      "start_time": 2784,
+      "end_time": 2869,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pop music? Well, for me, it was a 60s with a Peter Paul and Mary and the Chad Mitchell trio and the Beatles came along I was more enamored with folk music, but some of the Beatles was filming. And well, I was with labor leaders, once a couple of them. I don't know where we were when did this tavern outside? Probably outside of Austin, somewhere around Pflugerville or someplace. And they were having a country singer come in. I'm more into folk and country, but they're related. And anyway, they were dragging me along. And we had the place to ourselves, and we were up in a balcony, open balcony, the performers down on stage. He just got married. And he asked us if we would sit with his wife. So she was between me and one of the other labor guy. And he signed to us the whole time. In fact, he in his whole career. When his wife was around, he sings to his wife. Oh, sweet. Yeah, well, it was Willie Nelson. Oh, wow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "3472efab-eab2-44a9-bd5d-d9073e70bf1e"
+    },
+    {
+      "start_time": 2869,
+      "end_time": 2873,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. So that's, that's serious. And"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "6ccf2764-8596-4512-8116-5a29d7994f5a"
+    },
+    {
+      "start_time": 2873,
+      "end_time": 2880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I thought at the time, oh, it's just another country kronor. You'll never amount to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "23a93c4d-2a25-460b-9104-ec917ce3e2c2"
+    },
+    {
+      "start_time": 2880,
+      "end_time": 2886,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's a there's a mural of Willie Nelson. That was by my dorm. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "229b1ba5-bbc2-4fff-a933-def2cef66e4d"
+    },
+    {
+      "start_time": 2886,
+      "end_time": 2892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's pretty cool. Yeah. He always married some buxom blonde. And that's where she was. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "eea346a7-604d-4f70-8b13-7a28f6dc816a"
+    },
+    {
+      "start_time": 2892,
+      "end_time": 2896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you? Do you live on campus when you went to [FLAGSHIP TEXAS SCHOOL]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "0797d487-6eb4-43a7-8901-59c308a5ae54"
+    },
+    {
+      "start_time": 2896,
+      "end_time": 2914,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was in Austin, of course. So I drove in from South Austin to became some of my friends. Well, some of the friends I met who are not from Austin, all of us from Austin just drove drove commuter student. Not commuting very far. But yeah, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "30f6633c-9aea-4a8c-a80b-6946ce1fb475"
+    },
+    {
+      "start_time": 2914,
+      "end_time": 2923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "probably a better, better living experience in the dorms. Well, yeah, speaking from my experiences, I liked it. But the air conditioning was a little bad. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "9bcae255-d6de-4d72-b964-d6b8dfc2cf50"
+    },
+    {
+      "start_time": 2923,
+      "end_time": 2960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are all kinds of things that go wrong in our dorm. It builds character. Yeah, yeah, I'm sure I kind of missed that and kind of missed when I saw buddies went to the Army, the Navy and so on, and I'm kind of sorry, I missed out on the male camaraderie there. Which I picked up later on our faculty softball team. Really enjoy that. But then the army has a lot of drawbacks to ya, hindered my career as far as I go, so I never had to go. I was never called. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "46822b2e-be2e-4940-b300-fb812e66152a"
+    },
+    {
+      "start_time": 2960,
+      "end_time": 2996,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, well, that concludes the questions that I have. There's one more part of the interview that's optional. If you want to do it, it's just reading a brief passage that was created in the 1980s about growing up in Texas it's completely fictional, but it's again, just part of the sort of linguistic element if you'd like to do it, I'd be happy to have you read here on my computer, but if not, that's alright. Let's just skip that. It's not too long. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "f90b3ad2-eb19-43a9-a13d-2efc2a7d669d"
+    },
+    {
+      "start_time": 2996,
+      "end_time": 3008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You may have to enlarge the print. All right. Oh, yes. Bigger. These are not my computer reading glad I have several reading glasses that I can read that. You want me to read it? [SOUNDS OF MOVING AROUND] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "9dcc86e6-bb0f-4ae1-9f7f-9e950a17a10a"
+    },
+    {
+      "start_time": 3008,
+      "end_time": 3011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. Start whenever you're ready."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "d30237f3-7ff2-415d-b3cd-3506634a83d0"
+    },
+    {
+      "start_time": 3011,
+      "end_time": 3140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, I'm Ready. I've lived in Texas all my life I was born and Titus County and when I was five, we moved to a farm near White House, which is southeast of Tyler. I liked growing up in the country. When my chores were done, I'd ride my horse, climb trees, or hike down to the creek to fish or swim. One time, we tied a rope to a limb of a cypress tree, and would swing out wide over the swimming hole and drop into the water. I'd pretend to be Tarzan swinging on a vine. In the spring, I'd fly kites and on summer nights we'd catch fireflies, but we call them lightning bugs. Once in a while we'd have fights with corn cobs or pine cones. In the winter, we'd build a fire in the fireplace and pop popcorn and roast peanuts and pecans. I guess I was alive wire. When I was 19 I went to work in Dallas at a Firestone Tire store. I didn't like the city life and for a long time I'd go home every chance I got mama would always good my favorite foods fried okra hoppin john, that's that's rice and black eyed peas. And pecan pie. We had lots of good times we're going home is not the same now. After daddy died, Mama sold the farm and moved to Tyler. I'd rather be living on a farm right now instead of here in the city. But my wife and kids don't understand we want to brag about city live and talk about moving to the country. My oldest child says Daddy, that's crazy. I just died how to live on a farm. I almost cried the first time she said that. I know Texas is changing. But I try to make sure we don't lose touch with our roots. While we may live in a city, I want my kids to have a good feeling for the land, have a sense of place and take pride in playing and being Texans. If they lose our ties to the land, the price of progress is too high"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "f482c2c9-1172-4210-8bad-7f31a4b1c359"
+    },
+    {
+      "start_time": 3140,
+      "end_time": 3161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. That's the conclusion of that passage. All right. So that's the conclusion of our interview. If you have any other questions, please just let me know. And if you'd like a  t shirt, or anything I can send as a thank you for this. I really appreciate it. I found this very interesting. I've done a lot of these. And this has been my my favorite interview so far. Definitely.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "caa84e78-4783-459a-aef1-ee67087489df"
+    },
+    {
+      "start_time": 3161,
+      "end_time": 3163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh well. Thank you. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "5a7da7d6-2c53-4482-bc02-25ddef4c0f1c"
+    },
+    {
+      "start_time": 3163,
+      "end_time": 3163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "5bbb123d-2e54-4fbf-b6bf-b22387a9fae4"
+    },
+    {
+      "start_time": 3163,
+      "end_time": 3192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I have friends who who could tell a story like that. And I was born in Rockdale, which is small. But we moved to Austin right away. So I didn't have that experience. Exactly. We would go out in the hill country in high school and do some fishing and hunting. Very, not very much. And of course we weren't very good hunters. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "ce4e449c-4fdf-49ac-9d27-97b09f886183"
+    },
+    {
+      "start_time": 3192,
+      "end_time": 3215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I really liked hearing about Austin because I feel like people are my professors are always griping about how the old Austin was so much cooler. And so I told my parents went to [FLAGSHIP STATE SCHOOL]. So I told my parents about that. And they were like, well, our professors were also always griping about how the old Austin was cooler. I think the so I think the old Austin is just however Austin is whenever you're like 20"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "497d6525-dbaa-4a73-82cb-223df3f9c4a0"
+    },
+    {
+      "start_time": 3215,
+      "end_time": 3220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's probably right. That is probably right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "47d94760-8ca0-420b-9c9f-cb1cef2cabf5"
+    },
+    {
+      "start_time": 3220,
+      "end_time": 3222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, doing as probably young people. All right, well, I'm gonna stop the recording now. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "c89fe1d9-de56-4101-b1fb-4e570d4eb6dc"
+    }
+  ],
   "set": "Default",
   "event_id": "cd4804ef-958b-438c-86be-f51140230302",
   "source_id": "163aa5f7-5a91-4987-96b3-b19a519a81b0"
