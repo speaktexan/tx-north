@@ -1,5 +1,1623 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right, this is [INTERVIEWER]. Today is July 21. I am here in [COMMUNITY NAME IN NORTH TEXAS], Texas for an interview for my language and history accent interview. Before we begin, I'd like to get verbal consent. Could you please say I consent to being interviewed and audio recorded for this study?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "49609eb4-f1ba-40e2-a790-cfa6a620d408"
+    },
+    {
+      "start_time": 19,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I consented to being audio recorded and interviewed for this study."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "fc384251-4f3e-42dd-84a6-a0e8c60337a5"
+    },
+    {
+      "start_time": 24,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. So to get started, can you tell me more about how you came to live in this community? In [COMMUNITY IN NORTH TEXAS] specifically, or you can just talk about North Texas in general, if you'd like."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "acff4090-633e-4020-899b-e5547b1f4afe"
+    },
+    {
+      "start_time": 36,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born in the area, and move away for college and graduate school, and move back when there was a job opportunity. And my wife is from [COMMUNITY IN NORTH TEXAS] and wanted to live close to her parents."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "289924b6-7980-4c49-8441-9fdb7d104e2e"
+    },
+    {
+      "start_time": 52,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you tell me a little bit more about the community? How would you describe it to someone who doesn't live here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "cbed500e-742d-4d77-bf1b-d979d6e9442c"
+    },
+    {
+      "start_time": 57,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[COMMUNITY IN NORTH TEXAS] is a former long distance suburb of both Fort Worth and Dallas. That was in reasonable. That is inreasonable reach of both downtown locations off of the interstate off to different interstates. And it has grown into basically in outgrowth, both of those cities through urban sprawl and has tried to forge an identity for itself as the sort of entertainment capital of North Texas by\nhaving a variety of stadiums and entertainment options."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "4af8ae60-c914-4c94-b4ab-d3865dc762d9"
+    },
+    {
+      "start_time": 97,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To differentiate itself from [SIMILARLY NAMED COMMUNITY], right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "86c7dc84-77bd-40c1-9e40-77f485de8913"
+    },
+    {
+      "start_time": 101,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, that is a good point."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "57610f6a-9c9e-4384-888c-8f140f6bb550"
+    },
+    {
+      "start_time": 104,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So just talking about sort of North Texas in general here, but how do you think it's changed throughout your lifetime? Like what are some big differences you've seen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "2275a40c-e4d6-4794-958c-969bbc9bfe34"
+    },
+    {
+      "start_time": 109,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Become far less rural and far more urban very quickly?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "19e8713c-d812-467c-8f19-1c240b0aab69"
+    },
+    {
+      "start_time": 114,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What would you say are sort of the strengths of your community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "072d66d3-03b3-4dd6-b47f-03781012c165"
+    },
+    {
+      "start_time": 121,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have the ability to go to either the two major cities here in Metroplex very easily so it's got a lot of job opportunity. And it's still done a good job of retaining some semblance of being a small town even though it's quite large."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "6d2e508e-2696-4568-895b-34af4349843d"
+    },
+    {
+      "start_time": 141,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you think of the weaknesses, I guess?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "6ed41dc4-f1b7-4bc5-8ff9-888d9d110f4d"
+    },
+    {
+      "start_time": 145,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It it's sort of a bedroom community in some ways, it doesn't have a lot of, of its own industry outside of the GM plant. And yeah, you everybody is associated with either Fort Worth and Dallas here, and not\nso much with [COMMUNITY IN NORTH TEXAS]. And so-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "ab5eb50e-772d-4d2c-8d7b-ba02edaa2f69"
+    },
+    {
+      "start_time": 165,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "do you think people have strong identities? Either way, like, I know, Fort Worth tends to have the like, I'd rather die than live in Dallas attitude. Is that something you notice?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "300a5d48-cc15-496f-bd8c-58b2f8270142"
+    },
+    {
+      "start_time": 173,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, Dallas is just kind of a good could be basically a city from the Midwest and Fort Worth has got a much more specific identity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "4477ed5d-d6fb-4ec0-bd4d-80884fc965ac"
+    },
+    {
+      "start_time": 184,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now I want to talk a little bit more about the roles and relationships that you have in this community. What do you do for work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "651fbb67-8b0b-47ce-952e-fec2fb9c7e60"
+    },
+    {
+      "start_time": 190,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm an attorney."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "379a3b6c-1e8a-4fab-be58-e2e1e5522410"
+    },
+    {
+      "start_time": 192,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think that your connections in the community influenced your work as an attorney?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "02d5fe22-512b-4da0-9051-1193c9988b2d"
+    },
+    {
+      "start_time": 199,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I run into people all the time, no matter where I'm at, that I've interacted with. So I have a lot of connections to a variety of levels of government and people of influence, and they want to be out in the community and even on nights when I go out to have a night out with my family inevitably run into people happens all the time now. People People tend to know me and I, it's amazing. As a kid, I remember growing up and not really ever meeting people that I know, out on the street, but it happens all the time. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "2cffc954-9fed-4e24-8e6f-b090fc47d923"
+    },
+    {
+      "start_time": 243,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, do you think that's a positive part of your job?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "7750b5a6-5e6b-4e3c-9991-70416ac189e2"
+    },
+    {
+      "start_time": 243,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, absolutely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "1503b91f-e8b5-4898-8d20-9f861a894a73"
+    },
+    {
+      "start_time": 243,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I want to do a little bit of a more deeper dive into your roles and attorney. Can you tell me how you got into this role?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "d2080114-1e7f-4a90-b8e8-4acceed7316e"
+    },
+    {
+      "start_time": 263,
+      "end_time": 286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My grandfather was an attorney and my brother is and it just kind of runs in the family. And so it seemed like a good career option, and didn't want to really pursue what was my other career option for a while. And so this graduate school presented itself as a good way to stave off a bad economy at the time too."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "898aeff1-c747-4c9a-8656-4b43de2d2617"
+    },
+    {
+      "start_time": 286,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "what does a typical workday look like for you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "cf3e4618-e755-4a68-b2a7-90060dfb0079"
+    },
+    {
+      "start_time": 292,
+      "end_time": 306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Depending on the day of the week, I could be doing a lot of research answering a lot of phone calls, writing a lot of my miranda, and then other times we'll have to appear in court. So it's probably one of the two."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b11b1ef8-554a-4cfc-bf8f-72a502bdf123"
+    },
+    {
+      "start_time": 306,
+      "end_time": 313,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does it mean to be an attorney in [COMMUNITY IN NORTH TEXAS] or North Texas? Do you feel like it comes with any special accommodations that would be different elsewhere?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "df412982-7bfa-4bcc-83f3-6b6ff960c78d"
+    },
+    {
+      "start_time": 313,
+      "end_time": 340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's only one 100,000 attorneys in Texas. So it's pretty small community, all things considered. And so when you take a slice of that statewide population and confine it to one geographical area like North Texas, it becomes a, you know, small group of people that you work with. And so you got to maintain relationships to get things done."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "5b82da76-336c-44e2-b035-6a16dda33ad6"
+    },
+    {
+      "start_time": 340,
+      "end_time": 345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What aspects of your job bring you the most joy or satisfaction?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "8ce6ed21-c329-48c4-aa05-4481cfd211d6"
+    },
+    {
+      "start_time": 345,
+      "end_time": 364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, coming to a resolution that makes everybody happy? There's a lot of things that in law, that can be very contentious, a lot of times you have two parties that are jesting with each other. But I like it when I do something that everybody's happy with, like, you know, say getting a road bill."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "5b13c4b6-dfcc-48cf-a7a2-46f44c82ab63"
+    },
+    {
+      "start_time": 364,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are the biggest challenges that you face in your role? sort of the flip side of the last question,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "8b580746-13df-49d6-bb81-8d566bbfa31e"
+    },
+    {
+      "start_time": 368,
+      "end_time": 376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "oh, uh- infighting among my different clients makes life very difficult sometimes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "1b846163-c80d-44c9-a62c-0f7ad12879ed"
+    },
+    {
+      "start_time": 376,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "now, I kind of want to switch topics a little bit and talk about your experiences as a resident of this community and sort of your just general community that you grew up grew up in also, for this first set of questions, I'm going to read a statement to you and I'd like you to indicate the extent of your agreement with each one. I'll have you give your answer on a scale of one to four, where one is completely disagree. Two is somewhat disagree, and three is somewhat agree and four is completely agree. If you'd like to comment on any of the statements, please feel free to win. You're also free to not answer any of them if you'd like. The first phrase is I consider myself to be an American. Would you say that you completely disagree? Somewhat disagree? somewhat agree or completely agree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "b7f9e941-2d09-4d46-8c5e-ce821a5d78b4"
+    },
+    {
+      "start_time": 420,
+      "end_time": 422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's a four completely agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "40211836-eb24-4311-a652-6a00b2a48b0d"
+    },
+    {
+      "start_time": 422,
+      "end_time": 430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Using the same scale. How would you rate the following statement? I consider myself to be a Texan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "f485d027-8a2e-42db-889e-3331f49815a7"
+    },
+    {
+      "start_time": 430,
+      "end_time": 431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Four. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "ac0976ac-6c8f-4b6e-a5af-c283a14a34b4"
+    },
+    {
+      "start_time": 431,
+      "end_time": 449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which of the following three statements do you agree with most strongly? One, I'm an American first and a Texan. Second, two, I am a Texan first and an American second, or three, being a Texan and an American are equally important to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a3f7406d-403d-479f-9f12-e18de7376d0e"
+    },
+    {
+      "start_time": 449,
+      "end_time": 452,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "4f27ca65-0c41-4335-890b-13c0117f363f"
+    },
+    {
+      "start_time": 452,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is to be a true Texan, you must know how to speak English. What would you rate this using the same scale that you started with?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "6ed4f696-d0f9-47b4-a029-e65f0a76f8da"
+    },
+    {
+      "start_time": 461,
+      "end_time": 465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "7305ff42-ae5f-412c-9933-3f66ac077bf5"
+    },
+    {
+      "start_time": 465,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How about: to be a true Texan, you must know how to speak Spanish?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "2243009d-76c0-43c9-994c-dee0bc999d5c"
+    },
+    {
+      "start_time": 470,
+      "end_time": 473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "9a5b58c4-254a-4a74-8bc2-19c6d121bdf7"
+    },
+    {
+      "start_time": 473,
+      "end_time": 481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is in my community, you can do everything you want and get everything you need, even if you don't speak English."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "7ddf451f-904f-46cc-8de0-e34bd0171e03"
+    },
+    {
+      "start_time": 481,
+      "end_time": 489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would strongly agree with that. Yeah, so like a three."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "2b057fe4-13f3-4aa4-a54e-db719aeb6d50"
+    },
+    {
+      "start_time": 489,
+      "end_time": 496,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, in my community life has been pretty stable for the last 40 years, things haven't changed much.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "1636c807-d146-4ffd-b3e9-3ccb1ced987e"
+    },
+    {
+      "start_time": 496,
+      "end_time": 500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh- one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "11350f07-1e0e-419d-a2ed-f4d46098cde7"
+    },
+    {
+      "start_time": 500,
+      "end_time": 508,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I'd like to hear from you about your community itself. What are some of the things that have changed in this community during last few decades?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "3c64e994-864b-462d-892e-352fe5298e60"
+    },
+    {
+      "start_time": 508,
+      "end_time": 527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[COMMUNITY IN NORTH TEXAS] used to be the place that people come to buy cars because of its location along the interstate. And although there is still that character to it, that's kind of what it was premiere out, primarily known for in the 70s and 80s. And then the Rangers came here and about the same time became known for that. And then it's mushroomed from that sort of like how Dallas used to be known as like a railroad town, and now it's completely different. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "887c9ceb-6c19-4c3f-bfe2-a4ab52462ae4"
+    },
+    {
+      "start_time": 527,
+      "end_time": 537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that's true. Overall, do you think this is a good community to live in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "29070463-ffa1-474c-94ff-e48afe8531b3"
+    },
+    {
+      "start_time": 537,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "30d9e525-08f4-47d6-924a-da9f6d8256f3"
+    },
+    {
+      "start_time": 539,
+      "end_time": 547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was or what is for your own children the best part of being a kid or a young person in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "ce8b6d0b-1153-4c96-8e3c-d92bc58db2c4"
+    },
+    {
+      "start_time": 547,
+      "end_time": 577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh. Good park system around here. So there's lots of outdoor activities that we can do a lot of green\nspace. So it's very easy to get to say bike trails, or just park for the lake is over here too. So that's\ngreat. And, you know, lots of lots of kids in this area, lots of families. So there's a lot of people to play\nwith good school system."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "edd4d774-c099-427c-8f48-a11985e95de6"
+    },
+    {
+      "start_time": 577,
+      "end_time": 588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you feel that traditional way of life, whatever that sort of means to you in this community is going away?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "db05760c-517a-4896-b0d1-0ac2d7566d5c"
+    },
+    {
+      "start_time": 588,
+      "end_time": 604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have a much more transitory population than what used to be the case. So yes, a little bit. There's a lot of people that move here for a little bit for a job and then leave whereas that was not the case in the 80s. So yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "ba36cda5-e9b3-47fa-8bc6-46c8d99b5cc8"
+    },
+    {
+      "start_time": 604,
+      "end_time": 614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, on a personal level, I apologize for this next question, because I think it's a contentious topic in [COMMUNITY IN NORTH TEXAS]. But what is your favorite sports team and how they've been doing lately?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "45a7e0ec-908e-45ff-beb1-ad7b5e910c1b"
+    },
+    {
+      "start_time": 614,
+      "end_time": 625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, well, cowboys, you know that they have been doing successfully during the regular season and then disappointing during the postseason."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "e16fe12a-2122-49fe-a72b-985cbb20a1f6"
+    },
+    {
+      "start_time": 625,
+      "end_time": 632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2-3 record and then getting knocked out in the wild card round, if I recall."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a6b8d80f-4163-4cdf-98d9-38a6876efdcd"
+    },
+    {
+      "start_time": 632,
+      "end_time": 646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, knocked out in the first round of the playoffs this year against the packers who they were favored to be came in as the second seed and they were asked to I forget if the Packers were a seven or an eight seed, but the low very low seed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "6741795a-2648-46fb-a604-4c1b4b1a4731"
+    },
+    {
+      "start_time": 646,
+      "end_time": 649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "on just on a personal level, it's, it's painful to be a Cowboys fan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "9ad89298-0c51-41a3-b0b0-f1af23b3e63b"
+    },
+    {
+      "start_time": 649,
+      "end_time": 652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, it is true."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "4ce352bf-3d15-4b9c-adf5-a078fc10b940"
+    },
+    {
+      "start_time": 652,
+      "end_time": 659,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. What chores do you do? Did you do when you were younger? And what chores do you sort of do now as an adult?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "afc35640-7f14-4163-b63d-20c644166ee2"
+    },
+    {
+      "start_time": 659,
+      "end_time": 719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "when I was younger, do a lot more in terms of yard work? Now that I'm an adult, I pay people to do that, for the most part, especially during the summer perks do a little bit. Yeah. And now I do more domestic stuff, a lot of dishes, do, do almost all the cooking. And, you know, do my own laundry. What is the worst chore? Think the sort of regular house maintenance things that you have to do that you don't think about that you got to want to do once every six months a year or so. And it because it's just something that you don't have a lot of practice doing. So a good example might be lubricating your garage door. You know, it's just I hate doing that because it smells bad. And you know, don't just don't do it very often."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "42c54860-7bf4-4694-bd5b-a3838c9241d8"
+    },
+    {
+      "start_time": 719,
+      "end_time": 722,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What chore do you really not mind as much?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "e2195e33-c606-487a-aa01-ea97d08db06c"
+    },
+    {
+      "start_time": 722,
+      "end_time": 725,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't really mind doing the dishes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "c459a66a-d142-4999-9495-bdcc02b8a3d6"
+    },
+    {
+      "start_time": 725,
+      "end_time": 729,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you ever get caught pretending to do a chore but not really doing it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "5fedca80-9e86-486b-9afa-e08dde0f16f5"
+    },
+    {
+      "start_time": 729,
+      "end_time": 733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No absolutely not."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "6460dde0-dde5-40b7-a231-e35215637020"
+    },
+    {
+      "start_time": 733,
+      "end_time": 744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever tell a story about another person thinking the other person was not near you? And then you turned around and saw that person was standing right behind you? This is an odd questions like a movie question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "5df22804-a1f2-47e6-a45b-6d1d0e13a8a3"
+    },
+    {
+      "start_time": 744,
+      "end_time": 765,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, that's probably happened to me before but not in such a way that I recall it. So if it did happen, it wasn't so traumatic. You know that it made a memory on me. But I'm sure at some point, I mean, it happens. But I don't specifically remember anything like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "0a40cd2e-c6f4-4493-bc6d-9219d09595d1"
+    },
+    {
+      "start_time": 765,
+      "end_time": 786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is kind of another sort of odd question to evaluate, like, social ideas. But do you think it's hard for boys and girls to be friends? Yes. Then a lot of people think of the 1990s as the golden decade of pop music. Do you agree? And if you don't, what do you think is the golden age of pop music?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "5a94d333-c0b9-4ab3-89ee-27838d45dc9b"
+    },
+    {
+      "start_time": 786,
+      "end_time": 813,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I do not agree. No. Probably the 1980s I would say maybe the 1970s. Because if you listened to like, rap, or hip hop these days is all based on music from that era, samples and whatnot. And so it's just a recycling of that, that stuff. And even today, there's a lot of interpolation with modern pop music from music from that era."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "6bfd187f-1c8f-4f36-9a31-35c5c468c8af"
+    },
+    {
+      "start_time": 813,
+      "end_time": 822,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I completely agree I did an 80s peloton run this morning, and I think that's probably a testament."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "9f2ba52a-c3bc-44b5-b721-e4fc859e7ef3"
+    },
+    {
+      "start_time": 822,
+      "end_time": 826,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "90s this is fine, I guess, but it's not the cool era."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "2a1b1b77-69cb-4fd1-b553-ef25a1a3ff09"
+    },
+    {
+      "start_time": 826,
+      "end_time": 868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. All right. Thank you so much for all your answers. And I really appreciate you taking the time to talk with me if you have time. Just one last request before we conclude our interview. One of our overarching research questions through the home to Texas program is about the linguistic changes in Texas as part of this project, a linguistic researcher is asking that the interview participants read a brief passage which only should take a couple of minutes. It's a short made up story about life in Texas that was created in the 1980s. And since then, linguistic researchers have recorded a few 100 Texans reading it. They use these recordings as samples of people standard way of speaking as they try to track how speech in Texas varies across regions and changes over time. Would you be willing to read a brief passage out loud? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "8fab8210-69cf-419c-8724-980aaa41481d"
+    },
+    {
+      "start_time": 868,
+      "end_time": 869,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "bf47f484-c0ef-49f6-beb0-52e68034071c"
+    },
+    {
+      "start_time": 869,
+      "end_time": 879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. So I'm gonna hand this over to you take it as slow or as fast as you want. [SOUNDS OF MOVING AROUNd]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "5511ec7b-5fc6-43f4-9a58-bf2f44c57d5c"
+    },
+    {
+      "start_time": 879,
+      "end_time": 996,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. I've lived in Texas all my life. I was born in Titus County, and when I was five, we moved to a farm near White House, which is southeast of Tyler. I like growing up in the country. When my chores were done, I'd ride my horse, climb trees or hike down to the creek to fish or swim. One time we tied a rope to a limb Most of us cypress tree, and we'd swing out wide over the swimming hole and drop in the water and pretend to be Tarzan swinging on a vine in the spring and fly kites and on summer nights we catch fireflies, but we call them lightning bugs. Once in a while we'd have fights with corn cobs or pine cones. In the winter we build a fire in the fireplace and pop popcorn and Rose peanuts and pecans. I guess I was a Livewire. When I was 19 I went to work in Dallas at a Firestone Tire store. I didn't like city life, and for a long time I go home every chance I got. Mama would always cook my favorite foods fried okra hoppin john, that's rice and black eyed peas and pecan pie. We had lots of good times, but we're but going home is not the same now. After daddy died, Mama sold the farm and moved to Tyler. I'd rather be living on a farm right now instead of here in the city. But my wife and kids don't understand me when I grabbed that that city life and talk about moving to the country. My oldest child says, \"Daddy, that's crazy. I just die if I had to live on a farm.\" I almost cried the first time she said that. I know Texas is changing, but I try to make sure we don't lose touch with our roots. While we may live in a city, I want my kids to have a good feeling for the land, have a sense of place and take pride in being Texans. If they lose our ties to the land, the price of progress is too high."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "89aa309a-b1f6-46ef-8cb9-bf8b84990127"
+    },
+    {
+      "start_time": 996,
+      "end_time": 1010,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right, thank you for contributing your voice to the collection. And thank you so much for taking the time to share your experiences with me. I really appreciate your time and generosity. If you have any other questions or comments. I'll go ahead and stop the recording now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "e00698ce-2b18-4816-9479-ea446d5acc1e"
+    }
+  ],
   "set": "Default",
   "event_id": "6405a141-2838-4a18-b9b9-cb70ff958746",
   "source_id": "68e4544a-b8bf-4d71-9ffc-2bd40c8bf671"
