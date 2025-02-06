@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "163aa5f7-5a91-4987-96b3-b19a519a81b0": {
+      "label": "Language_Arlington_1_CK_07212024",
+      "is_offline": false,
+      "file_url": "https://ia800107.us.archive.org/2/items/ck-07212024-1/CK_07212024_1.m4a",
+      "duration": 3222,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Arlington_1_CK_07212024",
+  "created_at": "2025-02-06T21:52:19.130Z",
+  "created_by": "JennSmith26",
+  "updated_at": "2025-02-06T21:52:19.130Z",
+  "updated_by": "JennSmith26"
+}
