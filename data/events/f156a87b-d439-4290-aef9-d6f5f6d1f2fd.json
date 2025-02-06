@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "05a6e9b0-46e6-471c-a00a-6b41e406e7f9": {
+      "label": "Language_Amarillo_AS_07142024",
+      "is_offline": false,
+      "file_url": "https://ia803403.us.archive.org/21/items/as-07142024/AS_07142024.m4a",
+      "duration": 2292,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Amarillo_AS_07142024",
+  "created_at": "2025-02-06T21:39:40.557Z",
+  "created_by": "JennSmith26",
+  "updated_at": "2025-02-06T21:39:40.557Z",
+  "updated_by": "JennSmith26"
+}
