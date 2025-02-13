@@ -1,5 +1,3492 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, so this is [INTERVIEWER'S NAME] from [COMMUNITY NAME]. Today is June 17th, and I'm\nhere in [COMMUNITY NAME] for an interview with one of our community members. And before we\nbegin, I'd like to get a verbal consent for the form that we went over. Could you please say \"I consent to\nbeing interviewed and audio recorded for this study?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "85b60bcb-0536-4770-a142-f6b0b6416469"
+    },
+    {
+      "start_time": 19,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I consent to be interviewed and audio recorded for this study."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "01187743-6865-4c30-a877-11a4322980a7"
+    },
+    {
+      "start_time": 23,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excellent. And we're just going to jump right in. So to get started, can you tell me about how you came\nto live in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "98e04d18-6b1d-4b46-8c18-9bf4e86dbf0f"
+    },
+    {
+      "start_time": 29,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born and raised in this community. I went to school from first through 12th grade. Do you need\nanything other than that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "e97a47a2-7139-488d-af51-f3113fdea5d6"
+    },
+    {
+      "start_time": 40,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "29a84534-528c-4109-a6a4-5a624db52709"
+    },
+    {
+      "start_time": 40,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I still live in this community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "16172656-a11e-4c33-9cfb-b0556e98c17e"
+    },
+    {
+      "start_time": 42,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That sounds great."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "03c37533-2a26-4358-840a-8f56060fb814"
+    },
+    {
+      "start_time": 43,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "426ebdfa-01cf-4093-bef0-3cc34857ec24"
+    },
+    {
+      "start_time": 44,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And could you tell me a little bit more about the community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "7c3434f6-c682-44ca-8922-5e1e5113d2d3"
+    },
+    {
+      "start_time": 47,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Back then? Now is good- Or now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "efcb1bb4-a528-4698-b121-7dd6a54578f7"
+    },
+    {
+      "start_time": 49,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whatever perspective you have on it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "ac0d304a-dfdd-4b0d-b118-c5a92b32637e"
+    },
+    {
+      "start_time": 52,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a small town when I first, when I was born and when I went to school. The kind that you ride\nyour bicycle to school, because it's not very far away. I enjoyed it being a small town, you knew\neverybody in our went to church with everybody in this town in one way or another. You'd either grown\nup with them, knew brothers andor sisters, that sort of thing. I wouldn't trade that experience for\nanything about growing up in a small town."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "3fdd0c9e-967b-4189-84fb-0fb9d6072ae0"
+    },
+    {
+      "start_time": 81,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That all sounds great. I'm sure you miss it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "30db6c91-8fa0-421a-b65c-6bc0c5922325"
+    },
+    {
+      "start_time": 83,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "21499d5e-b771-4baa-a3e7-82598f58a0c7"
+    },
+    {
+      "start_time": 84,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It sounds so pleasant."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "883fa85c-05f5-4976-8bc4-306ffeb6b80b"
+    },
+    {
+      "start_time": 85,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is nice having a grocery store. Back then we did have a grocery store, but not for everything, you\nknow. But for most of everything, you you could get it here. You had a train that ran through the center\nof downtown all the time, and which I lived in the center of downtown, and you wake up to the trains in\nthe morning and don't even know if you, they even run here anymore. But my dad was the town\nplumber, and my mother worked for the school in the cafeteria. So everything was [COMMUNITY\nNAME] here"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "261ef847-d59d-4577-bb4b-d48d6d0da195"
+    },
+    {
+      "start_time": 122,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That sounds so interesting to me, and you explained it so well. Is there a specific way that you would\ndescribe [COMMUNITY NAME] to someone who doesn't live here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "87e88222-27b5-4d3f-9d9a-71b884953b9c"
+    },
+    {
+      "start_time": 132,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Back then, it was a secret to Downtown. I, I did not re-, I, I really didn't discuss [COMMUNITY NAME]\nbefore I, I worked [DIFFERENT NORTH TEXAS REGION COMMUNITY NAME], uh, for an attorney for,\nuh, insurance for years. Six years anyway, and then I had my daughter, uh, but I, I wouldn't. A-and\nrepeat the question again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "9ce04d58-6190-4b5a-a97d-a64f874d4b0b"
+    },
+    {
+      "start_time": 158,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, of course"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "fd566ca7-4c6a-4aca-a5b7-fc3033f2ed60"
+    },
+    {
+      "start_time": 159,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Exactly what you said."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "69a629d4-b3ce-42bc-8935-63e8ebdd311d"
+    },
+    {
+      "start_time": 161,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is there a way that you would describe [COMMUNITY NAME] to someone who doesn't live here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "8343aa5d-5ec8-4575-8f35-7ac8759008fb"
+    },
+    {
+      "start_time": 164,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the reason I say secret is because you're young, I own my first car. It was a cute little red sports\ncar. I took it to the very top of [STREET NAME] here. At the time, we did not have the light that is there\nnow, it was farmland and things that direction. But the massive hill went down, and all you could see\nwere the mountains around here. And I, I'm, I'm used to that, I grew up here. Uh, I didn't think anything\nabout it. I took my picture to work, put it on my desk, and everybody that came by said \"you've been to\nColorado\"? And I said, no, that's [COMMUNITY NAME]. No, there's nothing like that in [COMMUNITY\nNAME]. And I said \"yes there is, you should get out more often.\" And driving through like the [STREET\nNAME], which is still that way, with tree canopies close over the road as you're driving through them.\nThat's my calming drive. I do that occasionally just a calm, you know, a nice, cool, calm drive. And I still\ndo that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "6f656ca8-9722-4640-a474-2e756ce25703"
+    },
+    {
+      "start_time": 242,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To this day? wow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "7a3f2419-0bdd-4361-a829-be240b10b0ce"
+    },
+    {
+      "start_time": 242,
+      "end_time": 244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, to this day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "cf9fc72c-7a55-474e-835d-26918e5052db"
+    },
+    {
+      "start_time": 244,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can imagine how relaxing that, that would feel. And you've already touched on this a little bit, but how\ndo you think [COMMUNITY NAME] has changed throughout your time living here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "f9dda6e8-6b12-44f9-8a0a-9e0af8dba6bd"
+    },
+    {
+      "start_time": 253,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, in about 1987, people discovered us. Uh, people wanted this and wanted their families, um, to\ngrow up here too. And we began to grow. Um, but at that time, there was one elementary school and\none high school and one junior high. But there weren't very many kids, there were about, when I was in\nfirst grade, I would say there were 200 kids in all of school-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "7532f6cf-98d1-4236-b66f-3c94effd9e02"
+    },
+    {
+      "start_time": 287,
+      "end_time": 288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "1fc51a1d-1aaf-44fe-bcf0-e6510e5b37e5"
+    },
+    {
+      "start_time": 288,
+      "end_time": 481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "-here. There weren't a lot of kids. And of course now in 93, I think my daughter, I don't know, I don't\neven remember how many but 1000 or so maybe, you know, and she's almost 50 years old. So it's, it's\ngrown immensely since then, and everything has grown. Your, your wheat and corn fields have\ndisappeared and houses and businesses and things have popped up. The only town we had was here,\nthe original old downtown, which is just a town square, the main highway used to come through there,\nthere were no highways anywhere, um, and it went down [STREET NAME] used to be the highway\nhere. So it's, it's a very different, then they opened [HIGHWAY NAME]. And there were a little bit on it,\nbut not much, mainly a gas station, little place to eat, little insurance company, family, all of them family\nkind of places. And, uh, but that part of it seems to have grown immensely, you know, the population\ngrew. But from 1987, um, is about the time that it started. And I don't think any of us, you had in, uh, for\ninstance, in the City Hall that we had was downtown. It had the Fire Department with what vehicles we\nhave in it. It had the Tax Office, it had the Water Department, it had Finance, it had Public Works. It\nhad, not a Police Department, but a County Office there. Uh, it had the City Manager's little office, the\ncouncil room was in it. Every, we really didn't have Code back then, you know, they were getting that\nand they had to because of all the building that was beginning. You had to come up with code. I\nactually have my parents had a summer house in the lake, and they still didn't have codes there. So\nyou ended up having this beautiful palatial house and right beside it, there was a tire company, you\nknow, um, we had the foresight, I assume back then, to think of those things first, and otherwise, it\nmight have been very different than it is now. But that was town, there was nothing else. There was\nnothing else. The high school going in on [HIGHWAY NAME], in 1961. I'm part of a reunion group here.\nAnd it went it was built in 61. And there was like a few things then that went a little further down\n[HIGHWAY NAME], like a Freez-ett, which is a Dairy Queen, nowadays, those kinds of things, but\nmainly still just homes. And that's the only homes there were, was just in that small area that was\naround town."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "fa07b626-f78c-40f6-8c25-cae39e61a9db"
+    },
+    {
+      "start_time": 481,
+      "end_time": 483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's very, it's so hard for me to picture, you know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "7a708d5c-d82b-49d7-a614-90cf1a33596a"
+    },
+    {
+      "start_time": 483,
+      "end_time": 488,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "t's very different. It's so different. So different now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "44bda46b-fd19-4f12-9c0f-9b3433eea646"
+    },
+    {
+      "start_time": 488,
+      "end_time": 492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mmensely different. And it's still growing, you see construction everywhere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "2c1364a4-a69a-472b-b5d1-4071385491c9"
+    },
+    {
+      "start_time": 492,
+      "end_time": 494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yes. And there's no more cornfields-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "716cb216-0fbd-4dcf-b617-23d13548dbab"
+    },
+    {
+      "start_time": 494,
+      "end_time": 494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "80c880ca-389d-4aac-bc73-f4cbcdaf2593"
+    },
+    {
+      "start_time": 494,
+      "end_time": 522,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "-there's no more wheat, there's no more, uh, there's just houses and a lake now that went in in 84,\n1984. Then the lake went in. So, and that's been a draw for a lot of people. \"Oh, they have a lake, I\nthink I'll move there.\" You know? So there's a lot of draw out here to this part. It still looks country. But\nit's not exactly country anymore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "c211b862-0ed6-408f-893a-67cc99946eee"
+    },
+    {
+      "start_time": 522,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You explained it so well. Wow. It's, it's just changed so much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "c0099d6d-d2a8-4ef3-93c2-b35419ac910d"
+    },
+    {
+      "start_time": 526,
+      "end_time": 574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's, it's changed 100% since when I grew up. The one thing I'll say that, you could ride your bicycle\nthrough town when I was very young, but you could ride your bicycle, you needed a drink of water, you\ncould stop at Aunt so and so's house, not my aunt, but somebody's, and they give you drink water.\nAlso, if you did anything wrong, by the time you got home, your parents had already heard about it\nbecause all these people had called and said \"Oh, so and so I was throwing rocks\" and blah, blah, blah,\nyou know, something like that. Not me, but, I was a good kid. I was a good student. But, uh, you know,\neverybody knows everybody."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "4de6c936-f5c5-42d6-b45b-97fe5897db53"
+    },
+    {
+      "start_time": 574,
+      "end_time": 580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what would you say are some strengths of [COMMUNITY NAME]?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a56e2b1b-3006-4096-9d18-f2fe220b338b"
+    },
+    {
+      "start_time": 580,
+      "end_time": 790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I really, I really think that the city itself has hired and thought about the right people. We would have\nnever thought about having an Economic Development Department until all the businesses became\ninterested, as [COMMUNITY NAME] blossomed, and Economic Development is, at one time or\nanother, I was a Secretary for every department in the Government Center because they were all in the\nGovernment Center. So when ED, they started in there in the Government Center had everybody had a\ncloset or something for an office. And so you were familiar with what they were there the reason for\nbeing here, the concerns that they had about choosing the proper businesses for us. And I think along\nthe reason [COMMUNITY NAME] has grown as much if not more than the cities around here is they put\neverything in line as they needed it. And they had the knowledge and the information. And if they didn't\nhave it, they, they looked for it, uh, out to other cities that were about our size that were having this kind\nof growth spurt, you know, it wasn't just as deciding, if they took their information to and said \"Hmm,\nokay, maybe we need to think about different things.\" And Fire, Fire and Police are definitely going to\nhave to be beefed up when you start having more people. And so, that's another thing that always got\nhandled, was Fire and Police has to be be-beefed up. So they were always a concern. Of course you, I\nused to answer the phone all the time and somebody will say \"Can you send the Street Department out\nto so and so and so and so?\" And I said, \"Ma'am, we have two people in the Street Department. Uh, I, I\ndoubt if those two people are going to be able, maybe I can get in touch with some of them to get in\ntouch with you and see what the issues are that you're having, and they can advise you.\" But you know,\nit's not that we have a lot of people that work for us. Uh, but the city is always here to answer your\nquestions, but, uh, we don't have the people. People wanted to know where our snow shovels were,\nyou know, when it snows, which it snows here, it usually doesn't snow even in a year. It might, but it\ndoesn't. So no, we don't have snow shovels. We use bulldozers because that's all we got is that. We\ncan use them for other things. Otherwise, that snow mach-machine would be sitting on the corner over\nthere. Bu, uh, yes, we have, they had the peace of mind and the, the knowledge to see, these are\nmachines that, these are what we need to purchase, because they can not only be, have to be used by\nstreet, our Parks Department could use those, you know. Occasionally some of the other departments\nmight need something that we could use that machine for. So it was a share. Everything got shared,\nand I guess it still does, I don't know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b406d013-bf0a-415d-a621-4475692d3e5a"
+    },
+    {
+      "start_time": 790,
+      "end_time": 796,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. And I was, I was able to learn a little bit about the ED Department the other day here. They have\na very important job."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a7dd214c-2d8f-4027-a1b6-1cf08ebb8c32"
+    },
+    {
+      "start_time": 796,
+      "end_time": 838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had a, we had an, uh, an gentleman that had been a director, an ED director, other places when he\ncame. His name was [DIRECTOR'S NAME], and he was perfect for us because he, he was concerned\nwith, we have a lot of old businesses that have been here a long time. And he was still interested in the\nold businesses, as well as what's new, and what do we need. You know, we may not need this type of\nbusiness here, but then we might need this business here. And that, that takes a lot of forethought to\nfigure that out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "daf33a13-a1d6-4eb4-b13c-af7e88cb815c"
+    },
+    {
+      "start_time": 838,
+      "end_time": 844,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, and that's also a very good perspective to have because then people in the city can kind of get the\nbest of both worlds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "fa4e0b7c-2858-480b-a213-d0297ff85709"
+    },
+    {
+      "start_time": 844,
+      "end_time": 845,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "928f788c-1529-46b6-a669-cd34747dbb93"
+    },
+    {
+      "start_time": 845,
+      "end_time": 853,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, and what would you say are some weaknesses of the community if there are any, in your\nopinion?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "fe9eb92f-9794-43eb-b73c-975454c73b11"
+    },
+    {
+      "start_time": 853,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I really don't, I really don't know of a weakness because if there ever has been, it's always been\naddressed. Even if it's a temporary weakness. It's always been addressed. Uh, many years ago, we\nused to dispatch some of the departments from the front of the City Hall. We dispatched Animal Control\nand, and things that couldn't be housed up there. They had a different place, but I, I don't really think\nthat there was ever a weakness. Uh, occasionally I will say, for any instance, you may have to call\nParks or something to help, we had one Animal Control Officer to begin with, all of that grows, and\nwhen you start having more people, you've got more need there. Occasionally we had to pull in Parks\nor somebody from Parks to come help us to do that for the day or something, not saying they wanted\nto, but they, you know, you had to have somebody to assist. Uh, and, and it was all, that it was all taken\nwell, back then. Nobody, nobody griped about it, because you knew it, they wouldn't have called you, if\nit hadn't been a nec-necessity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "69b5fefd-d293-4979-9e7b-8646c29114a5"
+    },
+    {
+      "start_time": 937,
+      "end_time": 947,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm glad that all problems were able to be figured out. I feel like a lot of cities can't say that they, that\nthey do that, you know? So it's really great that it was hard for you to think of a weakness, I think that's\na very-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "5c59d4cc-b278-4b42-b841-e233098ff4de"
+    },
+    {
+      "start_time": 947,
+      "end_time": 979,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Weakness, but you know, there's things that have to wait. I mean, there was, there's always, yes,\nthere's roads that run down quicker than they should, or quicker than you ever expected them to. And\nwe just, you have to live with a promise, you know, \"We're, we're getting to that it's on our list to do, and\nit's, it's on our priority, and we've got a priority list, and that's what, we're going to we're going to work\non that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "3f057035-e0b7-4500-90a0-c0514f30b0e7"
+    },
+    {
+      "start_time": 979,
+      "end_time": 986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And can you tell me about the roles and relationships that you have in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "b10030f4-be6c-4d1e-8c7a-6d247f98cec9"
+    },
+    {
+      "start_time": 986,
+      "end_time": 1072,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm part of a reunion group, from people that graduated from 1931 to 1981. Yes, people in 1931 for the\nmost part are gone. Uh, I have a lot of things in my family now that take up my time, that take me away\nfrom that, but I've been a part of it for a long time. And they still ask me occasionally certain things if I\ncan do and I will. But, uh, I was a part of, uh, a member of a church. I sang in choir I, uh, I worked. I\nworked and volunteered anything to do here. Uh, I always lived close to the city hall, so if it's a snow\nday or an ice day, if I couldn't get here, somebody came and got me because I just live six minutes\naway, you know. I don't live in another city. There are, to begin with most of us did live in this city. And\nof course, now that's, that's probably not the, I don't know, but I would imagine that's not the case\nanymore. Firemen and Police, uh, don't particularly live in what city they work for. But..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "0f8544bb-eb50-46c3-b646-9f1da8d7a0fc"
+    },
+    {
+      "start_time": 1072,
+      "end_time": 1082,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And while we're on the topic of your roles in the community, I know that you are, uh, I know that you've\nleft working, but can you tell me a little bit more about what you did when you were working here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "6810f9ff-c066-47f3-89b2-8860fe068a4c"
+    },
+    {
+      "start_time": 1082,
+      "end_time": 1326,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was an Executive Assistant for the Assistant City Manager, was my major role for 25 years. Uh, that\ncould have been anything. It could have been, I knew about the city because I was born and raised\nhere. So I think I was an advocate for the city. And what happened before, my boss used to say, come\nto me occasionally, because he's wasn't from here. Uh, he was from [DIFFERENT NORTH TEXAS\nREGION COMMUNITY NAME], and he would say \"So in the olden days\", and I would say, \"Are you\ncalling me old?\", and he goes, \"No, in the days before I got here, you know, how did so and so, how did\nthis happen? Or how did you, how did y'all handle this?\" I felt like sometimes when we were small city\nhall, I answered a lot of the, the day to day needs that people had. I was, my extension was 1010, I was\nthat person that had been here all their life, and if you want to know, if you'll call me, I'll, I'll find out the\nanswer for you. I like people. I, I don't know what I would, if you put me in a room the rest of my life, I\ndo not think I would be happy. I like to visit with people, I like to talk to people I like to see where they're\nfrom, what their concerns are. Sometimes you don't want to hear some of their concerns because\nthere's no way you can make things see or heal like some huge, huge city with a bunch more people\nthan we are. We have to dealing with what our population is and what we can do for our population.\nWe're not 150,000 people. we're more like 50,000. So, uh, you have to constantly remember, you may\nhave came from a larger city here. You may not have everything available to you that you had in a\nlarger city. But it could be coming, and that's a good idea, so you want to keep those things. I used to\nhave a thing written down about strange calls and things you might need and stuff like that, and I kept it\nfor years and I gave it to somebody when I retired up here, I don't know if they continue that. But I\nalways thought it was, uh, for instance. I think it was a second day I was here and I worked in Utility\nBilling. The phone rang, and of course, anything there to do with the phone was always me anyway,\nand I answered the phone, and this lady said, \"Are the Mustang grapes ripe yet?\" I didn't say anything\nfor a second, I said \"Ma'am, you've reached the Water Department for the City of [COMMUNITY\nNAME].\" \"Yes, I know. Are the Mustang grapes ripe yet?\" So I had an older lady, I told you everybody\nworked in that same area. \"Hold on, please.\" I put her on hold. The lady, she's, I had, I went to school\nwith her daughter. She worked in accoun-, she was the accounting person. And I said \"Wilma, I have\nthis lady just asking me are the ripe, what, Mustang grapes ready yet? And she goes \"Yeah, tell them\nthey are, I went by there this morning. They are so.\" \"Yes, ma'am, Mustang grapes are are ready now.\"\nAnd obviously, I didn't know that. They grew on vines. Where the big towers, we have all these huge\ntowers here. Uh, on the outside of the fences, where the towers are, and they allowed people to come\nget them and make jelly out of them. I didn't know that. So then I learned a new thing. You learn\nsomething new every day too when you work somewhere like this, where you talk to different people. I\nlike that though."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "f8869589-bdd8-489e-9132-5108c9d0cda7"
+    },
+    {
+      "start_time": 1326,
+      "end_time": 1334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, I, I love that too, I love learning new things. And that specific situation, would have, I would have told\nthat story over and over again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "cd46cd23-1a35-45cb-9717-20c8a155b344"
+    },
+    {
+      "start_time": 1334,
+      "end_time": 1377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it was my first, and that's one of the reasons I started writing it down in the book. So, you know,\nsome things, I might forget that, probably never, but I might forget that. But I wrote it down, and I wrote\nother things that people, you know, had said. Uh, people would call and say, you know, \"There's a\ndonkey on [HIGHWAY NAME] going south.\" \"Well, thank you very much. I'll find Animal Control.\" You\nknow, there's a donkey on the [HIGHWAY NAME]! And, but it was a small town. And it was fun to, to\nwork in a small town with just a few people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "8c8022e6-5fe4-4fe5-bcf0-58ef087f1726"
+    },
+    {
+      "start_time": 1377,
+      "end_time": 1382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm glad you passed on that notebook. I hope whoever you gave it to still has it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "25940a54-07f3-439e-bd41-9dfec123e630"
+    },
+    {
+      "start_time": 1382,
+      "end_time": 1514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I hope too. I think, uh, [EMPLOYEE'S NAME] here with them. I don't know, I, I had so many people ask\nme strangest things. Uh, worked for the Water Department, person calls me one day and says \"Which,\nwhich costs more, hot or cold water?\" and I said \"Well, eventually hot water is going to cost you more\nbecause you have to have it. You have to, you have a hot water heater in your house and you heat the\nwater, but all the water comes in at the same temperature. So, cold water is all you get and then you,\nyour, your house deals with how to heat it,\" Now, it went on my list, because I thought that's strange\nquestion to ask. But a lot of people live in apartments. They don't have a clue, you know, they have no\nidea how exactly their house really worked. And, uh, I don't know it took me aback. That one, that one\nhit me further than the Mustang grapes then, because my dad was a plumber [LAUGHS]. But, you\nknow, some things were funny, they entertain you when people had questions. And sometimes it was\nsad. Uh, but I wanted to help. I worked here because I liked to help people. If I could help you in any\nway, shape or form, give me the question and if I don't know it, I'll find it out and I'll call you. And that's,\nthat's was my logo tag, whatever it was, that I could do that and I enjoyed doing that. And I still enjoy\ndoing that. Except people still call me and I've been gone 12 years, so I don't know now. Even who is\nover a particular department, you know, things like that, but it's still humorous, as I always say, \"You\nknow, I've been gone 12 years.\" \"Yes, but can you find out?\" \"Sure, I can find out, and I'll call you\nback.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "75fe15a4-f650-4b60-9113-fafd76475c4d"
+    },
+    {
+      "start_time": 1514,
+      "end_time": 1531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's such a good mentality to have, I think it can get you so far in life and give you so many\nconnections. And speaking of connections, how do you think some of your connections in this\ncommunity influenced your work as an Executive Assistant?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "30aee5d4-54f5-4361-8b8d-24b3d56bc3db"
+    },
+    {
+      "start_time": 1531,
+      "end_time": 1632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just think some of the employees, I'm pretty sure they handed out my, my phone number, you know,\nfrom, from the Water Department to whoever else it was in here, uh, \"I don't know, but you might want\nto try 1010.\" You know? And that was okay with me. That was okay with me. Because if you've got to\nhave a place and, you know, I'm, I'm wasn't, I wouldn't say that I was the last, the last person you talk\nto, you know, it may be that I need to give that to the Assistant City Manager, or maybe that's a Mayor\nthing, that the, the Mayor had an office in ours, and it wasn't a, it's not a paid position, it isn't to this day,\nbut he was here a lot, and he answered a lot of questions, and he did a lot of proclamations, and, uh,\nfor certain days and certain people. And they honored people. Uh, I don't know, I really, I enjoyed that. I\ndon't, I had been asked why I I stayed in Administration and didn't go somewhere else, and it's just\nbecause it's something that suited me. It suited me from the time I first started working, because I\nworked for attorneys then. And it, it seemed like it suited me always, so, I felt like I was in the right\nplace. I never felt out of place. So you might as well work for something where you fill in, and you don't\nfeel out of place."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "8224cfab-8a85-49df-9f41-fcd9edae4206"
+    },
+    {
+      "start_time": 1632,
+      "end_time": 1638,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm very glad to hear that. I think that's crucial, uh, when it comes to working, because you don't want to\nbe stuck somewhere you don't want to be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "36aa1eef-5ae6-43c2-857d-0f53d2b56f6f"
+    },
+    {
+      "start_time": 1638,
+      "end_time": 1649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think you'll do a good job if you get stuck somewhere you don't want to be. Uh, it's hard to give\nyour all when you don't enjoy it yourself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "3115cff8-3e9e-413e-ab25-b0e7a98c66b9"
+    },
+    {
+      "start_time": 1649,
+      "end_time": 1657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely, I'm with you on that. It's been so interesting hearing about your job, and I'd like to ask more\nquestions about it. Some of the stuff we've already discussed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "800329c9-c4ef-414c-8457-aa276333eb40"
+    },
+    {
+      "start_time": 1657,
+      "end_time": 1657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "29a21a9b-7c64-4cda-b573-883bf3038cae"
+    },
+    {
+      "start_time": 1657,
+      "end_time": 1667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have already given me the answers, but it'd be great to hear about them again. The first thing I\nwant to ask you is if you could tell me about how you got into the role of an Executive Assistant"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "6a7d946b-c258-4374-afd4-a64260cd439e"
+    },
+    {
+      "start_time": 1667,
+      "end_time": 1756,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, I can't tell you that because I don't know. I, I answered the job. I needed a full time job. I\nworked Downtown. I didn't want to drive back and forth. I had a child that was here in this school. I\nwanted to be able to do things whenever she had programs and things, and this city was always family\nfirst, and I thought \"That's where I want to be.\" The position came up for a part-time person in the\nlibrary. I love reading and library was my favorite. I really wanted to end my job there, but it just didn't\nhappen. But, uh, the library was my favorite, I, just one lady was over the library. And another lady had\nbeen before and that was [EMPLOYEE'S NAME] that this library here is, uh, she and I went to church\ntogether. And I knew her and her daughters were same, uh, one of them was about same age I was so,\nlibrary sounds like a good thing. Small library, one room in the hallway to the Government Center.\nThat's what the library was. One room in the library to the Government Center. Anyway, uh, uh, and I\nforgot what you were asking me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "cc276ea9-8304-4885-81e1-bcb41516fef2"
+    },
+    {
+      "start_time": 1756,
+      "end_time": 1759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I was just saying how, how did you get into the role?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "c20d9cfb-2969-4a15-8b27-f8b6df016d34"
+    },
+    {
+      "start_time": 1759,
+      "end_time": 1889,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, it, and the job came up then. Not in part-time in the Water Department. So, they were in the\nsame building, so I worked part-time in the library and switched to part-time in the Water Department.\nAnd then the next thing I knew, I still worked in the Water Department but we had an Assistant City\nManager, he needed an Assistant. \"[INTERVIEWEE'S NAME], can you be his Assistant?\" \"Sure I can:\"\n\"You stay here in Water and still help with the Water window, but you will be his Assistant.\" And then\nthey changed the building around and things, and I went then straight to the Assist-, we grew. And, uh,\nthey moved, uh, Public Works to a different location, Animal Control was moved to a different location.\nAnd, uh, we still had, a lot of the departments that we were still working for, actually I'm the one that\nalso, if somebody needed desk, or, uh, there, \"We got a new person coming, where are we going to put\nthem? What are we going to, we need a desk.\" And I would go see how big a place we had for them,\nwhat would fit in that place. And then I had a place that I could go and usually find the furniture and be\nhere. That was another thing. I, I was happy with any role that they gave me. Whatever they needed,\nthey knew they could depend on me to find it. But the, the short is they, they were asking for part time\npeople. And I thought, \"This is me and my chance to get my foot in the door. And maybe I will be there\nif there's a full time position that stays, then I will be able to stay and work in this city where my child is.\"\nNow, my parents lived across the street, and where I grew up, so it wasn't far for me to even visit with\nmy child if I wanted to. But, uh, she benefited and I benefited."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "7a8e29b1-afa0-47d8-b1f7-f2281ed0dc5e"
+    },
+    {
+      "start_time": 1889,
+      "end_time": 1897,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm glad to hear that it sounds like you did so much in your time here. And how long did you work here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a3502201-c71f-466a-afbf-fe7aa2b64ef1"
+    },
+    {
+      "start_time": 1897,
+      "end_time": 1917,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "30 years, give or take a couple of months I think. I came in '82 and I retired in 2012. Uh, I will hold\nsomething I was going to tell you for later, because I think you'll ask me that too."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "d2178198-1716-4e81-9c9a-cb62b2cf228c"
+    },
+    {
+      "start_time": 1917,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. We will, we will see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "37187eec-b4fc-4536-9d4f-68409b26b3c2"
+    },
+    {
+      "start_time": 1920,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "69122b7e-d56c-4e34-ac55-ea1eaa62cf90"
+    },
+    {
+      "start_time": 1920,
+      "end_time": 1927,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you've already mentioned that you did so much and that everyday looked different for you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "e8b4ef67-d3d2-4503-91bd-69742a2b9d37"
+    },
+    {
+      "start_time": 1927,
+      "end_time": 1927,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "uh-huh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "93b0e159-3a3f-469d-ab59-456d4dc19412"
+    },
+    {
+      "start_time": 1927,
+      "end_time": 1933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But if you could, how would you describe a typical workday?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "f9380c11-7d15-4956-92e2-261132637e1c"
+    },
+    {
+      "start_time": 1933,
+      "end_time": 2058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was nonstop. As I said, we, the, the, the switchboard didn't switch over to actually, we, we could put\nthing-, I mean things went to an answering system until eight o'clock, and then your phone started\nringing. And your boss's phone usually was on yours as well as on his or their, or hers. And so it was, it\nwas nonstop for me from morning to night and night then sometimes went into other things. Uh, if you\nwere si-, uh, Assistant City Manager, well, he's going to council meetings, so there were things that you\nhad to, uh, stay sometimes and help with them. I, e-, we all paid department bills back then. And I paid,\nuh, I paid bills, and I liked staying after hours because otherwise we were in a cubicle when we moved\ninto this building, and there was always somebody there. The only real quiet time you had to be able to\nmake sure everything is paid, I have this thing, I'm, uh, I'm a detail person. I like detail. My daughter has\njust decided over this last few weeks. Of course, I said she's 50, but she's decided that we are getting\nmore and more and more alike, because I will jump in there with details, she will jump in there will\ndetail, and all of a sudden you're at your wit's end, you know, so, uh, I like detail. I like certain things in\norder. Uh, uh, and I've always liked it that way and order. And go back to what you were asking me\nagain, I forgot"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "f68375b1-07dc-4bf6-bbd0-687790ef7f48"
+    },
+    {
+      "start_time": 2058,
+      "end_time": 2061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I think you answered it pretty well. I was just asking about what a typical workday looked like"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "8205ad02-5485-45f7-b24c-bf2390b21075"
+    },
+    {
+      "start_time": 2061,
+      "end_time": 2201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was, it was hectic. You never knew. You never knew and if there was anything that came up during\nthe day, and it required you to be here a little while longer, you were here longer. The fun thing was this\nbuilding used to backup to property that nobody had ever lived on before. Oh, that's not true, but then I\nknew, before me I'm sure it probably did. Uh, but I would always like to have the last lunch hour\nbecause I wanted everybody to have whatever they wanted to do, go ahead and plan it. I knew that at\none, I could have the last lunch hour. And so I didn't come in until two, one to two. So that made my\nafternoon better a lot of times. But at night, if you were still here at council, or something, and it got late,\nI got the last parking place in the back of the back of the back of the parking lot, and one day, one night,\nthe next morning, I come in and I asked my boss, I said, \"There were these little eyes, looking at me\nfrom the bushes, and I was terrified.\" And he goes, \"Oh, they're foxes. They're the little foxes. And I\nthink there's some new ones that were back there, I see that too.\" And I thought, \"Well, you know, I'll\ntake your word for it, but I'm not really sure I'm happy with the wildlife, you know, that close, and I'm\nsitting there, the only car in the parking lot sometimes in two or three parts. That's it. And so it was kind\nof scary [LAUGHS]. But the days were long, and if they were short, that was a blessing. If you had to be\ngone, there was always somebody that could do it, you know, that would volunteer say \"I'll do it. Don't\nworry, you go-\", you know. My parents were older when I was born, so therefore, by the time I had my\ndaughter, and they, they were a lot more elderly, and I had to speak to them. So there's some things\nthat came up after my work hours sometimes that I had to do, and I was allowed to do that. If it was an\nemergency, there was no problem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "eca1e6c4-8e84-479e-add2-3c3947dc96eb"
+    },
+    {
+      "start_time": 2201,
+      "end_time": 2204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It just, it sounds like a very healthy workplace. And I can see why you-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "dd31660f-5037-4b20-9e1e-2a292d3e55ea"
+    },
+    {
+      "start_time": 2204,
+      "end_time": 2274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My husband said one day when I said something, like I just said to you, he got quiet. And I said,\n\"What's the matter?\" and he said, \"I don't think I've ever worked for a place like that, that I was that\nhappy with who I worked with and what I did.\" So I count myself lucky. I count that. I think I'm, I'm a\nreligious person, I think things guide me. My pathway a little bit, give me a little inkling to go this way or\nthat way, you know, and, uh, that I don't know, I've just, I just, he took me back, I couldn't, I didn't have\nanything to say, but I did feel lucky that I did have something like that. Working downtown was, was,\nwas not my place to be, I was not comfortable there but, uh, I tolerated it very well I think."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "36afad69-2159-4070-8192-83566d527afc"
+    },
+    {
+      "start_time": 2274,
+      "end_time": 2277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think you got lucky too, and I'm very glad that you were able to be in a place like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "4c8d1806-b367-45a0-b455-7ccc8393b111"
+    },
+    {
+      "start_time": 2277,
+      "end_time": 2278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "64d12ac5-25d9-41e3-aab4-59ca033ca445"
+    },
+    {
+      "start_time": 2278,
+      "end_time": 2292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm very happy for you. And what would you say it means to to have been an Executive Assistant in this\ncommunity?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "e606dc45-4bae-4464-83c6-6c640d10558c"
+    },
+    {
+      "start_time": 2292,
+      "end_time": 2492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, I felt that somebody thought I was worthy of it. That it was, as I believed something I was meant to be,\nmeant to do, put on this Earth to do. And, uh, I did not have that opportunity when I worked downtown\nto do that kind of thing, really. So it was, uh, uh, I, I didn't feel like I was, had, I, I had a responsibility,\nbut I don't think I had any more responsibility than anybody else probably had. But, uh, I thought what I\ndid, uh, I'm usually able to handle. If I can't, I'm gonna let you know that I, I won't be able, I can't do\nthat, or I don't feel comfortable doing that. But, uh, that never really ever happened. They allowed me to\nanswer those questions. They allowed me to help those people. They allowed me to do my job. And I\nloved being, the gentleman that was my boss could have been my son. I'd had been a younger,\nyounger mom, but he could have been my son. So that's a whole different kind of relationship. You\nknow? Yes, there's some days I said \"No, no, no, no, no, no, no, no, no, no, no, you can't go there.\nYou've got to be down there in 20 minutes. You can't be anywhere else, you got to be there.\" And\nthere's times that I would call and he was off on his own, and he was doing something he loved and it'll\nwork around, it worked, we worked around that. I remember one time they, I think, he's the Fire Chief,\nhe needed him badly, and the only place that he could get his phone was when he was on the treadmill\nat lunch. You know you got the 'thump, thump, thump, thump, thump, thump', and it's going on, so he\njust couldn't have the, the up there, and the Fire chief called me and said, \"I need, I need your boss. I\nneed him now.\" And I said, \"Well, he, you want him, he's probably up at the treadmill, you know, at the\ngym.\" And he said, \"I don't have time. Can you go get him?\" And I said, \"Sure.\" So, I put everything on\nhold and I went there and I walk in and he's on a treadmill and he does not see me because he's facing\nthe wall. And I, I went whew he could see me and all of a sudden it got his, and he hit the wall like that,\nand I was scared to death. I, Oh Lord. And he said, \"What are you doing here? And I said \"Fire Chief, I\nmean Police Chief needs you really bad!\" [Sighs] All right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "25eee171-90de-41ae-ac55-fc81db9162a3"
+    },
+    {
+      "start_time": 2492,
+      "end_time": 2494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But he ended up okay?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "37bcc205-86a4-4642-92e8-14585998cf00"
+    },
+    {
+      "start_time": 2494,
+      "end_time": 2525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He ended up okay. And he was like, my friend and his family, you know, his family is my family now,\nand he is too and he's fixing to retire. And he's been promoted to City Manager since I left too, so I'm\nglad that he'll have that chance to, although in retirement, I'm busier than I think I ever was up here. So\n[LAUGHS], yeah"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "a7ddf4b0-dc58-49d9-90f9-a69c743dcb9a"
+    },
+    {
+      "start_time": 2525,
+      "end_time": 2533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And thank you so much for sharing these memories with me, I'm enjoying them. What aspects of the\njob brought you the most joy or satisfaction?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "160945a5-65f9-4d82-8e20-50b66790082c"
+    },
+    {
+      "start_time": 2533,
+      "end_time": 2618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "People. Anything to do with people. Uh, new projects, new buildings. I was, I helped pay most of the,\nuh, manage the bills for this building that we built and for the Recreation Center only because they were\nhis projects that, you know, we started. Uh, they really aren't an ED, it was a city needed project. And,\nuh, of course the Rec Center definitely was a, a community project and still is. That's where I came\nfrom when I came to talk to you. But, uh, I, I, I enjoyed helping out and seeing all the things that we\ncould provide, and something that you didn't have to go search for in some other place now, it's here in\nour city. We have shopping centers now, we have Barnes and Noble, I love books, and things like that,\nyou know, that gives me great pride in, in, uh, I spend a lot of time there. So, I, I like seeing that, I like\nseeing what we're able to create. And I had nothing to do with it, but I like seeing what we had to\ncreate"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "8e024776-a127-4382-8052-af4c1a7f4483"
+    },
+    {
+      "start_time": 2618,
+      "end_time": 2624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And on the other hand, what do, what would you say are some of the biggest challenges that you faced\nin your work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "21c4bcc3-3907-40f2-b09e-e4829e8d5535"
+    },
+    {
+      "start_time": 2624,
+      "end_time": 2723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think there are, there are people, and then there are people. Used to people only call this and things\nlike that when they had a need that we couldn't fulfill. If we could put it on a list or what, some people\njust, I think people have changed. And I don't think people particularly want to be satisfied, some\npeople don't want to be satisfied, they just want to be mad. They just want somebody to listen, and I'm\nmore than willing to listen, but, uh, I, I don't think they took everything to the extent that they do now,\nand it makes it hard for people to help you if you don't know what you want, or how we can help you. If\nwe have to get in the, your head and think and figure that out, it's almost impossible. Although, they\nthink you can, but can't, you know. I can think my way, but it might be what you're considering, but I\nthink people have changed and, and, uh, no more small town, no more, uh. No more home-, it's not as\nhomey as it used to be. People aren't as homey as they used to be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "57177284-4f84-404d-a4a9-38498c8cec7a"
+    },
+    {
+      "start_time": 2723,
+      "end_time": 2730,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "agree, it, it must have been kind of hard to see that change, especially being a people person like you\nare."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "f042ce38-3684-4f4c-9a61-2772eb112be8"
+    },
+    {
+      "start_time": 2730,
+      "end_time": 2799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It, it, it's not a rejection thing, it's just that it's something that you've always done. You've always been\nable to ask questions, and you answer them, and they're more than happy to do that, and, you know,\nthey'll, they'll remember you. People to this day will walk up to me, you know, and say \"How are you\ndoing? I haven't seen you in a long, long time!\" And I'll say \"Oh, how are you doing? It's nice to see you.\nBye-bye!\" And then I walk away, and my husband says \"Who is that?\" And I say \"I don't know. I have\nno idea. But I'm sure it's somebody that I have passed.\" And I always used to say, \"I'm so grateful for\nthose people that walk through our lives. What would we do without those people that walk through our\nlives?\" Give us impressions, whether it's good or bad. You're entitled to that. Good or bad. Whatever\nyou feel. I don't know. It's just, I think people have changed. Maybe it's because there's so many-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "5786bacd-cb12-4f1f-959f-d51c4f490fde"
+    },
+    {
+      "start_time": 2799,
+      "end_time": 2800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Clears throat]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "6d81c600-f79e-4d57-b2f0-c1843bf375a7"
+    },
+    {
+      "start_time": 2800,
+      "end_time": 2802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "-people, I don't know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "ec4e84f5-fea9-4000-ae51-5a553978f75b"
+    },
+    {
+      "start_time": 2802,
+      "end_time": 2805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could be, and it's sad that we might not ever be able to figure it out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "684eb984-2a86-41d0-a6a9-ba46481aaadd"
+    },
+    {
+      "start_time": 2805,
+      "end_time": 2807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "025fbe2c-28dc-450d-9164-ef85536bbf6d"
+    },
+    {
+      "start_time": 2807,
+      "end_time": 2813,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You've given such great answers so far. Now, let's talk a little bit more about your experiences as a\nresident of this community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "89534e2a-9405-489a-8f95-1be3f483f501"
+    },
+    {
+      "start_time": 2813,
+      "end_time": 2814,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "68d5bfca-e5af-4884-b44c-4fdb7d111dbf"
+    },
+    {
+      "start_time": 2814,
+      "end_time": 2820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For this first set of questions, I will read a statement to you and I'd like you to indicate the extent of your\nagreement with each one.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "32596c24-515a-4c92-aabe-9a6c01f65097"
+    },
+    {
+      "start_time": 2820,
+      "end_time": 2821,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "a1e37ff2-94c7-4f83-87c3-a4949d0b0ade"
+    },
+    {
+      "start_time": 2821,
+      "end_time": 2831,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll have you give your answer on a scale of one to four, where one is completely disagree, two is\nsomewhat disagree, three is somewhat agree, and four is completely agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "c42009de-34c7-4984-b731-c3ec3f6f7d2e"
+    },
+    {
+      "start_time": 2831,
+      "end_time": 2834,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't have to come up with an answer for agreeing or disagreeing, do I?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "ef23ead3-1a9a-44c6-8979-782470b67460"
+    },
+    {
+      "start_time": 2834,
+      "end_time": 2839,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, if you'd like to come out with a statement, ple-please feel free to, but you can just get the numbers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "5eeb9af1-5553-46fc-9241-69612ccf339d"
+    },
+    {
+      "start_time": 2839,
+      "end_time": 2839,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "9685970c-2e52-4daf-8e37-8edb1de0d806"
+    },
+    {
+      "start_time": 2839,
+      "end_time": 2843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'm more than open to re-reading the instructions if you need them at any point."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "6f8d3254-803d-4e20-a608-68eacdec5222"
+    },
+    {
+      "start_time": 2843,
+      "end_time": 2844,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "e621f074-6b43-4d6c-b31a-863ea268a653"
+    },
+    {
+      "start_time": 2844,
+      "end_time": 2864,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So the first phrase is \"I consider myself to be an American.\" Would you say that's one, completely\ndisagree, two, somewhat disagree, three, somewhat agree, or four, completely agree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "d58539fe-98a6-45b9-8498-7628cff5c80b"
+    },
+    {
+      "start_time": 2864,
+      "end_time": 2865,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Completely agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "166a7f60-2733-4a40-b09e-5358502d4337"
+    },
+    {
+      "start_time": 2865,
+      "end_time": 2872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Using the same scale, how would you read the following statement? \"I consider myself to be a\nTexan.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "af90249a-4a58-4bf8-baba-ad09cc2a9da7"
+    },
+    {
+      "start_time": 2872,
+      "end_time": 2874,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I completely agree. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "96efd31a-f08a-4583-b173-61ae1912d857"
+    },
+    {
+      "start_time": 2874,
+      "end_time": 2892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Completely agree, okay. Which of the following three statements do you agree with\nmost strongly? One, \"I'm American first and Texan second\", two, \"I am Texan first and American\nsecond\", or three, \"Being Texan and American are equally important to me\"?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "6e065bd6-65f7-4066-b0b2-32c577cf094c"
+    },
+    {
+      "start_time": 2892,
+      "end_time": 2896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think I'm an American first and Texan second."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "cbfc7e11-3aac-4c2e-b7ee-d8c48c005c47"
+    },
+    {
+      "start_time": 2896,
+      "end_time": 2907,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Great. So one. And the next phrase is \"To be a true Texan, you must know how to speak English.\"\nWhat would you rate this one using the same scale? And I can repeat the scale if you would like."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "8575b2be-feef-4759-b2e9-37ab5d6e0631"
+    },
+    {
+      "start_time": 2907,
+      "end_time": 2908,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "4d463506-64d6-4c37-8cb7-040632f80438"
+    },
+    {
+      "start_time": 2908,
+      "end_time": 2917,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. And the next phrase is \"In my community, you can do everything you want and get everything\nyou need, even when you don't speak English."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "08c39cb2-7f27-4dc2-a191-f9c2b53d3fda"
+    },
+    {
+      "start_time": 2917,
+      "end_time": 2920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, say that again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "28ec3cfe-b7b7-49cc-bca1-18721603779c"
+    },
+    {
+      "start_time": 2920,
+      "end_time": 2926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course. \"In my community, you can do everything you want and get everything you need, even when\nyou don't speak English."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "91554e35-7452-4eaa-8c72-6280aee6c344"
+    },
+    {
+      "start_time": 2926,
+      "end_time": 2934,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know how that could be completely true anywhere, and I'm gonna give you a for instance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "4674a311-c136-43d9-9236-b1587ad316d4"
+    },
+    {
+      "start_time": 2934,
+      "end_time": 2936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "9045085d-588b-4efe-9c27-d9d6245fc461"
+    },
+    {
+      "start_time": 2936,
+      "end_time": 3034,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Water. I didn't speak Spanish. There was a lady that came in, spoke no English. I felt for her. I looked\nfor a employee. I got a Police Officer up there, and I said \"I need her to understand. This is a water bill,\nshe has to pay this here. If she doesn't pay it, she has no water.\" So, that's what this is. It's an\nimportant bill to pay. And so he took it all in and he took one look at her and says \"No, no dinero, no\nagua.\" And I said \"No, that is not what I meant for her, to her, to know.\" Because she was horrified, just\nat him trying to, you know, he misunderstood what I was trying to get her and definitely what she was\ntrying to, and I felt very sorry for her. I felt like she should be able to live here, and somebody should be\nable to help her understand what that meant. I think that's more true nowadays, that there's more\npeople to help them when you don't speak English. Now, I'd, I'd, uh, I mean, Portuguese or Chinese or,\nis not something that we're particularly equipped for, but the common things with Spanish for sure. I\nthink you, you, this should not be a problem anywhere you live. There's enough people that speak it,\nthat you should be able to have somebody translate for you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "3ecc5009-72cd-4f6b-b816-8b8d434c2e39"
+    },
+    {
+      "start_time": 3034,
+      "end_time": 3035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I totally agree with you. I-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a19de1af-cbdf-429a-ab8b-eb9ef530a591"
+    },
+    {
+      "start_time": 3035,
+      "end_time": 3051,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I don't know where that fits in there, but. Just because you can't speak the language, you should,\nyou should have everything that everybody else does, there should be a way to get you that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b4fb89ba-f66d-4326-b7d8-04d1698408cd"
+    },
+    {
+      "start_time": 3051,
+      "end_time": 3053,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I totally agree with you. Thank you so much for expanding on that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "4b189a91-2be3-4704-9d88-5020e08f83ba"
+    },
+    {
+      "start_time": 3053,
+      "end_time": 3054,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "dc6829a9-670e-433b-ba7e-45d4b9ce4f1e"
+    },
+    {
+      "start_time": 3054,
+      "end_time": 3062,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And finally, \"In my community life has been pretty stable over the last 40 years, things haven't changed\nmuch.\" Do you agree or disagree-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "b80c1126-215e-4803-aa57-6eeb3b73344c"
+    },
+    {
+      "start_time": 3062,
+      "end_time": 3063,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Last four years?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "d3e6c527-01b4-42f8-84f8-281b17a3dbe7"
+    },
+    {
+      "start_time": 3063,
+      "end_time": 3064,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh- 40."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "14debf06-ee87-4844-92e7-92d47894880c"
+    },
+    {
+      "start_time": 3064,
+      "end_time": 3133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "40? Oh, I think everything's changed in 40 years. I can't really tell you exactly what, I think it's just\nbecause you have more people that have more wants, more needs. And, uh, I think, long time ago, we\nwere more satisfied. I, I didn't realize that my parents were poor, but I didn't realize that because most\nall of my friends were the same way. And if they weren't, nobody was treated any different, you know.\nNow, I think, I think everything's a little different. Everything is up there to be talked about, up here to be\ntalked about nothing is like \"Okay, so I got it, you know, I know what I am. But I never even had to think\nabout that, because I wasn't even, nobody ever said it. \"So you don't have money.\" Because most of\nour friends were the same way. That was, there were exclusions, but they never made you feel like you\nwere an exclusion. Today's a little different."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "7d37200e-8c7b-4218-9bf9-e73cb3f05fb1"
+    },
+    {
+      "start_time": 3133,
+      "end_time": 3154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And from everything you've told me I can, I can see those changes as well. But now I'd like to hear from\nyou about the community itself. So, what are some of the things that have changed in this community\nduring the last few decades, and we discussed this a little, but if there's anything else you'd like to\ncontribute."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "40fe7ae3-5920-4236-ac89-e7d50668b24f"
+    },
+    {
+      "start_time": 3154,
+      "end_time": 3201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know. I just know that as you, I, I think the amount of people that you have and the variety of\npeople that you have, everything changes. Nothing's changed, nothing changed stays the same.\nEverything changes. Needs change, uh, uh, type of businesses change. There's a lot of things like that,\nthat change. And actually, you have elderly now that have needs. So there's another change in there.\nThere always were elderly, but it wasn't a, you know, you really weren't, that was accepted, not zeroed\nin on as much as it is now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "e0b9ca39-75b5-4ce4-8a15-5d9da86f6c95"
+    },
+    {
+      "start_time": 3201,
+      "end_time": 3205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And overall, would you say, would you say that this is a good community to live in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "cfc8d35c-9640-4bac-84a0-fe59ec260529"
+    },
+    {
+      "start_time": 3205,
+      "end_time": 3208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a wonderful community to live in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "7fc903f1-310e-42fa-9d1e-f7c78e8eaa06"
+    },
+    {
+      "start_time": 3208,
+      "end_time": 3216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm glad that you say that. What was or is the best part about being a kid or a young person in this\ncommunity?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "4259a68f-ac44-4112-bdfe-90d95394d930"
+    },
+    {
+      "start_time": 3216,
+      "end_time": 3351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Freedom. Freedom to do a lot of things. If they were wrong, somebody explained to you \"That's wrong.\"\nAnd you went \"Oh, okay. I guess I won't do that again then.\" Of course, there's some people that just\nlove confrontation. But for the most part, I, I, I, I, people taught you things. Even if they weren't family,\nyou know, they just neighbors, you learnt from neighbors and things. Uh, I don't think people know their\nneighbors like they used to, and I don't think they have time to, but I think that's what's a matter with\nkids too. They don't, they don't really have that many people in their lives. I'm part of the [COMMUNITY\nGROUP], which is also, they, uh, when they get the system in place, they wanted to encourage, there's\nso many young people that don't have input with older people. Grandparents that live too far away, you\nknow, or something. And so this gives them a chance to maybe read to them or, or something like that,\nand I read to first grade class, and all I can say is wow. There are kids nowadays, this, this little boy or\nsomething wasn't being mistreated, but he felt like he was, you know, and this one little first grader\nlooked at me and she goes \"That's just wrong.\" And I thought [LAUGHS], I think they're smarter than\nthey used to be. They absorb a lot. And I think that's a good thing. I think that's a way of, uh, padding\nthem for the future, because they're not learning the things like I did. Growing up, you learn \"Oh, so that\nfalls off of that tree\", you know. It's somebody else is teaching you something and you're absorbing it,\nand, so it's, it's sort of what goes around comes around, you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "64706333-7fd3-4b67-affe-8592768508ca"
+    },
+    {
+      "start_time": 3351,
+      "end_time": 3360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That kid's story is so sweet, it made me smile. And do you feel that the traditional way of life in this\ncommunity is going away?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "30cd69e7-9ad9-4b70-ac97-b55a16d0d207"
+    },
+    {
+      "start_time": 3360,
+      "end_time": 3389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know what, I don't know, ev-, tradition changes. Sometimes it changes from year to year. Is it the\nsame as it was back, years ago when I was growing up? No. Traditions aren't as important, but I think\nevery family has a tradition of some sort, whether they realize it or not."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b5aeecdd-ca3e-4b43-833e-8cebd9230150"
+    },
+    {
+      "start_time": 3389,
+      "end_time": 3397,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I agree. Definitely. And a bit of a conversation shift, but what is your favorite sports team if you have\none?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "571dc261-f57b-4aef-9b01-cfc658e4766c"
+    },
+    {
+      "start_time": 3397,
+      "end_time": 3398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LOCAL SPORTS TEAM]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "8799e087-aed6-4f7e-9cac-3dcc0df10b7a"
+    },
+    {
+      "start_time": 3398,
+      "end_time": 3398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "83f397dc-dd60-4c36-970a-d81d8ad604f7"
+    },
+    {
+      "start_time": 3398,
+      "end_time": 3407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Texas Rangers, which aren't doing very good. Uh, I like both of those."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "1cdea6d5-0c64-47e5-9625-dfe96fc26d39"
+    },
+    {
+      "start_time": 3407,
+      "end_time": 3415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thanks for sharing. And another conversation change, but did you have to do chores when you were\nyounger?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "2580bf9f-6096-468b-aae6-6685b0fcd08c"
+    },
+    {
+      "start_time": 3415,
+      "end_time": 3416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "449d5f9c-9f28-48f0-a5bd-e556584bf52c"
+    },
+    {
+      "start_time": 3416,
+      "end_time": 3417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "79f1b3ad-6a9e-4ad3-843f-51f1b2967bc5"
+    },
+    {
+      "start_time": 3417,
+      "end_time": 3417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nope."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "ce95691b-3436-42b8-a9cd-545d91436815"
+    },
+    {
+      "start_time": 3417,
+      "end_time": 3418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "ff73df4b-b33d-44a3-822e-9abedfebad8a"
+    },
+    {
+      "start_time": 3418,
+      "end_time": 3491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, my mom didn't like her stuff touched, so, uh, I really didn't. I didn't have to work as a teenager. I got\nto enjoy, I was an only child, I enjoyed my parents. I, you know, s-, oh, I think so much more than now,\npeople, but, I enjoyed my parents and I enjoyed being with them, they enjoyed, you know, being with\nme, and my daddy was a Drill Sergeant in the Army. So when he barked orders, people said, \"Well did\nyou do them?\" I said \"Well, of course I did!\" Sometimes I didn't understand what he was saying, but I\ndid as close as I could. And my mother was, uh, uh, not the tyrant of the group, but she was the one\nthat, she would tell you the way it was. She used to work at a cafeteria, she would take her apron off,\nand go outside and separate the kids if they were fighting, you know, she was that kind of person. Uh,\nand I miss them greatly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "9f5e5f28-7a52-4abf-b0ea-3bc89cc803ef"
+    },
+    {
+      "start_time": 3491,
+      "end_time": 3494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your childhood sounds great, and you speak about it so fondly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "975112b4-db57-4418-8d11-92542d1b0818"
+    },
+    {
+      "start_time": 3494,
+      "end_time": 3499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I do. I love it. It was a good time growing up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "fd5524cf-95bf-4845-9842-6ac018afcb84"
+    },
+    {
+      "start_time": 3499,
+      "end_time": 3506,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some people think that it's hard for boys and girls to be friends. What do you think?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "cf779138-38ed-43ca-be29-1dfbfa10ea43"
+    },
+    {
+      "start_time": 3506,
+      "end_time": 3530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, I always had as many boys as friends as girls. Uh, even when I worked downtown, uh, we all went to\nlunch together or whoever could go to lunch together. I, I've never had a \"I have to have girlfriends or I\nhave to have boyfriends.\" I've had friends."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b019682b-bc4e-47bd-af75-b70f4fd1974e"
+    },
+    {
+      "start_time": 3530,
+      "end_time": 3544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's good. That's a great mentality, and I'm with you on that. Bit of a specific question: did you ever\ntell a story about another person thinking that the person was not near you, but then turn around and\nsaw that the person was standing right next to you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "9c8daa0c-eed3-4761-bbcf-09dba59c56ac"
+    },
+    {
+      "start_time": 3544,
+      "end_time": 3546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, not that I remember."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "5b78bf04-574b-4e33-9027-063d1edd130d"
+    },
+    {
+      "start_time": 3546,
+      "end_time": 3555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very specific. I don't think that's happened to me either. And, a lot of people think of the 1990s as the\ngolden decade of pop music. Do you agree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "4230ffac-8f38-45e7-9430-c32e351fe265"
+    },
+    {
+      "start_time": 3555,
+      "end_time": 3559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, of course not, it was the 60s! Where are y'all coming-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "143f0447-55aa-4a1e-8bf0-51117a54d391"
+    },
+    {
+      "start_time": 3559,
+      "end_time": 3559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "68c33526-5385-4e33-be9b-60b73c9b6ea4"
+    },
+    {
+      "start_time": 3559,
+      "end_time": 3647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "-from? I graduated in '68, I still listen to the 60s. Uh, strange thing, my daughter in law used to listen to\nthat music with her mother. And so we go on a trip, we are boring sometimes, because we'll be\nlistening to the Do-op's and things like that, you know, and my daughter's like \"Please, somebody turn\non country!\", you know, and, uh, but I, I'm, uh, but my daughter oddly enough. She wouldn't, on eight\nhours of a drive back, she put in a, a video, I mean a book that you can listen to with your Bluetooth,\nand she had it on the radio and it was about the sharks, the big ones that they discovered now, or\nwhatever. And I was the only one that was right with her with it. Everybody else was asleep, and I was\natuned, and we figured out something else that perhaps we likec. I hear, when she talks sometimes, I\nhear myself come out of her, and she said \"I do the same thing, sometimes when you talk, I hear it\ncoming out of you. I hear me and you together, I understand now. I understand perfectly after this trip.\"\nSo, we, just look what we found out. You know, after all these years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "2427bb39-f951-4ac2-bc56-85ea3a797c9d"
+    },
+    {
+      "start_time": 3647,
+      "end_time": 3647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That soun-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "fa513580-5ea5-42f0-8e9e-849f3478b70b"
+    },
+    {
+      "start_time": 3647,
+      "end_time": 3654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bigs? I think they're called Bigs, the sharks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "e02c9247-3917-4076-8266-3e0f8de40d8f"
+    },
+    {
+      "start_time": 3654,
+      "end_time": 3657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was so sweet, and I'm sure that meant a lot to her that you were right there with her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "1706ac47-6d86-410f-a152-42ec397ba609"
+    },
+    {
+      "start_time": 3657,
+      "end_time": 3670,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh man, she's like \"Did you catch that? I didn't catch that.\" You know? I said, \"Yeah, you didn't catch\nthat?\" So, we were, it kept us awake anyway, for eight hours while we were driving."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "d438f9c0-0e41-4db8-861d-1c4d2bc74f8d"
+    },
+    {
+      "start_time": 3670,
+      "end_time": 3714,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Great, and thank you so much for sharing, and thank you so much for your answers. I really appreciate\nyou taking the time to talk with me. If you have the time, I have just one last request for you before we\nconclude our interview. One of the overarching research questions through the program is about\nlinguistic changes in Texas, and as part of this project, a linguistic researcher is asking the interview\nparticipants read a brief passage, which should only take a couple of minutes. It's a short made up\nstory about life in Texas that was created in the 1980s. And since then, linguistic researchers have\nrecorded a few 100 Texans reading it. They use these recordings as samples of people's standard way\nof speaking as they try to track how speech in Texas varies and changes over time. This is optional, but\nwould you like to read the passage"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "039ebdbd-95dc-440a-9213-aa36e15cb229"
+    },
+    {
+      "start_time": 3714,
+      "end_time": 3715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not really."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "c684e843-aee2-4a34-a1a0-91dbb286ada9"
+    },
+    {
+      "start_time": 3715,
+      "end_time": 3718,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's no problem. That's no problem at all. But thank you so mu-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "28694014-5968-4916-8903-a1fbcb9cce34"
+    },
+    {
+      "start_time": 3718,
+      "end_time": 3734,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I say that because people used to call here, I thought that I did not have a Texas accent, and people\nwould call here and then they would say \"I just love your Texas accent.\" And I'm like, \"I don't have one!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "21341d75-c559-4c1f-b201-435e0fa388c0"
+    },
+    {
+      "start_time": 3734,
+      "end_time": 3734,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "99f7b4ee-2f29-4416-8003-9460b81bf210"
+    },
+    {
+      "start_time": 3734,
+      "end_time": 3741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I don't, I don't know. Sometimes I think I'm better than it, and sometimes I think I'm worse, so..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "e13edef5-4309-445d-95bf-14d4ee757246"
+    },
+    {
+      "start_time": 3741,
+      "end_time": 3746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's no problem at all! No problem. I just want to thank you once again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "6b060554-3c57-4d3f-a97f-e51257b467df"
+    },
+    {
+      "start_time": 3746,
+      "end_time": 3746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh-huh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "597cffa4-869b-4088-ab1d-4d6574c99d04"
+    },
+    {
+      "start_time": 3746,
+      "end_time": 3752,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "for your participation. Thank you for contributing. Uh, if you don't have any other questions or\ncomments, we'll stop the recording."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "bcf3256e-95f8-4f55-bcbb-440adb816155"
+    },
+    {
+      "start_time": 3752,
+      "end_time": 3755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "d22fb31e-f0b9-42d0-bace-2eb7d00edc0e"
+    }
+  ],
   "set": "Default",
   "event_id": "3b51bb12-1469-45e9-990e-7fd5ef905504",
   "source_id": "168b216b-a3be-4c34-b1f7-ea8bc060a23b"
