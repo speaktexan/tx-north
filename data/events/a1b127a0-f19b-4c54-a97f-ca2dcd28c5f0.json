@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "e986451f-af00-42ac-8615-86eed59e0e6a": {
+      "label": "Language_Fort Worth_CC_07162024",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/cc-07162024/CC_07162024.m4a",
+      "duration": 2190,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Fort Worth_CC_07162024",
+  "created_at": "2025-02-20T18:33:49.027Z",
+  "created_by": "squant18",
+  "updated_at": "2025-02-20T18:33:49.027Z",
+  "updated_by": "squant18"
+}
