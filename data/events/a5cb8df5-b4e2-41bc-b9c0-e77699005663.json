@@ -3,7 +3,7 @@
     "2761ad2b-606c-4e51-9d79-0f231d6df444": {
       "label": "Language_Azle_HL_06252024",
       "is_offline": false,
-      "file_url": "https://ia800809.us.archive.org/35/items/hl-06252024/HL_06252024.mp3",
+      "file_url": "https://archive.org/download/hl-06252024/Language_Azle_HL_06252024.mp3",
       "duration": 1033,
       "caption_set": []
     }
@@ -24,6 +24,9 @@
   "label": "Language_Azle_HL_06252024",
   "created_at": "2025-02-13T14:47:54.101Z",
   "created_by": "JennSmith26",
-  "updated_at": "2025-02-13T14:47:54.101Z",
-  "updated_by": "JennSmith26"
+  "updated_at": "2025-06-16T21:37:33.634Z",
+  "updated_by": "speaktexan",
+  "av_file_order": [
+    "2761ad2b-606c-4e51-9d79-0f231d6df444"
+  ]
 }
