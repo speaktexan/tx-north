@@ -3,7 +3,7 @@
     "163aa5f7-5a91-4987-96b3-b19a519a81b0": {
       "label": "Language_Arlington_1_CK_07212024",
       "is_offline": false,
-      "file_url": "https://ia800107.us.archive.org/2/items/ck-07212024-1/CK_07212024_1.m4a",
+      "file_url": "https://archive.org/download/language-arlington-1-ck-07212024/Language_Arlington_1_CK_07212024.mp3",
       "duration": 3222,
       "caption_set": []
     }
@@ -24,6 +24,9 @@
   "label": "Language_Arlington_1_CK_07212024",
   "created_at": "2025-02-06T21:52:19.130Z",
   "created_by": "JennSmith26",
-  "updated_at": "2025-02-06T21:52:19.130Z",
-  "updated_by": "JennSmith26"
+  "updated_at": "2025-06-16T16:43:46.786Z",
+  "updated_by": "speaktexan",
+  "av_file_order": [
+    "163aa5f7-5a91-4987-96b3-b19a519a81b0"
+  ]
 }
