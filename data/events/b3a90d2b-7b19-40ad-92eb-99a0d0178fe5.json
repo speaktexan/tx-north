@@ -3,7 +3,7 @@
     "09e858c2-3e53-46c6-89ef-5662e19416e7": {
       "label": "Language_Grapevine_JN_07082024",
       "is_offline": false,
-      "file_url": "https://ia800804.us.archive.org/26/items/language-grapevine-jn-07082024/Language_Grapevine_JN_07082024.m4a",
+      "file_url": "https://archive.org/download/language-grapevine-jn-07082024/JN_07082024.mp3",
       "duration": 4077,
       "caption_set": []
     }
@@ -24,6 +24,9 @@
   "label": "Language_Grapevine_JN_07082024",
   "created_at": "2024-12-08T00:10:00.844Z",
   "created_by": "speaktexan",
-  "updated_at": "2024-12-08T00:10:00.844Z",
-  "updated_by": "speaktexan"
+  "updated_at": "2025-06-29T21:01:45.679Z",
+  "updated_by": "squant18",
+  "av_file_order": [
+    "09e858c2-3e53-46c6-89ef-5662e19416e7"
+  ]
 }
