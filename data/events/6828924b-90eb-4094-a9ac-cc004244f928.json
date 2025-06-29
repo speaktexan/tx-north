@@ -3,7 +3,7 @@
     "d68efff1-ece0-42c5-89e5-d6dc37becbec": {
       "label": "Language_Rowlett_SG_06222024",
       "is_offline": false,
-      "file_url": "https://ia600603.us.archive.org/28/items/language-rowlett-sg-6222024/Language_Rowlett_SG_6222024.m4a",
+      "file_url": "https://archive.org/download/language-rowlett-sg-6222024/SG_06222024.mp3",
       "duration": 2698,
       "caption_set": []
     }
@@ -24,6 +24,9 @@
   "label": "Language_Rowlett_SG_06222024",
   "created_at": "2024-12-08T00:14:04.812Z",
   "created_by": "speaktexan",
-  "updated_at": "2024-12-08T00:14:04.812Z",
-  "updated_by": "speaktexan"
+  "updated_at": "2025-06-29T22:15:17.682Z",
+  "updated_by": "squant18",
+  "av_file_order": [
+    "d68efff1-ece0-42c5-89e5-d6dc37becbec"
+  ]
 }
